@@ -20,3 +20,13 @@
 7. The popup shows a search field, and the result page from the authority service underneath. Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. 
 
 <img src="https://github.com/rsimon/immarkus/assets/470971/3010e0d6-45cd-4c27-9924-debff4af2d35" width="640" />
+
+## Summary
+
+Using the __External Authority__ property type allows you to associate an Entity Class with one or more external authority services. You can add multipe authorities per field, and multiple fields per Entity Class. For example:
+- a "Place ID" field associated with TGAZ and DILA place search
+- a "Person ID" field associated with DILA person search
+
+The screenshot below shows how an authority field appears in the annotation view.
+
+<img src="https://github.com/rsimon/immarkus/assets/470971/37e38075-5df6-442f-a1d4-970d80d504d6" width="640" />
