@@ -5,7 +5,7 @@ To annotate something as an entity:
 
 ## Data Model Search Dialog
 
-The dialog provides full-text search over all Enitity Classes in your data model. If you don't enter a search
+The dialog provides full-text search over all Entity Classes in your data model. If you don't enter a search
 query into the search field, the dialog will show the root classes in your model instead. 
 
 <img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 57" src="https://github.com/rsimon/immarkus/assets/470971/16c52991-3c11-47af-b63d-10c26832e58d">
