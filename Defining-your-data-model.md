@@ -21,3 +21,7 @@ Optionally:
 - Add a __description__ that explains how to use this entity class
 
 On the right side of the editor, you will see a preview of how your Entity Class will appear, when used in the annotation interface.
+
+## Entity Class Properties
+
+The purpose of Entity Classes is not just to identify certain things or concepts in your annotations. They also allow you to record specific details of an entity in a structured manner.
