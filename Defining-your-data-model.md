@@ -51,4 +51,4 @@ The following data types are currently available:
 
 ## Data Model Hierarchy
 
-If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes at a root level.  
+If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes, at a root level. Child classes then only need to define properties that are __specific to them.__ 
