@@ -4,6 +4,6 @@ __Work in Progress__
 
 - Data Model
   - Defining your data model
-  - Integrating external authorities
+  - [Integrating external authorities](wiki/Integrating-external-authorities)
 - Annotation
   - [Annotating Entities](wiki/Annotating-Entities)
