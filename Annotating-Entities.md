@@ -10,7 +10,7 @@ query into the search field, the dialog will show the root classes in your model
 
 <img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 57" src="https://github.com/rsimon/immarkus/assets/470971/16c52991-3c11-47af-b63d-10c26832e58d">
 
-In the screenshot above, the data model has a single root class called __Main Object__. Clicking __Main Class__ will navigate down the hierarchy, and show three child classes - __Bridge__, __Wall__ and __Gate__. 
+In the screenshot above, the data model has a single root class called __Main Object__. Click on __Main Object__ to navigate down the hierarchy. In our example this will show three child classes of __Main Object__, called __Bridge__, __Wall__ and __Gate__. 
 
 <img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 43" src="https://github.com/rsimon/immarkus/assets/470971/b79678b0-c647-4f6d-b55c-1acfdd59fba2">
 
