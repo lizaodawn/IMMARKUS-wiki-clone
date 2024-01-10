@@ -34,6 +34,8 @@ Note that the text search field takes into account your current selection.
 
 <img width="620" alt="Bildschirmfoto 2024-01-09 um 12 23 24" src="https://github.com/rsimon/immarkus/assets/470971/88a490ee-30df-4d4e-aaa6-008ec88f3fb3">
 
-To clear the search and the selected Entity Class, click the __X__ icon at the right side of the search field.
+### Clearing the Search
+
+To clear the search and the currently selected Entity Class, click the __X__ icon at the right side of the search field.
 
  
