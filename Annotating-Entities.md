@@ -30,7 +30,7 @@ In case a class has further children, clicking it will make it the new selection
 Note that the text search field takes into account your current selection.
 
 - If there is no current selection, you can search the entire data model. 
-- If you an Entity Class is selected, you will search __only in this branch of the data model__, i.e. across the children of the selected class as well as their children and so on.
+- If an Entity Class is selected, you will search __only in this branch of the data model__, i.e. across the children of the selected class as well as their children and so on.
 
 <img width="620" alt="Bildschirmfoto 2024-01-09 um 12 23 24" src="https://github.com/rsimon/immarkus/assets/470971/88a490ee-30df-4d4e-aaa6-008ec88f3fb3">
 
