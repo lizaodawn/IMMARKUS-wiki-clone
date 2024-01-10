@@ -19,7 +19,7 @@ You will also notice that __Main Object__ has now been picked as your current se
 - Click the __Ok__ button at the bottom of the dialog if you want to tag your entity as a __Main Object__.
 - Or navigate the data model hierarchy further, if you are looking for a specific child of __Main Object__.
 
-In our example, neither __Bridge__, __Wall__, nor __Gate__ have further children. Therefore, clicking one of them will instantly select it and tag your annotation as this entity. The annotation will adopt the selected type's color coding and show it's properties form in the sidebar.
+In our example, neither __Bridge__, __Wall__, nor __Gate__ have further children. Therefore, clicking one of them will instantly select it and tag your annotation as an entity of this class. The annotation will adopt the selected class' color coding and show its properties form in the sidebar.
 
 <img width="1440" alt="Bildschirmfoto 2024-01-09 um 12 22 40" src="https://github.com/rsimon/immarkus/assets/470971/847a66cd-8a6d-4951-a595-ef41b2115441">
 
