@@ -10,10 +10,14 @@ Before you start working with IMMARKUS, you have to define a data model. The dat
 
 Click the __Create Entity Class__ button to create a new class. This will open the Entity Class editor.
 
-<img width="900" alt="Bildschirmfoto 2024-01-10 um 13 38 51" src="https://github.com/rsimon/immarkus/assets/470971/93cd7bc3-4d32-4e8a-9bdb-aedc61ed6f3c">
+<img width="800" alt="Bildschirmfoto 2024-01-10 um 13 38 51" src="https://github.com/rsimon/immarkus/assets/470971/93cd7bc3-4d32-4e8a-9bdb-aedc61ed6f3c">
 
-- Choose a unique identifier for the class (mandatory)
-- Pick a color (this will be for color-coding image annotations later)
+- Choose a __unique identifier__ for the class (mandatory)
+- Pick a __color__ (this will be for color-coding image annotations later)
 
 Optionally:
-- Choose a user-friendly display name for your class
+- Choose a user-friendly __display name__ for your class
+- Pick a __parent entity class__, in case your data model is hierarchical (more below)
+- Add a __description__ that explains how to use this entity class
+
+On the right side of the editor, you will see a preview of how your Entity Class will appear, when used in the annotation interface.
