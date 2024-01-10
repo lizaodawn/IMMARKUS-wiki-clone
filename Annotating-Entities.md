@@ -32,7 +32,7 @@ Note that the text search field takes into account your current selection.
 - If there is no current selection, you can search the entire data model. 
 - If an Entity Class is selected, you will search __only in this branch of the data model__, i.e. across the children of the selected class as well as their children and so on.
 
-<img width="620" alt="Bildschirmfoto 2024-01-09 um 12 23 24" src="https://github.com/rsimon/immarkus/assets/470971/88a490ee-30df-4d4e-aaa6-008ec88f3fb3">
+<img width="680" alt="Bildschirmfoto 2024-01-10 um 20 37 39" src="https://github.com/rsimon/immarkus/assets/470971/8d5dd55f-56b8-48e3-a97b-0565a5d29d62">
 
 ### Clearing the Search
 
