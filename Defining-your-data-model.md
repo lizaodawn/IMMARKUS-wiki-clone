@@ -26,3 +26,12 @@ On the right side of the editor, you will see a preview of how your Entity Class
 
 The purpose of Entity Classes is not just to identify certain things or concepts in your annotations. They also allow you to record specific details about these things or concepts in an efficient way. In order to do this, you can define __Properties__ for your entity class.
 
+- Unfold the __Properties__ section by clicking on it.
+- Click __Add Property__. This will open the Property Editor.
+
+<img width="800" alt="Bildschirmfoto 2024-01-10 um 14 09 17" src="https://github.com/rsimon/immarkus/assets/470971/393fd2c7-f13c-400e-ad72-ee8abd87a010">
+
+Think of properties as metadata fields for the entities you will annotate. For example, if you annotate archaological objects, you may want to record their material.
+
+- Enter a __name__ for the property, such as "Material"
+- Choose a __data type__ for the property. For example, you may want to pre-define a number of options that you can later choose from in the annotation interface. In this case, select __Options__ as the data type, and the values you want to be available as choices. (Don't worry - you can always edit or add values later.)
