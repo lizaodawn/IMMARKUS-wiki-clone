@@ -48,3 +48,7 @@ The following data types are currently available:
 - __URI__ - a text field which validates whether the content is a URI, and which appear clickable in the interface
 - __Geo-Coordinate__ - a latitude/longitude coordinate pair
 - __External Authority__ - see our [guide for integrating external authority sources](wiki/Integrating-external-authorities) into your data model
+
+### Property Hierarchy
+
+If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes at a root level.  
