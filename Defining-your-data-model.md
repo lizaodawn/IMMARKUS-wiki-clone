@@ -24,4 +24,5 @@ On the right side of the editor, you will see a preview of how your Entity Class
 
 ## Entity Class Properties
 
-The purpose of Entity Classes is not just to identify certain things or concepts in your annotations. They also allow you to record specific details of an entity in a structured manner.
+The purpose of Entity Classes is not just to identify certain things or concepts in your annotations. They also allow you to record specific details about these things or concepts in an efficient way. In order to do this, you can define __Properties__ for your entity class.
+
