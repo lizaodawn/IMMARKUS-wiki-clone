@@ -16,7 +16,7 @@ In the screenshot above, the data model has a single root class called __Main Ob
 
 You will also notice that __Main Object__ has now been picked as your current selection. This is indicated by the brown __Main Object__ label next to the search field. 
 
-- Click the __Ok__ button at the bottom of the dialog if you want to tag your entity as a __Main Object__.
+- Click the __OK__ button at the bottom of the dialog if you want to tag your entity as a __Main Object__.
 - Or navigate the data model hierarchy further, if you are looking for a specific child of __Main Object__.
 
 In our example, neither __Bridge__, __Wall__, nor __Gate__ have further children. Therefore, clicking one of them will instantly select it and tag your annotation as an entity of this class. The annotation will adopt the selected class' color coding and show its properties form in the sidebar.
