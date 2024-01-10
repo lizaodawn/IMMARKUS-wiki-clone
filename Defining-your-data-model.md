@@ -51,4 +51,16 @@ The following data types are currently available:
 
 ## Data Model Hierarchy
 
-If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes, at a root level. Child classes then only need to define properties that are __specific to them.__ 
+If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes, at a root level. Child classes then only need to define properties that are __specific to them.__ This way, you can save time, avoid repetition and stay consistent when defining your data model.
+
+Example:
+
+- Let's assume you define a class called __Geographical Feature__. 
+- You define two common properties __Name__ (text) and __Location__ (Geo-Coordinate).
+- Next, you define another class called __Terrain__.
+- You make __Terrain__ a child concept of __Geographical Feature__.
+- You add a new property to __Terrain__ called __Terrain Type__ Option).
+
+<img width="800" alt="Bildschirmfoto 2024-01-10 um 14 28 55" src="https://github.com/rsimon/immarkus/assets/470971/0e6ddc02-9d2e-4b1b-bb3d-fadd87779dde">
+
+As you can see in the preview, __Terrain__ now has three properties: __Name__, __Location__, and __Terrain Type__. The icons next to the __Name__ and __Location__ fields indicate that these are fields inherited from an ancestor class.
