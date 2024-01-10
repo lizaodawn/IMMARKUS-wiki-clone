@@ -35,3 +35,5 @@ Think of properties as metadata fields for the entities you will annotate. For e
 
 - Enter a __name__ for the property, such as "Material"
 - Choose a __data type__ for the property. For example, you may want to pre-define a number of options that you can later choose from in the annotation interface. In this case, select __Options__ as the data type, and the values you want to be available as choices. (Don't worry - you can always edit or add values later.)
+
+Optionally, add a description for the property. (E.g. to clarify what this property is for to other users, in case you plan to share your data model.)
