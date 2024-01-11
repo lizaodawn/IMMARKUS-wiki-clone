@@ -10,13 +10,4 @@ Importantly, IMMARKUS operates fully locally. No data is ever transmitted to a s
 
 <img width="1366" alt="IMMARKUS screenshot" src="https://github.com/rsimon/immarkus/assets/470971/6aa05112-e36b-4588-910f-81f9029f338e">
 
-Read mre
-
-- Introduction
-  - [About IMMARKUS](wiki/About-IMMARKUS)
-  - Features
-- Data Model
-  - [Defining your data model](wiki/Defining-your-data-model)
-  - [Integrating external authorities](wiki/Integrating-external-authorities)
-- Annotation
-  - [Annotating Entities](wiki/Annotating-Entities)
+__Next:__ [01 IMMARKUS Features](/wiki/IMMARKUS-Features)
