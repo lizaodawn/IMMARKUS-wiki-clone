@@ -1,1 +1,4 @@
-TODO
+- Design your own ontology
+- Properties & data type
+- Zoomable image view
+- Multi-image annotation
