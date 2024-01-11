@@ -1,5 +1,3 @@
-## Welcome to IMMARKUS 
-
 IMMARKUS is a semantic image annotation tool that allows you to construct custom ontologies, make selections on images, identify specific image regions using ontological concepts, and establish links between elements within your images.
 
 <img width="1552" alt="Bildschirmfoto 2024-01-11 um 17 36 56" src="https://github.com/rsimon/immarkus/assets/470971/f674d6bc-9339-4e4c-9db8-c3c229d82b29">
