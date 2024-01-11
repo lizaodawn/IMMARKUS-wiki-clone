@@ -4,7 +4,7 @@ IMMARKUS is a semantic image annotation tool that allows you to construct custom
 
 Setting up IMMARKUS is straightforward and hassle-free. Open it in your browser, select a folder on your computer, and begin annotating. 
 
-Importantly, IMMARKUS operates fully locally. No data is ever transmitted to a server – everything, from images to your data model and annotations, remains securely stored on your computer, ensuring complete control over your work.
+Importantly, IMMARKUS operates fully locally. No data is ever transmitted to a server – everything, from images to your data model and annotations, remains securely stored on your computer, ensuring complete privacy and control over your work.
 
 <img width="1366" alt="IMMARKUS screenshot" src="https://github.com/rsimon/immarkus/assets/470971/6aa05112-e36b-4588-910f-81f9029f338e">
 
