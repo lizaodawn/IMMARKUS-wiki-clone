@@ -8,4 +8,4 @@ Importantly, IMMARKUS operates fully locally. No data is ever transmitted to a s
 
 <img width="1366" alt="IMMARKUS screenshot" src="https://github.com/rsimon/immarkus/assets/470971/6aa05112-e36b-4588-910f-81f9029f338e">
 
-__Next:__ [IMMARKUS Features](wiki/01-IMMARKUS-Features)
+__Next:__ [IMMARKUS Features](wiki/01-IMMARKUS-Overview)
