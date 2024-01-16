@@ -25,3 +25,7 @@ IMMARKUS offers a (growing) range of data types you can use to capture Propertie
 # Zoomable Multi-Image View
 
 IMMARKUS provides a zoomable view to support annotating large images, and tools for creating __rectangle__, __polygon__ and __circle/ellipse__ selections. Similar to multi-image viewers like [Mirador](https://projectmirador.org/), IMMARKUS provides a multi-window environment for annotating multiple images in parallel.
+
+<img width="1552" alt="Bildschirmfoto 2024-01-16 um 16 12 23" src="https://github.com/rsimon/immarkus/assets/470971/ebf70929-ee30-462a-9f5e-7bded3d5f827">
+
+
