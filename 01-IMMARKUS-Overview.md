@@ -30,4 +30,4 @@ IMMARKUS offers a (growing) range of data types you can use to capture Propertie
 
 <img width="800" alt="Bildschirmfoto 2024-01-16 um 16 03 15" src="https://github.com/rsimon/immarkus/assets/470971/d7ee8b44-23f1-4a71-abdf-e8b55eefb4f8">
 
-
+Read more about [how to create your own data model in IMMARKUS here](wiki/03-Defining-your-data-model).
