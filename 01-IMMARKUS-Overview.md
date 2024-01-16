@@ -1,10 +1,10 @@
-# Multi-Window Zoomable Image Annotation
+## Multi-Window Zoomable Image Annotation
 
 IMMARKUS provides a zoomable view to support annotating large images, and tools for creating __rectangle__, __polygon__ and __circle/ellipse__ selections. Similar to multi-image viewers like [Mirador](https://projectmirador.org/), IMMARKUS provides a multi-window environment for annotating multiple images in parallel.
 
 <img width="1552" alt="Bildschirmfoto 2024-01-16 um 16 12 23" src="https://github.com/rsimon/immarkus/assets/470971/ebf70929-ee30-462a-9f5e-7bded3d5f827">
 
-# Design your own ontology
+## Design your own ontology
 
 IMMARKUS includes a form-based editor to create and manage your personal data model. The data model is designed around the concepts of Entity Classes and Properties.
 
@@ -14,7 +14,7 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 
 <img width="800" alt="Bildschirmfoto 2024-01-16 um 15 17 21" src="https://github.com/rsimon/immarkus/assets/470971/cd8ced9f-3a82-482a-9f55-d750771a456b">
 
-## Property Types
+### Property Types
 
 IMMARKUS offers a (growing) range of data types you can use to capture Properties of different kinds. Think of this as you personal "database builder" for your data model. The following Property field types are currently available.
 
