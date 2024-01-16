@@ -10,5 +10,18 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 
 ## Property Types
 
-- Zoomable image view
-- Multi-image annotation
+IMMARKUS offers a (growing) range of data types you can use to capture Properties of different kinds. Think of this as you personal "database builder" for your data model. The following Property field types are currently available.
+
+- Text 
+- Number
+- Select options dropdown with configurable values
+- URL/URI
+- Geo-coordinate
+- Measurement (combination of numeric value and "unit" text field)
+- External authority (read more [here](wiki/06-Integrating-external-authorities))
+
+<img width="800" alt="Bildschirmfoto 2024-01-16 um 16 03 15" src="https://github.com/rsimon/immarkus/assets/470971/d7ee8b44-23f1-4a71-abdf-e8b55eefb4f8">
+
+# Zoomable Multi-Image View
+
+IMMARKUS provides a zoomable view to support annotating large images, and tools for creating __rectangle__, __polygon__ and __circle/ellipse__ selections. Similar to multi-image viewers like [Mirador](https://projectmirador.org/), IMMARKUS provides a multi-window environment for annotating multiple images in parallel.
