@@ -18,7 +18,7 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 
 ### Property Types
 
-IMMARKUS offers a (growing) range of data types you can use to capture Properties of different kinds. Think of it as a personal "database builder" for your data model. The following Property field types are currently available.
+IMMARKUS offers a (growing) range of data types you can use to capture Properties of different kinds. Think of it as a personal "database builder" for your data model. The following Property field types are currently available:
 
 - Text 
 - Number
