@@ -10,7 +10,7 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 IMMARKUS includes a form-based editor to create and manage your personal data model. The data model is designed around the concepts of Entity Classes and Properties.
 
-- Use __Entity Classes__ to annotate specific concepts or things with your annotations, and record details like the the material of an item, or the number of legs on an animal.
+- Use __Entity Classes__ to annotate specific concepts or things with your annotations.
 - Define __Properties__ for your Entity Classes, to record specific details in your annotations, such as weight, material, age, etc. of an entity.
 - Your data model can be __hierarchical__. Each Entity Class can have a parent class. Properties on the parent class are automatically inherited to the child class.
 
