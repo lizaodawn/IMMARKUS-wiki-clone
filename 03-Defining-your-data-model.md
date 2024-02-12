@@ -71,4 +71,12 @@ To record metadata about your images, your first need to define a __schema__. Cl
 
 <img width="800" alt="Bildschirmfoto 2024-02-12 um 10 55 51" src="https://github.com/rsimon/immarkus/assets/470971/713607cc-c002-45be-b8d5-09c7746c4339">
 
+Once you have defined a schema, you can fill metadata for your images from the __image gallery__, as well as from the __annotation view__. 
+
+- In the image gallery, click the context menu icon on the image thumbnail and select __Image metadata__.
+- In the annotation view, select the __Metadata__ panel in the right sidebar.
+
+<img width="800" alt="Bildschirmfoto 2024-02-12 um 11 04 48" src="https://github.com/rsimon/immarkus/assets/470971/b6cbabdb-1469-4187-87cd-5d79e090ffaf">
+
+
 
