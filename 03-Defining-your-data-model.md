@@ -78,5 +78,5 @@ Once you have defined a schema, you can fill metadata for your images from the _
 
 <img width="800" alt="Bildschirmfoto 2024-02-12 um 11 04 48" src="https://github.com/rsimon/immarkus/assets/470971/b6cbabdb-1469-4187-87cd-5d79e090ffaf">
 
-
+<img width="800" alt="Bildschirmfoto 2024-02-12 um 11 05 21" src="https://github.com/rsimon/immarkus/assets/470971/81646ff3-924c-482b-9db4-2ba69b79bfea">
 
