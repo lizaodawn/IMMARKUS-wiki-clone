@@ -69,5 +69,5 @@ As you can see in the preview, __Terrain__ now has three properties: __Name__, _
 
 To record metadata about your images, your first need to define a __schema__. Click the __Add Metadata Property__ button. You can use the same data types for your metadata schema as for Entity Classes.
 
-<img width="800" alt="Bildschirmfoto 2024-02-12 um 10 54 11" src="https://github.com/rsimon/immarkus/assets/470971/ebce922f-3f20-4e9d-bf5a-41b348a35437">
+<img width="800" alt="Bildschirmfoto 2024-02-12 um 10 54 11" src="https://github.com/rsimon/immarkus/assets/470971/bd6d9389-5461-412a-869a-e21b2b955692">
 
