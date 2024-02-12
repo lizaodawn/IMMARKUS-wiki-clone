@@ -22,7 +22,7 @@ Optionally:
 
 On the right side of the editor, you will see a preview of how your Entity Class will appear, when used in the annotation interface.
 
-## Properties
+### Properties
 
 The purpose of Entity Classes is not just to identify certain things or concepts in your annotations. They also allow you to record specific details about these things or concepts in an efficient way. In order to do this, you can define __Properties__ for your entity class.
 
@@ -49,7 +49,7 @@ The following data types are currently available:
 - __Geo-Coordinate__ - a latitude/longitude coordinate pair
 - __External Authority__ - see our [guide for integrating external authority sources](wiki/Integrating-external-authorities) into your data model
 
-## Data Model Hierarchy
+### Data Model Hierarchy
 
 If you data model is hierarchical, Entity Classes will __inherit the properties of their parent classes__. This means you can define common properties, which should be shared among classes, at a root level. Child classes then only need to define properties that are __specific to them.__ This way, you can save time, avoid repetition and stay consistent when defining your data model.
 
@@ -64,3 +64,5 @@ Example:
 <img width="800" alt="Bildschirmfoto 2024-01-10 um 14 28 55" src="https://github.com/rsimon/immarkus/assets/470971/0e6ddc02-9d2e-4b1b-bb3d-fadd87779dde">
 
 As you can see in the preview, __Terrain__ now has three properties: __Name__, __Location__, and __Terrain Type__. The icons next to the __Name__ and __Location__ fields indicate that these are fields inherited from an ancestor class.
+
+## Image Metadata
