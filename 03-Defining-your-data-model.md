@@ -80,3 +80,9 @@ Once you have defined a schema, you can fill metadata for your images from the _
 
 <img width="800" alt="Bildschirmfoto 2024-02-12 um 11 05 21" src="https://github.com/rsimon/immarkus/assets/470971/81646ff3-924c-482b-9db4-2ba69b79bfea">
 
+## Folder Metadata
+
+You can record metadata for your the sub-folders in your project folder the same way. First, define a __schema__ under the __Folder Metadata__ tab. Click the __Add Metadata Property__ button and use the Property Editor to define metadata fields for your folder schema.
+
+<img width="800" alt="Bildschirmfoto 2024-02-13 um 12 07 41" src="https://github.com/rsimon/immarkus/assets/470971/b0082c27-8652-4c8a-a796-e122c87cf9d5">
+
