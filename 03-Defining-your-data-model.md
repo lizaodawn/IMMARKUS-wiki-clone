@@ -86,3 +86,6 @@ You can record metadata for your the sub-folders in your project folder the same
 
 <img width="800" alt="Bildschirmfoto 2024-02-13 um 12 07 41" src="https://github.com/rsimon/immarkus/assets/470971/b0082c27-8652-4c8a-a796-e122c87cf9d5">
 
+You can fill metadata for a folder in the __image gallery__, by clicking the context menu icon on the folder symbol and selecting __Folder metadata__ from the dropdown menu.
+
+<img width="800" alt="Bildschirmfoto 2024-02-13 um 12 11 11" src="https://github.com/rsimon/immarkus/assets/470971/8da88c94-a7ca-4245-aae4-c3d5adb97b0d">
