@@ -48,7 +48,7 @@ You can create and view entities and properties in the Annotation mode. First, l
     •	You can choose the color of each entity on the right panel.
 3.	You can choose a different display name. In this case, "city_gate.”
 4.	Add an entity class description that explains how to use this entity class (e.g. instances of city gates on the image).  
-5.	Add/edit the properties. Click drop down menu next to No Properties (the blue arrow in **figure 6**)
+5.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
 ![Picture6](https://github.com/rsimon/immarkus/assets/128056738/1bdc78f8-35e8-49cd-a508-2d25ed2e84fc)
 
