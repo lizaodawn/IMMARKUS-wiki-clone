@@ -62,7 +62,9 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 
 # Creating Metadata Schemas
 <br/>
+
 In the data model you can also add the metadata. The metadata can be recorded at both the folder (or sub-folder) and the individual image level. 
+
 ## Adding Folder Metadata
 
 1. Go to the Folder Metadata tab and click Add Metadata Property. 
@@ -89,6 +91,7 @@ The metadata for individual images can be added in the same way as with folder m
 **Figure 18. Individual Image Metadata** 
  <br/>
 2. Define Property Name and choose data type. Click Save Property. 
+
 **Figure 19. Add Image Metadata**
  <br/>
 
