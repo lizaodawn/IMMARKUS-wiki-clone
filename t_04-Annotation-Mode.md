@@ -111,6 +111,6 @@ You can annotate images side by side by clicking on Add image. In this mode mult
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/0ede10ec-fe8f-4b4b-8afa-e0ede24927e3)
 
-**Figure 11.** View Multiple Images on Annotation Mode
+**Figure 11.** View Multiple Images in Annotation Mode
 
 
