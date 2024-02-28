@@ -72,11 +72,11 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 3. Add **Property Name** ("title” below) and choose a **Data Type** ("text").  
 
-4. After you finish, make sure to click **Save Schema**.
-
 ![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
 
 **Figure 17.** Choose Data Type of Folder Metadata
+
+4. After you finish, make sure to click **Save Schema**.
 
 ## Adding Metatdata for Individual Images
 
