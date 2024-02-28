@@ -31,25 +31,25 @@ Decide which part of the image you’d like to tag and draw a shape.
 
      •	**Tip:** Double-click will end the drawing (this is useful for drawing a polygon).
 
-2.	  After you finish drawing, you will be prompted to add a tag. Choose "Add Tag" and it will open a pop-up window as below.
+2.	  After you finish drawing, you will be prompted to add a tag. Choose **Add Tag** and it will open a pop-up window as below.
 
 ## Creating Entities and Properties in Annotation Mode
 
-You can now add information on the part of the image you selected. In IMMARKUS, the data model is designed based on the concepts of entity classes and properties. We will explain the data model in more detail below. Briefly speaking, we use entity classes to annotate specific concepts or things (let’s say a city wall); and use properties to record specific details about entity classes (for example, the name, the dimension, and the location).
-You can create and view entities and properties in the Annotation mode. First, let’s create entities.
+You can now add information on the part of the image you selected. In IMMARKUS, the data model is designed based on the concepts of entity classes and properties. We will explain the data model in more detail below. Briefly speaking, we use **entity classes** to annotate specific concepts or things (i.e. a city wall); and use **properties** to record specific details about entity classes (for example, the name, the dimension, and the location).
+You can create and view entities and properties in the Annotation mode. First, we will create entities.
 
-1.	Click Create New Entity Class. 
+1.	Click **Create New Entity Class**. 
 
 ![Screenshot (487)](https://github.com/rsimon/immarkus/assets/128056738/e9d557b0-6af3-41a8-8a3d-5e7fadadfccc)
 
 
 **Figure 5.** Create Entities on Annotation Mode
 
-2.	Click new entity class and name the entity class, for example, "city_gate.”
+2.	Click new **entity class** and name the entity class, for example, "city_gate.”
 
     •	You can choose the color of each entity on the right panel.
-3.	You can choose a different display name. In this case, "city_gate.”
-4.	Add an entity class description that explains how to use this entity class (e.g. instances of city gates on the image).  
+3.	You can choose a different **display name**. In this case, "city_gate.”
+4.	Add an **entity class description** that explains how to use this entity class (e.g. instances of city gates on the image).  
 5.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
