@@ -36,11 +36,11 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 
 * The entity classes for which you have created child classes have a drop-down menu “>” on the left (red square in **figure 14**). 
 
-* Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
+> * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
-* The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
+> * The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
 
-* On the row of the child class, you can only see the properties specifically added to the child class. 
+> * On the row of the child class, you can only see the properties specifically added to the child class. 
 
 * The ones that do not have children have no drop-down menu (blue square in **figure 14**).  
 
