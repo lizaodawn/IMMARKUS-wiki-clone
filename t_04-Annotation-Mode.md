@@ -40,7 +40,8 @@ You can create and view entities and properties in the Annotation mode. First, l
 
 1.	Click Create New Entity Class. 
 
-![Picture5](https://github.com/rsimon/immarkus/assets/128056738/6c869c5a-702f-4ca8-a0d7-13ac07401000)
+![Screenshot (487)](https://github.com/rsimon/immarkus/assets/128056738/e9d557b0-6af3-41a8-8a3d-5e7fadadfccc)
+
 
 **Figure 5.** Create Entities on Annotation Mode
 
@@ -51,13 +52,13 @@ You can create and view entities and properties in the Annotation mode. First, l
 4.	Add an entity class description that explains how to use this entity class (e.g. instances of city gates on the image).  
 5.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
-![Picture6](https://github.com/rsimon/immarkus/assets/128056738/1bdc78f8-35e8-49cd-a508-2d25ed2e84fc)
+![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/54c15702-b33e-457c-8203-daf98cb7ee2c)
 
 **Figure 6.** Create Entities and Properties
 
 6.	Click **Add Property**. This opens the property editor as in **figure 7**.
 
-![Picture7](https://github.com/rsimon/immarkus/assets/128056738/4d0b283b-79db-439b-a473-12f1962e634b)
+![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/a810dfa9-0a8a-4c85-af81-1c4510f7ca3a)
 
 **Figure 7.** Add Properties
 
@@ -81,7 +82,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 
 9.	Since the data type of "name" is text, I choose Text. You can also add a description of the property in **Property Description**.
 
-![Picture8](https://github.com/rsimon/immarkus/assets/128056738/40c2bfaa-6d5a-4ff3-9de1-5b949f447871)
+![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a5ba7dba-fe4d-47b6-bdce-74f5e0a8c175)
 
 **Figure 8.** Choose Data Type
 
@@ -95,7 +96,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 Using the External Authority property type allows you to associate an Entity Class with one or more external authority services. You can add multiple authorities per field, and multiple fields per Entity Class. 
 In the property editor, type a name for your property ("Place ID" in **figure 9**) and choose the External Authority field type.
 
-![Picture9](https://github.com/rsimon/immarkus/assets/128056738/1890fe72-4034-4682-a423-b9b65dd8f6af)
+![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/e3785484-07cc-43b2-aaf5-02a300c850b8)
 
 **Figure 9.** External Authorities
 
@@ -109,8 +110,7 @@ While filling out properties for the annotated entity, the popup for the externa
 
 You can annotate images side by side by clicking on Add image. In this mode multiple images can be annotated at the same time. You can drag and drop windows to move them around and to change the layout.
 
-
-![Picture11](https://github.com/rsimon/immarkus/assets/128056738/0ede10ec-fe8f-4b4b-8afa-e0ede24927e3)
+![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
 **Figure 11.** View Multiple Images in Annotation Mode
 
