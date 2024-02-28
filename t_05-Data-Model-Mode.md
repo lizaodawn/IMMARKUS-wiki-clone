@@ -4,7 +4,7 @@ You can create a hierarchical data model. For the concepts of entities and prope
 
 In the data model, we can define common properties that are shared among parent and child entity classes. Child classes inherit properties from parent classes. Also, we can define properties that are specific to child classes.  
 
-You can create a child class in annotation mode and in the Data Model __(see figure 12)__. Click the Create New Entity button and: 
+You can create a child class in annotation mode and in the Data Model (see **figure 12**). Click the Create New Entity button and: 
 
 1. Define **Entity Class** (city_gate) 
 
