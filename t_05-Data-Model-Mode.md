@@ -82,13 +82,13 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 The metadata for individual images can be added in the same way as with folder metadata.  
 
-1. Choose New Image Schema and Click Add Metadata Property. 
+1. Choose **Image Metadata** and Click **New Image Schema**. 
 
 ![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/2ed26f55-e180-4815-b7f4-677610b05d77)
 
 **Figure 18.**  Individual Image Metadata
 <br/><br/>
-2. Define Property Name and choose data type. Click Save Property. 
+2. Define **Property Name** and choose **Data Type**. Click **Save Property**. 
 
 ![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
 
