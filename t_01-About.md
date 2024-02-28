@@ -15,14 +15,14 @@ This research is part of a project that has received funding from the European R
 
 # **How to Cite Us**
 
--Platform:
+**Platform**:
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi Wangzhi. IMMARKUS: Image Annotation. 2024. immarkus.xmarkus.org
 
--Code:
+**Code**:
 
 Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [link]
 
--Instructions (text):
+**Instructions (text)**:
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [immarkus.xmarkus.org]
