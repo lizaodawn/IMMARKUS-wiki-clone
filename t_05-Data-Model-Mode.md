@@ -1,12 +1,6 @@
 # Creating a Hierarchical Data Model
-You can create a hierarchical data model. For the concepts of entities and properties see __t_04_03 (link needed)__ 
-<br/><br/><br/>
-
+You can create a hierarchical data model. For the concepts of entities and properties see [Creating Entities and Properties in Annotation Mode](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#creating-entities-and-properties-in-annotation-mode)
 ## Parent-Child Entity Classes 
-
- 
-
-
 
 In the data model, we can define common properties that are shared among parent and child entity classes. Child classes inherit properties from parent classes. Also, we can define properties that are specific to child classes.  
 
@@ -18,7 +12,8 @@ You can create a child class in annotation mode and in the Data Model __(see fig
 
 1. Choose the **Parent Class** (in this case the Parent is obj_part.) 
 
-![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/7b014fe3-d6ff-4e63-bec3-1de8067ccf13)
+![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
+
 
 **Figure 12.** Create Entity on Data Model
 <br/><br/>
@@ -29,8 +24,8 @@ In Figure 13, the child class named "city_gate" inherits all the properties from
 
 In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 13**). This means no specific property has been added to this child class. But as a child class city_gate inherits all the properties from the parent class (circled in blue) as shown on the right sidebar in **figure 13**.
 
-![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/493d2821-a2f8-43fa-a6a2-04de6ca59097)
 
+![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
 
 **Figure 13.**  A child class properties inherited from a parent class
 
@@ -42,16 +37,16 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 
 * The entity classes for which you have created child classes have a drop-down menu “>” on the left (red square in **figure 14**). 
 
-> * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
+* Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
-> * The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
+* The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
 
-> * On the row of the child class, you can only see the properties specifically added to the child class. 
+* On the row of the child class, you can only see the properties specifically added to the child class. 
 
 * The ones that do not have children have no drop-down menu (blue square in **figure 14**).  
 
 
-![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/70580ffc-c018-49cc-84ec-28b1b537081f)
+![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/34d2b27a-f530-4e8c-82d1-107f1746bd56)
 
 **Figure 14.** Entity Classes on Data Model
 
@@ -66,30 +61,39 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 ## Adding Folder Metadata
 
-1. Go to the Folder Metadata tab and click Add Metadata Property. 
+1. Go to the Folder Metadata tab and click New Folder Schema. 
 
+![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/ccad1805-e92f-4584-847b-e68d3bddf233)
 
 **Figure 15. Folder Metadata** 
 <br/>
 2. Properties in metadata are added in the same way as with the entity classes, with the same property options.  
-**Figure 16. Add Folder Metadata**
 
- <br/>
+![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
+
+**Figure 16.** Add Folder Metadata
 
 3. Add Property Name ("title” below) and choose a Data Type ("text").  
 
-4. After you finish, make sure to click Save Property. 
-**Figure 17. Choose Data Type of Folder Metadata**
+4. After you finish, make sure to click Save Schema.
+
+![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
+
+**Figure 17.** Choose Data Type of Folder Metadata
 
 ## Adding Metatdata for Individual Images
- <br/>
+
 The metadata for individual images can be added in the same way as with folder metadata.  
 
-1. Choose Image Metadata and Click Add Metadata Property. 
+1. Choose New Image Schema and Click Add Metadata Property. 
+
+![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/5e85a874-70ea-458d-b917-dd2681a1df96)
 
 **Figure 18. Individual Image Metadata** 
  <br/>
 2. Define Property Name and choose data type. Click Save Property. 
+
+![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
 
 **Figure 19. Add Image Metadata**
  <br/>
