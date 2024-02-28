@@ -14,7 +14,7 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 
 ## Recording Individual Image Metadata in the Image Gallery 
 1. Click the three dots on the individual image. 
-2. Choose a Schema for your metadata and fill out the properties in the same way as the folder metadata.
+2. Choose a schema for your metadata and fill out the properties in the same way as the folder metadata.
 
 ![Screenshot (506)](https://github.com/rsimon/immarkus/assets/128056738/35ad3826-6688-4dd1-832c-ddc776168076)
 
