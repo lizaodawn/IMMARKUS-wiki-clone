@@ -4,8 +4,8 @@
 
 1. Click **Open New Folder** and choose a folder with images.  
  
-![Screenshot (483)](https://github.com/rsimon/immarkus/assets/128056738/aa8d7413-b319-4523-bdc6-ab2fc1b1ce88)
 
+![Screenshot (510)](https://github.com/rsimon/immarkus/assets/128056738/2149cec4-0aaf-45d4-b9b2-b823dd3da153)
 
 
 **Figure 1.** The main page of IMMARKUS [xmarkus.org/immarkus](xmarkus.org/immarkus).
