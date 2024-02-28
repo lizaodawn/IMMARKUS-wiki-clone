@@ -5,7 +5,7 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 
 1. Click **Images** on the left sidebar to move to Image Gallery. Click the three dots at the bottom right of the folder and choose the option **Information**.
 
-1. Choose a schema for your metadata on the right panel and fill out the metadata for the folder. After you are done, click Save Metadata. 
+1. Choose a schema for your metadata on the right panel and fill out the metadata for the selected folder. After you are done, click **Save Metadata**. 
 
 ![Screenshot (505)](https://github.com/rsimon/immarkus/assets/128056738/6c55b8bb-5406-40f0-a441-d23aec01e624)
 
@@ -13,8 +13,8 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 <br/>
 
 ## Recording Individual Image Metadata in the Image Gallery 
-1. Click the three dots on the individual image 
-2. Chose a Schema for your metadata and fill out the properties in the same way as the folder metadata.
+1. Click the three dots on the individual image. 
+2. Choose a Schema for your metadata and fill out the properties in the same way as the folder metadata.
 
 ![Screenshot (506)](https://github.com/rsimon/immarkus/assets/128056738/35ad3826-6688-4dd1-832c-ddc776168076)
 
