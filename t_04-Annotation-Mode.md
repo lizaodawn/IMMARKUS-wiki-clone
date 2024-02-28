@@ -14,11 +14,12 @@ The following functionalities are available in the annotation mode (see numbers 
 8.	List (list of annotations)
 9.	Metadata (add or edit metadata)
 
-![Picture3](https://github.com/rsimon/immarkus/assets/128056738/a72e0c1d-9d7d-4009-a5a2-cc6759a412ad)
+![Screenshot (484)](https://github.com/rsimon/immarkus/assets/128056738/913bd4fa-8cf8-4447-9ca5-8b0b1e64fb8a)
 
 **Figure 3.** Annotation Mode
 
-![Picture4](https://github.com/rsimon/immarkus/assets/128056738/1d67224c-33f3-4c35-90fc-3296c30aaf6d)
+![Screenshot (485)](https://github.com/rsimon/immarkus/assets/128056738/63fd251f-c3e7-4746-9164-c0432fca8576)
+
 
 **Figure 4.** Close-up View of Functionalities on the Annotation Mode
 
