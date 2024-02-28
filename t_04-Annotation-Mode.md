@@ -58,7 +58,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 
 6.	Click **Add Property**. This opens the property editor as in **figure 7**.
 
-![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/a810dfa9-0a8a-4c85-af81-1c4510f7ca3a)
+![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
 **Figure 7.** Add Properties
 
@@ -96,7 +96,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 Using the External Authority property type allows you to associate an Entity Class with one or more external authority services. You can add multiple authorities per field, and multiple fields per Entity Class. 
 In the property editor, type a name for your property ("Place ID" in **figure 9**) and choose the External Authority field type.
 
-![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/e3785484-07cc-43b2-aaf5-02a300c850b8)
+![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
 
 **Figure 9.** External Authorities
 
