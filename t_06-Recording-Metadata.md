@@ -22,7 +22,8 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 <br/>
 
 ## Recording Metadata in the Image Annotation View
-You can also fill out metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 22**). 
+
+You can also fill out metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 22**). Select the Schema for your metadata and fill out the properties you defined in the Data Model. 
 
 ![Screenshot (507)](https://github.com/rsimon/immarkus/assets/128056738/eaafd13a-7bd8-408e-aaa5-5a512bcce8ba)
 
