@@ -106,7 +106,7 @@ While filling out properties for the annotated entity, the popup for the externa
 
 **Figure 10.** Wikipedia search using IMMARKUS (page for Yangzhou)
 
-# Add image: Annotate Multiple Images on the Same Screen
+# Annotate Multiple Images on the Same Screen
 
 You can annotate images side by side by clicking on **Add image**. In this mode multiple images can be annotated at the same time. You can drag and drop windows to move them around and to change the layout.
 
