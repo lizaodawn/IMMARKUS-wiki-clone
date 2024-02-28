@@ -3,7 +3,7 @@
 
 After you have defined your metadata schemas, you can fill out metadata for the folders and the images in the Image Gallery. 
 
-1. Click the three dots at the bottom right of the folder and chose the option **Information**.
+1. Click **Images** on the left sidebar to move to Image Gallery. Click the three dots at the bottom right of the folder and choose the option **Information**.
 
 1. Chose a schema for your metadata on the right panel and fill out the metadata for the folder. After you are done, click Save Metadata. 
 
