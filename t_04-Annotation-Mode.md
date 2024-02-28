@@ -82,7 +82,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 
 9.	Since the data type of "name" is text, I choose Text. You can also add a description of the property in **Property Description**.
 
-![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a5ba7dba-fe4d-47b6-bdce-74f5e0a8c175)
+![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
 
 **Figure 8.** Choose Data Type
 
