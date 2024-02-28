@@ -14,28 +14,27 @@ You can create a child class in annotation mode and in the Data Model __(see fig
 
 1. Define **Entity Class** (city_gate) 
 
-1. Define **Display Name** (city gate) 
+1. Define **Display Name** (City gate) 
 
 1. Choose the **Parent Class** (in this case the Parent is obj_part.) 
 
-<img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 57" src="https://github.com/sunkyulee22/asset/assets/160752064/ac5361a3-d350-45fb-96f6-eba7664fe221)">
-<br/>
+![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/7b014fe3-d6ff-4e63-bec3-1de8067ccf13)
 
-**Figure 12. Create Entity on Data Model**
+**Figure 12.** Create Entity on Data Model
 <br/><br/>
 
 ## Inherited Properties
 
 In Figure 13, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in blue in **figure 13**). This means no specific property has been added to this child class. But as a child class city_gate inherits all the properties from the parent class (as shown on the right sidebar in **figure 13**).
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 13**). This means no specific property has been added to this child class. But as a child class city_gate inherits all the properties from the parent class (circled in blue) as shown on the right sidebar in **figure 13**.
 
-<img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 57" src="https://github.com/sunkyulee22/asset/assets/160752064/1ba17ef9-e3b5-471f-ac42-15bc23c96e37"> 
+![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/493d2821-a2f8-43fa-a6a2-04de6ca59097)
+
+
+**Figure 13.**  A child class properties inherited from a parent class
+
 <br/>
-
-**Figure 13. A child class properties inherited from a parent class** 
-
-<br/><br/><br/>
 
 ## View Parent-Child Relationship
 
@@ -51,10 +50,10 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 
 * The ones that do not have children have no drop-down menu (blue square in **figure 14**).  
 
-<img width="651" alt="Bildschirmfoto 2024-01-09 um 12 21 57" src="https://github.com/sunkyulee22/asset/assets/160752064/d74b60d6-8a84-4312-975f-498fb7c8c571">
-<br/>
 
-**Figure 14. Entity Classes on Data Model**
+![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/70580ffc-c018-49cc-84ec-28b1b537081f)
+
+**Figure 14.** Entity Classes on Data Model
 
 
 
