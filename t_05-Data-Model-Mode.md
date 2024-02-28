@@ -28,8 +28,7 @@ In the Properties editor, it looks like this entity does not have any properties
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
 
 **Figure 13.**  A child class properties inherited from a parent class
-
-<br/>
+<br/><br/>
 
 ## View Parent-Child Relationship
 
@@ -48,10 +47,10 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 ![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/e35eb699-4332-47e5-9dac-32a328b6b90a)
 
 **Figure 14.** Entity Classes on Data Model
-
+<br/><br/>
 
 # Creating Metadata Schemas
-<br/>
+
 
 In the data model you can also add the metadata. The metadata can be recorded at both the folder (or sub-folder) and the individual image level. 
 
@@ -62,12 +61,14 @@ In the data model you can also add the metadata. The metadata can be recorded at
 ![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/2210a06d-eedd-482f-b519-16b28e845113)
 
 **Figure 15. Folder Metadata** 
-<br/>
+<br/><br/>
+
 2. Properties in metadata are added in the same way as with the entity classes, with the same property options.  
 
 ![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
 
 **Figure 16.** Add Folder Metadata
+<br/><br/>
 
 3. Add Property Name ("title” below) and choose a Data Type ("text").  
 
@@ -83,14 +84,13 @@ The metadata for individual images can be added in the same way as with folder m
 
 1. Choose New Image Schema and Click Add Metadata Property. 
 
-![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/87835035-67b9-4904-be09-607ef4a001d7)
+![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/2ed26f55-e180-4815-b7f4-677610b05d77)
 
 **Figure 18.**  Individual Image Metadata
- <br/>
+<br/><br/>
 2. Define Property Name and choose data type. Click Save Property. 
 
 ![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
 
 **Figure 19.** Adding properties in Image Metadata
- <br/>
-
+<br/><br/>
