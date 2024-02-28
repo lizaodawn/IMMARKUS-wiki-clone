@@ -78,7 +78,7 @@ You can create and view entities and properties in the Annotation mode. First, w
 
      •	**Measurement** – a number combined with a measurement word
 
-     •	**External Authority** (see below on external authorities)
+     •	**External Authority** (see below on ädd external authorities)
 
 9.	Since the data type of "name" is text, I choose Text. You can also add a description of the property in **Property Description**.
 
@@ -87,9 +87,9 @@ You can create and view entities and properties in the Annotation mode. First, w
 **Figure 8.** Choose Data Type
 
 
-10.	After you have added each property, click Save Property. 
+10.	After you have added each property, click **Save Property**. 
 
-11.	After you are done adding properties, click Save Entity Class.
+11.	After you are done adding properties, click **Save Entity Class**.
 
 ## Add External authorities
 
@@ -108,7 +108,7 @@ While filling out properties for the annotated entity, the popup for the externa
 
 ## Add image: Annotate Multiple Images on the Same Screen
 
-You can annotate images side by side by clicking on Add image. In this mode multiple images can be annotated at the same time. You can drag and drop windows to move them around and to change the layout.
+You can annotate images side by side by clicking on **Add image**. In this mode multiple images can be annotated at the same time. You can drag and drop windows to move them around and to change the layout.
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
