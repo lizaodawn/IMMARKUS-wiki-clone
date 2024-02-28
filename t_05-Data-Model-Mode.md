@@ -46,7 +46,7 @@ Classes do not need to have a parent-child relationship. Whether they do depends
 * The ones that do not have children have no drop-down menu (blue square in **figure 14**).  
 
 
-![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/34d2b27a-f530-4e8c-82d1-107f1746bd56)
+![Screenshot (503)](https://github.com/rsimon/immarkus/assets/128056738/10d16b05-6d1e-45c7-ab54-898ff84207ed)
 
 **Figure 14.** Entity Classes on Data Model
 
