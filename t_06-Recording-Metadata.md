@@ -7,7 +7,7 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 
 1. Choose a schema for your metadata on the right panel and fill out the metadata for the folder. After you are done, click Save Metadata. 
 
-![Screenshot (505)](https://github.com/rsimon/immarkus/assets/128056738/0dfafc68-fca7-4874-a8cb-1f9f9947504c)
+![Screenshot (505)](https://github.com/rsimon/immarkus/assets/128056738/6c55b8bb-5406-40f0-a441-d23aec01e624)
 
 **Figure 20**. Recording Folder Metadata in the Image Gallery
 <br/>
