@@ -70,7 +70,7 @@ In the data model you can also add the metadata. The metadata can be recorded at
 **Figure 16.** Add Folder Metadata
 <br/><br/>
 
-3. Add **Property Name** ("title” below) and choose a **Data Type** ("text").  
+3. Add **Property Name** ("title” below) and choose a **Data Type** ("text"). Click **Save Property**. 
 
 ![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
 
