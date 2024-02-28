@@ -1,5 +1,4 @@
-# Recording Metadata
-## Recording Folder Metadata in the Image Gallery
+# Recording Folder Metadata in the Image Gallery
 
 After you have defined your metadata schemas, you can fill out metadata for the folders and the images in the Image Gallery. 
 
@@ -12,7 +11,7 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 **Figure 20**. Recording Folder Metadata in the Image Gallery
 <br/>
 
-## Recording Individual Image Metadata in the Image Gallery 
+# Recording Individual Image Metadata in the Image Gallery 
 1. Click the three dots on the individual image. 
 2. Choose a schema for your metadata and fill out the properties in the same way as the folder metadata.
 
@@ -21,7 +20,7 @@ After you have defined your metadata schemas, you can fill out metadata for the 
 **Figure 21.** Recording Image Metadata in the Image Gallery   
 <br/>
 
-## Recording Metadata in the Image Annotation View
+# Recording Metadata in the Image Annotation View
 
 You can also fill out metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 22**). Select the Schema for your metadata and fill out the properties you defined in the Data Model. 
 
