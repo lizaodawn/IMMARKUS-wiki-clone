@@ -59,7 +59,7 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 1. Go to the Folder Metadata tab and click New Folder Schema. 
 
-![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/19fde1a5-0d61-4a43-bb7e-8e24d2d4c706)
+![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/2210a06d-eedd-482f-b519-16b28e845113)
 
 **Figure 15. Folder Metadata** 
 <br/>
