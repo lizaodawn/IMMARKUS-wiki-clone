@@ -59,7 +59,7 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 1. Go to the Folder Metadata tab and click New Folder Schema. 
 
-![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/ccad1805-e92f-4584-847b-e68d3bddf233)
+![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/19fde1a5-0d61-4a43-bb7e-8e24d2d4c706)
 
 **Figure 15. Folder Metadata** 
 <br/>
@@ -83,14 +83,14 @@ The metadata for individual images can be added in the same way as with folder m
 
 1. Choose New Image Schema and Click Add Metadata Property. 
 
-![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/5e85a874-70ea-458d-b917-dd2681a1df96)
+![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/87835035-67b9-4904-be09-607ef4a001d7)
 
-**Figure 18. Individual Image Metadata** 
+**Figure 18.**  Individual Image Metadata
  <br/>
 2. Define Property Name and choose data type. Click Save Property. 
 
 ![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
 
-**Figure 19. Add Image Metadata**
+**Figure 19.** Adding properties in Image Metadata
  <br/>
 
