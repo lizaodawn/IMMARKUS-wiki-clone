@@ -1,4 +1,4 @@
-Once you finish the above steps, the IMMARKUS interface appears. On the left menu bar, the following options become available
+Once you finish the above steps, the IMMARKUS interface appears. On the left menu bar, the following options become available.
 1.	**Images** is where all the subfolders are stored. Clicking on an image opens the annotation mode.
 2.	**Data model** is where you can create or edit data models for annotating images. You can also input the metadata.
 3.	**Knowledge graph** is a placeholder for now. Here you can access an overview of annotations and their relations in the future.
