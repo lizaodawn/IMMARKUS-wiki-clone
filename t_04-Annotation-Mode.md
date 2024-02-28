@@ -1,6 +1,6 @@
 In order to add annotations, click the sub-folder with the images you want to work with in the Images Gallery. This will open the images in the folder, and you can start annotating. 
 
-## Overview
+# Overview
 
 The following functionalities are available in the annotation mode (see numbers in **figures 3** and **4**) 
 1.	Add image 
@@ -24,7 +24,7 @@ The following functionalities are available in the annotation mode (see numbers 
 **Figure 4.** Close-up View of Functionalities on the Annotation Mode
 
 
-## Draw Annotations
+# Draw Annotations
 
 Decide which part of the image you’d like to tag and draw a shape.
 1.	 Click the draw button (number 6 in **figures 3** and **4**). You can choose one of the three options for drawing shapes (rectangular, polygon, and ellipse), then click and drag on the part of the image that you want to annotate. Make sure you click on the part of the image you want to annotate before you move the cursor across the image to avoid moving the image.
@@ -33,7 +33,7 @@ Decide which part of the image you’d like to tag and draw a shape.
 
 2.	  After you finish drawing, you will be prompted to add a tag. Choose **Add Tag** and it will open a pop-up window as below.
 
-## Creating Entities and Properties in Annotation Mode
+# Creating Entities and Properties in Annotation Mode
 
 You can now add information on the part of the image you selected. In IMMARKUS, the data model is designed based on the concepts of entity classes and properties. We will explain the data model in more detail below. Briefly speaking, we use **entity classes** to annotate specific concepts or things (i.e. a city wall); and use **properties** to record specific details about entity classes (for example, the name, the dimension, and the location).
 You can create and view entities and properties in the Annotation mode. First, we will create entities.
@@ -106,7 +106,7 @@ While filling out properties for the annotated entity, the popup for the externa
 
 **Figure 10.** Wikipedia search using IMMARKUS (page for Yangzhou)
 
-## Add image: Annotate Multiple Images on the Same Screen
+# Add image: Annotate Multiple Images on the Same Screen
 
 You can annotate images side by side by clicking on **Add image**. In this mode multiple images can be annotated at the same time. You can drag and drop windows to move them around and to change the layout.
 
