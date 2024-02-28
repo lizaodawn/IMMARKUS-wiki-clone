@@ -52,7 +52,7 @@ You can create and view entities and properties in the Annotation mode. First, l
 4.	Add an entity class description that explains how to use this entity class (e.g. instances of city gates on the image).  
 5.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
-![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/54c15702-b33e-457c-8203-daf98cb7ee2c)
+![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
 **Figure 6.** Create Entities and Properties
 
@@ -102,7 +102,7 @@ In the property editor, type a name for your property ("Place ID" in **figure 9*
 
 While filling out properties for the annotated entity, the popup for the external authority shows a search field, and the result page from the authority service underneath. Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. For now, the links to the external authority need to be copy-and-pasted in the relevant field of the schema.
 
-![Picture10](https://github.com/rsimon/immarkus/assets/128056738/e4f09a17-6c02-4365-8fba-f221ca311df7)
+![Screenshot (494)](https://github.com/rsimon/immarkus/assets/128056738/cbaf8a8d-f7f1-4c35-b1c0-d40803e49cd3)
 
 **Figure 10.** Wikipedia search using IMMARKUS (page for Yangzhou)
 
