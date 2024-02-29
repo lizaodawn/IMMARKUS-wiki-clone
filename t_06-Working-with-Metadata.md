@@ -29,6 +29,16 @@ You can create metadata schemas in the Data Model view. The metadata can be reco
 
 4. Be sure to click **Save Schema** after you are done adding properties.
 
+## Adding Metadata for Individual Images
+
+The metadata for individual images can be added in the same way as with folder metadata.  
+
+1. Choose Image Metadata and Click New Image Schema. 
+
+2. Define Property Name and choose Data Type. Click Save Property. 
+
+
+
 # Recording Folder Metadata in the Image Gallery
 
 After defining your metadata schemas, you can enter metadata for folders and images in the image gallery.
