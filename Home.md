@@ -1,11 +1,27 @@
-IMMARKUS is a semantic image annotation tool that allows you to construct custom ontologies, make selections on images, identify specific image regions using ontological concepts, and establish links between elements within your images.
+IMMARKUS is a semantic image annotation tool that allows you to construct custom ontologies, make selections on images, identify specific image regions using ontological concepts, and establish links between elements within your images.  
 
-<img width="1552" alt="Multi-image view in IMMARKUS" src="https://github.com/rsimon/immarkus/assets/470971/ebf70929-ee30-462a-9f5e-7bded3d5f827">
+**Where does IMMARKUS save files?**
 
-Setting up IMMARKUS is straightforward and hassle-free. Open it in your browser, select a folder on your computer, and begin annotating. 
+IMMARKUS operates fully locally without transmitting data to a server. This means all images, data models and annotations are stored on your computer.  
 
-Importantly, IMMARKUS operates fully locally. No data is ever transmitted to a server – everything, from images to your data model and annotations, remains securely stored on your computer, ensuring complete privacy and control over your work.
+!!This means your image files will be directly edited by IMMARKUS. We recommend you work with copies on IMMARKUS and save original files in a different folder to avoid the loss of original files. 
 
-<img width="1366" alt="IMMARKUS screenshot" src="https://github.com/rsimon/immarkus/assets/470971/6aa05112-e36b-4588-910f-81f9029f338e">
+# **Sponsorship Statement**
 
-__Next:__ [IMMARKUS Feature Overview](wiki/01-IMMARKUS-Overview)
+IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. Rainer Simon, Dr. Lee Sunkyu, Dr. Iva Stojević, Meret Meister, and Xi Wangzhi as part of the Regionalizing Infrastructures in Chinese History ([RegInfra](https://www.infrastructurelives.eu/)) project. 
+
+This research is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101019509).
+
+# **How to Cite Us**
+
+**Platform**:
+
+Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi Wangzhi. IMMARKUS: Image Annotation. 2024. [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
+
+**Code**:
+
+Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [github.com/rsimon/immarkus](https://github.com/rsimon/immarkus) 
+
+**Instructions (text)**:
+
+Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [github.com/rsimon/immarkus/wiki/](https://github.com/rsimon/immarkus/wiki)
