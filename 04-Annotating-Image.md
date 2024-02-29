@@ -32,7 +32,7 @@ Click the draw button (number 6 in **figures 3** and **4**). You can choose one 
 	 
 # Annotate Multiple Images on the Same Screen
 
-You can annotate images side by side by clicking **Add Image**. In this mode, you can annotate multiple images at the same time. You can drag and drop windows to move them around and change their layout.
+You can annotate images side by side by clicking **Add Image** (number 1 in **figures 3** and **4**). In this mode, you can annotate multiple images at the same time. You can drag and drop windows to move them around and change their layout.
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
