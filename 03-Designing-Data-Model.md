@@ -62,7 +62,7 @@ To create entities in the image gallery, click the subfolder containing the imag
 
 * **Measurement** – a number combined with a measurement word
 
-* **[External Authority](https://github.com/rsimon/immarkus/wiki/07-External-Authorities)** - external authority services such as TGAZ, CBDB, and Wikipedia.
+* **[External Authority](https://github.com/rsimon/immarkus/wiki/06-External-Authorities)** - external authority services such as TGAZ, CBDB, and Wikipedia.
 
 
 
