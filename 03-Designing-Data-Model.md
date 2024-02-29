@@ -11,7 +11,7 @@ In the **hierarchical data model**, we can define common properties that are sha
 
 To create entities in the image gallery, click the subfolder containing the images you want to work with. (If you cannot find the image gallery, see **figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
 
-1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/t_05-Annotating-Image#draw-annotations). 
+1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
 
 1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag** and it will open a popup window like one shown in **figure 5**. 
 1.	Click **Create New Entity Class**. 
