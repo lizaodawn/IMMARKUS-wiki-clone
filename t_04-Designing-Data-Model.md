@@ -1,6 +1,6 @@
 In IMMARKUS, the data model is based on the concepts of entity classes and properties. In short, we use **entity classes** to annotate specific concepts or things (e.g., a city wall); and we use **properties** to record specific details about entity classes (e.g., the name, dimension, and location). You can create and view entities and properties both in the Annotation mode and in the Data Model.
 
-In the hierarchical data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
+In the **hierarchical data model**, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
 
 
 
