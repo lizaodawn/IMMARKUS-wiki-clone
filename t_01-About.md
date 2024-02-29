@@ -1,5 +1,3 @@
-# **What is IMMARKUS?**
-
 IMMARKUS is a semantic image annotation tool that allows you to construct custom ontologies, make selections on images, identify specific image regions using ontological concepts, and establish links between elements within your images.  
 
 **Where does IMMARKUS save files?**
