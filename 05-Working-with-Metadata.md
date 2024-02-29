@@ -42,7 +42,7 @@ The metadata for individual images can be added in the same way as metadata for 
 
 ![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
 
-**Figure 17.** Adding properties in Image Metadata
+**Figure 17.** Adding Properties in Image Metadata
 <br/><br/>
 
 
