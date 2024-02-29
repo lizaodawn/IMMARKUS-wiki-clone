@@ -1,4 +1,4 @@
-After [uploading the image folder](https://github.com/rsimon/immarkus/wiki/t_02-Getting-Started), the IMMARKUS interface appears. The following options are available in the left menu bar:
+After [uploading the image folder](https://github.com/rsimon/immarkus/wiki/01-Uploading-Images), the IMMARKUS interface appears. The following options are available in the left menu bar:
 
 1.	**Images** is where all the subfolders are stored. Clicking on an image opens the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image).
 2.	**Data model** is where you can create or edit [data model](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model) for annotating images. You can also input the [metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata).
