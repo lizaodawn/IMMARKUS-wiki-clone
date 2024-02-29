@@ -1,10 +1,9 @@
-In order to add annotations, click the sub-folder with the images you want to work with in the Images Gallery. This will open the images in the folder, and you can start annotating. 
+To add annotations, in the image gallery, click the subfolder containing the images you want to work with. This will open the images in the folder, and you can start annotating. 
 
 # Overview
 
-The following functionalities are available in the annotation mode (see numbers in **figures 3** and **4**) 
-1.	Add image 
-
+The following functionalities are available in annotation mode (see numbers in **figures 3** and **4**) 
+1.	[Add image](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#annotate-multiple-images-on-the-same-screen)
 2.	+/- (zoom in/out of the image)
 3.	Move through the images in the same subfolder
 4.	Undo/redo buttons
