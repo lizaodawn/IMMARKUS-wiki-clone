@@ -9,4 +9,4 @@ After [uploading the image folder](https://github.com/rsimon/immarkus/wiki/t_02-
 
 ![Picture2](https://github.com/rsimon/immarkus/assets/128056738/6a94da2e-0e02-4e24-ab65-b1b4f3ece46b)
 
-**Figure 2.** The IMMARKUS interface showing the image gallery
+**Figure 2.** The IMMARKUS Interface Showing the Image Gallery
