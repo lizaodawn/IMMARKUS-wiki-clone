@@ -10,7 +10,7 @@ IMMARKUS operates fully locally without transmitting data to a server. This mean
 
 # **Sponsorship Statement**
 
-IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. Rainer Simon, Dr. Lee Sunkyu, Dr. Iva Stojević, Meret Meister, and Xi Wangzhi as part of the Regionalizing Infrastructures in Chinese History ([RegInfra](https://www.infrastructurelives.eu/%22%20/o%20%22https://www.infrastructurelives.eu/)) project. 
+IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. Rainer Simon, Dr. Lee Sunkyu, Dr. Iva Stojević, Meret Meister, and Xi Wangzhi as part of the Regionalizing Infrastructures in Chinese History ([RegInfra](https://www.infrastructurelives.eu/)) project. 
 
 This research is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101019509).
 
