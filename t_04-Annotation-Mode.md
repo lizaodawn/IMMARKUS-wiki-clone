@@ -20,7 +20,7 @@ The following functionalities are available in annotation mode (see numbers in *
 ![Screenshot (485)](https://github.com/rsimon/immarkus/assets/128056738/63fd251f-c3e7-4746-9164-c0432fca8576)
 
 
-**Figure 4.** Close-up View of Functionalities on the Annotation Mode
+**Figure 4.** Close-up View of Functionalities in Annotation Mode
 
 
 # Draw Annotations
