@@ -4,55 +4,55 @@ You can create a hierarchical data model. For the concepts of entities and prope
 
 In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
 
-You can create a child class in annotation mode and in the Data Model (see **figure 12**). Click the Create New Entity button and: 
+You can create a child class in annotation mode (see **figure 12**) and in the Data Model. Click the Create New Entity button and: 
 
 1. Define **Entity Class** (city_gate) 
 
 1. Define **Display Name** (City gate) 
 
-1. Choose the **Parent Class** (in this case the Parent is obj_part.) 
+1. Choose the **Parent Class** (in this case the Parent is obj_part) 
 
 ![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
 
 
-**Figure 12.** Create Entity on Data Model
+**Figure 12.** Create Child- Parent Relationships
 <br/><br/>
 
 ## Inherited Properties
 
-In Figure 13, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
+In **figure 13**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 13**). This means no specific property has been added to this child class. But as a child class city_gate inherits all the properties from the parent class (circled in blue) as shown on the right sidebar in **figure 13**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 13**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right sidebar in **figure 13**.
 
 
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
 
-**Figure 13.**  A child class properties inherited from a parent class
+**Figure 13.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
 <br/><br/>
 
 ## View Parent-Child Relationship
 
 Classes do not need to have a parent-child relationship. Whether they do depends on your own data design. 
 
-* The entity classes for which you have created child classes have a drop-down menu “>” on the left (red square in **figure 14**). 
+The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **figure 14**). 
 
-> * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
+* Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
-> * The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
+* The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
 
-> * On the row of the child class, you can only see the properties specifically added to the child class. 
+* On the row of the child class, you can only see the properties specifically added to the child class (see the "location site" parent and "survey area" on **figure 14**). 
 
-* The ones that do not have children have no drop-down menu (blue square in **figure 14**).  
+Classes that do not have children have no drop-down menu (blue square on **figure 14**).  
 
-![Screenshot (497)](https://github.com/rsimon/immarkus/assets/128056738/e35eb699-4332-47e5-9dac-32a328b6b90a)
+![Screenshot (82)](https://github.com/rsimon/immarkus/assets/128056738/7a9f5b76-79c2-4d3f-bf3c-61f41f87dad9)
 
-**Figure 14.** Entity Classes on Data Model
+**Figure 14.** Entity Classes in the Data Model
 <br/><br/>
 
 # Creating Metadata Schemas
 
 
-In the data model you can also add the metadata. The metadata can be recorded at both the folder (or sub-folder) and the individual image level. 
+You can also create metadata schemas in the Data Model view. The metadata can be recorded at the folder (or sub-folder) level as well as at the individual image level. 
 
 ## Adding Folder Metadata
 
@@ -63,7 +63,7 @@ In the data model you can also add the metadata. The metadata can be recorded at
 **Figure 15. Folder Metadata** 
 <br/><br/>
 
-2. Properties in metadata are added in the same way as with the entity classes, with the same property options.  
+2.  Metadata properties are added in the same way as entity classes, with the same property options.  
 
 ![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
 
@@ -76,11 +76,11 @@ In the data model you can also add the metadata. The metadata can be recorded at
 
 **Figure 17.** Choose Data Type of Folder Metadata
 
-4. After you finish, make sure to click **Save Schema**.
+4. Be sure to click **Save Schema** after you are done adding properties.
 
 ## Adding Metatdata for Individual Images
 
-The metadata for individual images can be added in the same way as with folder metadata.  
+The metadata for individual images can be added in the same way as metadata for folders.  
 
 1. Choose **Image Metadata** and Click **New Image Schema**. 
 
