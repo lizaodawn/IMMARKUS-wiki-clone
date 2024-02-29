@@ -7,7 +7,7 @@ In the **hierarchical data model**, we can define common properties that are sha
 
 # Creating Entities and Properties in Annotation Mode
 
-To create entities in the image gallery, click the subfolder containing the images you want to work with. (See **figure 2** for the image gallery in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/t_03-Interface-Overview)) This will open the images in the folder.
+To create entities in the image gallery, click the subfolder containing the images you want to work with. (If you cannot find the image gallery, see **figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/t_03-Interface-Overview)) This will open the images in the folder.
 
 1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/t_05-Annotating-Image#draw-annotations). 
 
