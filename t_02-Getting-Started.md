@@ -2,10 +2,9 @@
 
 1. Go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
-1. Click **Open New Folder** and choose a folder with images.  
+1. Click **Open New Folder** and select the folder containing the images you want to annotate.  
  
-
-![Screenshot (512)](https://github.com/rsimon/immarkus/assets/128056738/a912be2c-33fb-4295-9cfb-3fea27f2f415)
+![Screenshot (513)](https://github.com/rsimon/immarkus/assets/128056738/671704b5-c054-4d80-b2ae-186ca3e02ba1)
 
 
 **Figure 1.** The main page of IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
