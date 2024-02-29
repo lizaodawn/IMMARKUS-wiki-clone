@@ -101,7 +101,7 @@ You can create a child class in annotation mode (see **figure 7**) and in the Da
 
 In **figure 13**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 13**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right sidebar in **figure 8**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 8**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right sidebar in **figure 8**.
 
 
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
@@ -113,7 +113,7 @@ In the Properties editor, it looks like this entity does not have any properties
 
 Classes do not need to have a parent-child relationship. Whether they do depends on your own data design. 
 
-The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **figure 14**). 
+The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **figure 9**). 
 
 * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
