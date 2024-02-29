@@ -10,14 +10,9 @@ In the **hierarchical data model**, we can define common properties that are sha
 To create entities, in the image gallery, click the subfolder containing the images you want to work with. This will open the images in the folder.
 
 1. In the Image Gallery, decide which part of the image you would like to tag and draw a shape. 
-After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. 
-Choose **Add Tag** and it will open a popup window like one shown in **figure 5**. 
 
-![image](https://github.com/rsimon/immarkus/assets/160752064/991ed294-0206-4a91-ae48-a9316b481981)
-
-
-
-2.	Click **Create New Entity Class**. 
+1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag** and it will open a popup window like one shown in **figure 5**. 
+1.	Click **Create New Entity Class**. 
 
 
 
@@ -25,26 +20,27 @@ Choose **Add Tag** and it will open a popup window like one shown in **figure 5*
 
 **Figure 5.** Create Entities in Annotation Mode
 
-3.	Click on **Entity Class** and name the entity class (e.g. "city_gate.”)
+4.	Click on **Entity Class** and name the entity class (e.g. "city_gate.”)
 
     •	You can select the color of each entity on the right panel.
-4.	You can define a different **Display Name**. In this case, "city gate.”
-5.	Add an **Entity Class Description** that explains how to use this entity class (e.g., instances of city gates in the image).  
-6.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
+
+5.	You can define a different **Display Name**. In this case, "city gate.”
+6.	Add an **Entity Class Description** that explains how to use this entity class (e.g., instances of city gates in the image).  
+7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
 **Figure 6.** Create Entities and Properties
 
-7.	Click **Add Property**. This opens the property editor as shown in **figure 7**.
+8.	Click **Add Property**. This opens the property editor as shown in **figure 7**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
 **Figure 7.** Add Properties
 
-8.	Add a property. Define **Property Name**.
+9.	Add a property. Define **Property Name**.
 
-9.	Now select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
+10.	Now select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
      •	**Text** - a basic text field
 
@@ -60,16 +56,16 @@ Choose **Add Tag** and it will open a popup window like one shown in **figure 5*
 
      •	**[External Authority](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#add-external-authorities)** (follow the link)
 
-10.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
+11.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
 
 ![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
 
 **Figure 8.** Choose Data Type
 
 
-11.	After you have added each property, click **Save Property**. 
+1.	After you have added each property, click **Save Property**. 
 
-12.	When you are finished adding properties, click **Save Entity Class**.
+1.	When you are finished adding properties, click **Save Entity Class**.
 
 ## Add External Authorities
 
@@ -139,31 +135,3 @@ Classes that do not have children have no drop-down menu (blue square on **figur
 **Figure 14.** Entity Classes in the Data Model
 <br/><br/>
 
-# Creating Metadata Schemas
-
-
-You can also create metadata schemas in the Data Model view. The metadata can be recorded at the folder (or sub-folder) level as well as at the individual image level. 
-
-## Adding Folder Metadata
-
-1. Go to the **Folder Metadata** tab and click **New Folder Schema**. 
-
-![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/2210a06d-eedd-482f-b519-16b28e845113)
-
-**Figure 15. Folder Metadata** 
-<br/><br/>
-
-2.  Metadata properties are added in the same way as entity classes, with the same [property options](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#creating-entities-and-properties-in-annotation-mode).  
-
-![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
-
-**Figure 16.** Add Folder Metadata
-<br/><br/>
-
-3. Add **Property Name** ("title” below) and choose a **Data Type** ("text"). Click **Save Property**. 
-
-![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
-
-**Figure 17.** Choose Data Type of Folder Metadata
-
-4. Be sure to click **Save Schema** after you are done adding properties.
