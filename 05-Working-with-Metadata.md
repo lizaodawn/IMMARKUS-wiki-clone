@@ -10,7 +10,7 @@ You can create metadata schemas in the Data Model view. The metadata can be reco
 
 ![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/2210a06d-eedd-482f-b519-16b28e845113)
 
-**Figure 13. Folder Metadata** 
+**Figure 13**. Folder Metadata 
 <br/><br/>
 
 2.  Metadata properties are added in the same way as entity classes, with the same [property options](https://github.com/rsimon/immarkus/wiki/t_04-Designing-Data-Model#property-options).  
@@ -72,7 +72,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ## Adding Metadata in the Image Annotation View
 
-You can also enter metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 22**). Select the Schema for your metadata and fill in the properties you defined in the Data Model. 
+You can also enter metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 20**). Select the Schema for your metadata and fill in the properties you defined in the Data Model. 
 
 ![Screenshot (507)](https://github.com/rsimon/immarkus/assets/128056738/eaafd13a-7bd8-408e-aaa5-5a512bcce8ba)
 
