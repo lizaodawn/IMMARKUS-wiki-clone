@@ -26,11 +26,15 @@ To create entities in the image gallery, click the subfolder containing the imag
 
 5.	You can define a different **Display Name**. In this case, "city gate.”
 6.	Add an **Entity Class Description** that explains how to use this entity class (e.g., instances of city gates in the image).  
+
+
 7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 6**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
 **Figure 6.** Create Entities and Properties
+
+
 
 8.	Click **Add Property**. This opens the property editor as shown in **figure 7**.
 
@@ -42,19 +46,23 @@ To create entities in the image gallery, click the subfolder containing the imag
 
 10.	Now select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
-     •	**Text** - a basic text field
+### Property Options
 
-     •	**Number** - a numeric field
+* **Text** - a basic text field
 
-     •	**Options** - a list of values to choose from
+* **Number** - a numeric field
 
-     •	**URI** - a text field which validates whether the content is a URI, and which will be clickable in the interface
+* **Options** - a list of values to choose from
 
-     •	**Geo-Coordinates** - a latitude/longitude coordinate pair
+* **URI** - a text field which validates whether the content is a URI, and which will be clickable in the interface
 
-     •	**Measurement** – a number combined with a measurement word
+* **Geo-Coordinates** - a latitude/longitude coordinate pair
 
-     •	**[External Authority](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#add-external-authorities)** (follow the link)
+* **Measurement** – a number combined with a measurement word
+
+* **[External Authority](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#add-external-authorities)** (follow the link)
+
+
 
 11.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
 
