@@ -99,7 +99,7 @@ You can create a child class in annotation mode (see **figure 7**) and in the Da
 
 ## Inherited Properties
 
-In **figure 13**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
+In **figure 8**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
 In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 8**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right sidebar in **figure 8**.
 
