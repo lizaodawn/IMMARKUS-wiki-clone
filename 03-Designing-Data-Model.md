@@ -81,7 +81,7 @@ To create entities in the image gallery, click the subfolder containing the imag
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
-In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes. (If you cannot find the data model, see the [Interface Overview](https://github.com/rsimon/immarkus/wiki/t_03-Interface-Overview)) 
+In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes. (If you cannot find the data model, see the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) 
 
 You can create a child class in annotation mode (see **figure 7**) and in the Data Model. Click the Create New Entity button and: 
 
