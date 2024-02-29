@@ -38,17 +38,3 @@ You can annotate images side by side by clicking **Add Image**. In this mode, yo
 
 **Figure 11.** Annotate Multiple Images Using Add Image
 
-You can create a child class in annotation mode (see **figure 12**) and in the Data Model. Click the Create New Entity button and: 
-
-1. Define **Entity Class** (city_gate) 
-
-1. Define **Display Name** (City gate) 
-
-1. Choose the **Parent Class** (in this case the Parent is obj_part) 
-
-![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
-
-
-**Figure 12.** Create Child- Parent Relationships
-<br/><br/>
-
