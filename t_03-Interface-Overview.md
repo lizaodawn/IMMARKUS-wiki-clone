@@ -1,4 +1,4 @@
-After you have [uploaded](https://github.com/rsimon/immarkus/wiki/t_02-Getting-Started) the image folder to IMMARKUS, interface includes the following options:
+After you have [uploaded the image folder](https://github.com/rsimon/immarkus/wiki/t_02-Getting-Started) the IMMARKUS interface appears. On the left menu bar, the following options become available:
 1.	**Images** is where all the subfolders are stored. Clicking on an image opens the annotation mode.
 2.	**Data model** is where you can create or edit data models for annotating images. You can also input the metadata.
 3.	**Knowledge graph** is a placeholder for now. Here you can access an overview of annotations and their relations in the future.
