@@ -1,6 +1,6 @@
 Before you start working with IMMARKUS, you need to create or locate a folder with .jpeg or .png files. 
 
-1. Go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
+1. Once you are ready, go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
 1. Click **Open New Folder** and select the folder containing the images you want to annotate.  
  
