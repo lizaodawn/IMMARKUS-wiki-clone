@@ -50,7 +50,7 @@ The metadata for individual images can be added in the same way as metadata for 
 
 After defining your metadata schemas, you can enter metadata for folders and images in the image gallery. You can also enter image metadata in the annotation mode (but not folder metadata).
 
-## Recording Folder Metadata 
+## Adding Folder Metadata 
 
 1. Click **Images** on the left sidebar to move to image gallery. Click the three dots at the bottom right of the folder and select **Information**.
 
@@ -61,7 +61,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 **Figure 20**. Recording Folder Metadata in the Image Gallery
 <br/>
 
-## Recording Individual Image Metadata 
+## Adding Individual Image Metadata 
 1. Click the three dots on the individual image. 
 2. Select a schema for your metadata and fill in the properties in the same way as the folder metadata.
 
@@ -70,7 +70,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 **Figure 21.** Recording Image Metadata in the Image Gallery   
 <br/>
 
-## Recording Metadata in the Image Annotation View
+## Adding Metadata in the Image Annotation View
 
 You can also enter metadata in the Annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right sidebar (circled in red in **figure 22**). Select the Schema for your metadata and fill in the properties you defined in the Data Model. 
 
