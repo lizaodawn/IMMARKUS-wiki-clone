@@ -2,7 +2,7 @@ To add annotations in the image gallery, click the subfolder containing the imag
 
 # Overview
 
-The following functionalities are available in annotation mode (see numbers in **figures 3** and **4**) 
+The following functionalities are available in annotation mode (see numbers in **figures 10** and **11**) 
 1.	[Add image](https://github.com/rsimon/immarkus/wiki/01-Uploading-Images)
 2.	+/- (zoom in/out of the image)
 3.	Move through the images in the same subfolder
@@ -11,16 +11,16 @@ The following functionalities are available in annotation mode (see numbers in *
 6.	[Draw shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations) (choose among rectangle, polygon, and ellipse)
 7.	Selection (select an annotation)
 8.	List (list of annotations)
-9.	[Metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata) (add or edit metadata)
+9.	[Metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata) (add or edit metadata)
 
 ![Screenshot (484)](https://github.com/rsimon/immarkus/assets/128056738/913bd4fa-8cf8-4447-9ca5-8b0b1e64fb8a)
 
-**Figure 3.** Annotation Mode
+**Figure 10.** Annotation Mode
 
 ![Screenshot (485)](https://github.com/rsimon/immarkus/assets/128056738/63fd251f-c3e7-4746-9164-c0432fca8576)
 
 
-**Figure 4.** Close-up View of Functionalities in Annotation Mode
+**Figure 11.** Close-up View of Functionalities in Annotation Mode
 
 
 # Draw Annotations
@@ -36,5 +36,5 @@ You can annotate images side by side by clicking **Add Image**. In this mode, yo
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
-**Figure 11.** Annotate Multiple Images Using Add Image
+**Figure 12.** Annotate Multiple Images Using Add Image
 
