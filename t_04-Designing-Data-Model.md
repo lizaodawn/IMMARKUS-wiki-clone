@@ -7,9 +7,9 @@ In the **hierarchical data model**, we can define common properties that are sha
 
 # Creating Entities and Properties in Annotation Mode
 
-To create entities, in the image gallery, click the subfolder containing the images you want to work with. This will open the images in the folder.
+To create entities in the image gallery, click the subfolder containing the images you want to work with. (See **figure 2** for the image gallery in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/t_03-Interface-Overview)) This will open the images in the folder.
 
-1. In the Image Gallery, decide which part of the image you would like to tag and draw a shape. 
+1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/t_05-Annotating-Image#draw-annotations). 
 
 1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag** and it will open a popup window like one shown in **figure 5**. 
 1.	Click **Create New Entity Class**. 
@@ -71,7 +71,7 @@ To create entities, in the image gallery, click the subfolder containing the ima
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
-In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
+In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes. (If you cannot find the data model, see the [Interface Overview](https://github.com/rsimon/immarkus/wiki/t_03-Interface-Overview)) 
 
 You can create a child class in annotation mode (see **figure 12**) and in the Data Model. Click the Create New Entity button and: 
 
