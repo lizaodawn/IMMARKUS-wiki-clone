@@ -22,7 +22,7 @@ Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi 
 
 **Code**:
 
-Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024.
+Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [Code repository](https://github.com/rsimon/immarkus) 
 
 **Instructions (text)**:
 
