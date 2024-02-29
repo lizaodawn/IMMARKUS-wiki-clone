@@ -76,6 +76,6 @@ You can also enter metadata in the Annotation mode. Click the individual image t
 
 ![Screenshot (507)](https://github.com/rsimon/immarkus/assets/128056738/eaafd13a-7bd8-408e-aaa5-5a512bcce8ba)
 
-**Figure 20.** Record Metadata in the Image Annotation View 
+**Figure 20.** Recording Image Metadata in the Annotation View 
 
 
