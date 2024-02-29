@@ -1,7 +1,7 @@
 # Creating Metadata Schemas
 
 
-You can also create metadata schemas in the Data Model view. The metadata can be recorded at the folder (or sub-folder) level as well as at the individual image level. 
+You can create metadata schemas in the Data Model view. The metadata can be recorded at the folder (or sub-folder) level as well as at the individual image level. 
 
 ## Adding Folder Metadata
 
