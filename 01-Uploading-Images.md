@@ -1,4 +1,4 @@
-1. Create or locate a folder with .jpeg or .png files. 
+Before you start working with IMMARKUS, you need to create or locate a folder with .jpeg or .png files. 
 
 1. Go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
