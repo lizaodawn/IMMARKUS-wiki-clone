@@ -17,7 +17,7 @@ This research is part of a project that has received funding from the European R
 
 **Platform**:
 
-Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi Wangzhi. IMMARKUS: Image Annotation. 2024. immarkus.xmarkus.org
+Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi Wangzhi. IMMARKUS: Image Annotation. 2024. [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
 **Code**:
 
