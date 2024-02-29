@@ -7,6 +7,7 @@ In the **hierarchical data model**, we can define common properties that are sha
 
 # Creating Entities and Properties in Annotation Mode
 
+To create entities, in the image gallery, click the subfolder containing the images you want to work with. This will open the images in the folder.
 In the Image Gallery, decide which part of the image you would like to tag and draw a shape. 
 After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag** and it will open a popup window like one shown in **figure 5**. 
 
