@@ -20,7 +20,7 @@ You can create metadata schemas in the Data Model view. The metadata can be reco
 **Figure 14.** Add Folder Metadata
 <br/><br/>
 
-3. Add **Property Name** ("title” below) and choose a **Data Type** ("text"). Click **Save Property**. 
+3. Add **Property Name** ("title”) and choose a **Data Type** ("text"). Click **Save Property**. 
 
 ![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
 
