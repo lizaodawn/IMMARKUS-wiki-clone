@@ -2,8 +2,8 @@
 
 
 You can create metadata schemas in the Data Model view. The metadata can be recorded at the folder (or sub-folder) level as well as at the individual image level. 
-- The [Image Metadata](#image-metadata) schema defines how you describe individual __image files__ in your collection.
-- The __Folder Metadata__ schema defines how you record information about the __directory folders__ in your collection. This can be useful in case your folders represent sub-collections.
+- The [Image Metadata]() schema defines how you describe individual __image files__ in your collection.
+- The [Folder Metadata] () schema defines how you record information about the __directory folders__ in your collection. This can be useful in case your folders represent sub-collections.
 
 ## Adding Folder Metadata
 
