@@ -12,7 +12,7 @@ You can create metadata schemas in the Data Model view. The metadata can be reco
 **Figure 15. Folder Metadata** 
 <br/><br/>
 
-2.  Metadata properties are added in the same way as entity classes, with the same [property options](https://github.com/rsimon/immarkus/wiki/t_04-Annotation-Mode#creating-entities-and-properties-in-annotation-mode).  
+2.  Metadata properties are added in the same way as entity classes, with the same [property options](https://github.com/rsimon/immarkus/wiki/t_04-Designing-Data-Model#property-options).  
 
 ![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
 
