@@ -7,7 +7,7 @@
 ![Screenshot (513)](https://github.com/rsimon/immarkus/assets/128056738/671704b5-c054-4d80-b2ae-186ca3e02ba1)
 
 
-**Figure 1.** The main page of IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
+**Figure 1.** The Main Page of IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
 
 * If you have already used IMMARKUS, the folder which you last worked with will be shown next to the **Open New Folder** (e.g., in figure 1 "workshop cases") 
 
