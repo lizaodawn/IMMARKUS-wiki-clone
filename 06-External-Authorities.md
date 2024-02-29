@@ -1,4 +1,3 @@
-## Add External Authorities
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
 In the property editor, type a name for your property ("place ID" in **figure 9**) and select the External Authority field type.
