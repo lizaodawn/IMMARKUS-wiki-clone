@@ -103,7 +103,7 @@ You can create a child class in the Annotation Mode (see **Figure 7**) and in th
 
 In **Figure 8**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 8**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 8**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 8**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 8**.
 
 
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
