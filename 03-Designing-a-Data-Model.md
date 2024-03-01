@@ -83,7 +83,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) 
 
-You can create a child class in the Annotation Mode (see **Figure 7**) and in the Data Model mode.  
+You can create a child class in both Annotation Mode (see **Figure 7**) and Data Model mode.  
 
 1. Click the Create New Entity button 
 
