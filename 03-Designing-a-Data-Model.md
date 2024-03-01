@@ -22,15 +22,15 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 **Figure 3.** Creating Entities in Annotation Mode
 
-4.	Click **Entity Class** and name the entity class (e.g. "city_gate.”)
+5.	Click **Entity Class** and name the entity class (e.g. "city_gate.”)
 
     •	You can select the color of each entity on the right panel.
 
-5.	You can define a different **Display Name**. In this case, "city gate.”
-6.	Add an **Entity Class Description** that explains the use of this entity class (e.g., instances of fully displayed city gates in paintings and maps).  
+6.	You can define a different **Display Name**. In this case, "city gate.”
+7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., instances of fully displayed city gates in paintings and maps).  
 
 
-7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 4**)
+8.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 4**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
@@ -38,15 +38,15 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 
 
-8.	Click **Add Property**. This opens the property editor as shown in **Figure 5**.
+9.	Click **Add Property**. This opens the property editor as shown in **Figure 5**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
 **Figure 5.** Add Properties
 
-9.	Define the **Property Name**.
+10.	Define the **Property Name**.
 
-10.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
+11.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
 ### Property Options
 
@@ -66,16 +66,16 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 
 
-11.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
+12.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
 
 ![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
 
 **Figure 6.** Selecting a Data Type
 
 
-11.	After you have added each property, click **Save Property**. 
+13.	After you have added each property, click **Save Property**. 
 
-12.	When you have finished adding properties, click **Save Entity Class**.
+14.	When you have finished adding properties, click **Save Entity Class**.
 
 
 
