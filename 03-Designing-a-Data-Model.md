@@ -96,7 +96,7 @@ You can create a child class in the Annotation Mode (see **Figure 7**) and in th
 ![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
 
 
-**Figure 7.** Creating Child- Parent Relationships
+**Figure 7.** Creating Parent-Child Relationships
 <br/><br/>
 
 ## Inherited Properties
