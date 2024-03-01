@@ -9,18 +9,18 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Entities and Properties in Annotation Mode
 
-To create entities in the Image Gallery, click the subfolder containing the images you want to work with. (If you cannot find the image gallery, see **Figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
+1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the image gallery, see **Figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
 
 1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
 
-1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag** and it will open a popup window like one shown in **figure 3**. 
+1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag**. A popup window like one shown in **Figure 3** appears. 
 1.	Click **Create New Entity Class**. 
 
 
 
 ![Screenshot (487)](https://github.com/rsimon/immarkus/assets/128056738/e9d557b0-6af3-41a8-8a3d-5e7fadadfccc)
 
-**Figure 3.** Create Entities in Annotation Mode
+**Figure 3.** Creating Entities in Annotation Mode
 
 4.	Click on **Entity Class** and name the entity class (e.g. "city_gate.”)
 
@@ -30,15 +30,15 @@ To create entities in the Image Gallery, click the subfolder containing the imag
 6.	Add an **Entity Class Description** that explains how to use this entity class (e.g., instances of city gates in the image).  
 
 
-7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **figure 4**)
+7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 4**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
-**Figure 4.** Create Entities and Properties
+**Figure 4.** Creating Entities and Properties
 
 
 
-8.	Click **Add Property**. This opens the property editor as shown in **figure 5**.
+8.	Click **Add Property**. This opens the property editor as shown in **Figure 5**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
