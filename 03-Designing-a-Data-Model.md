@@ -1,6 +1,6 @@
 In IMMARKUS you can define a data model consisting of entity classes and properties. A well-designed data model can help ensure that you gather data systematically and tailored to the research questions the annotation process is aimed to address. Data models can also help ensure consistency in collaborative research projects.
 
-**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties both in the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
+**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties in both [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
 
 In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
 
