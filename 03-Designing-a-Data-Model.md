@@ -1,6 +1,6 @@
 In IMMARKUS you can define a data model consisting of entity classes and properties. A well-designed data model can help ensure that you gather data systematically and tailored to the research questions the annotation process is aimed to address. Data models can also help ensure consistency in collaborative research projects.
 
-**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties both in the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image) and the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model).
+**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties both in the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
 
 In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
 
@@ -9,9 +9,9 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Entities and Properties in Annotation Mode
 
-1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 2** in [The Interface](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This opens the images in the folder.
+1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 2** in [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) This opens the images in the folder.
 
-1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
+1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#draw-annotations). 
 
 1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (see **Figure 3** ). 
 1.	Click **Create New Entity Class**. 
@@ -81,7 +81,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
-In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) 
+In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) 
 
 You can create a child class in the Annotation Mode (see **figure 7**) and in the Data Model mode.  
 
