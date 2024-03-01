@@ -119,11 +119,11 @@ The entity classes for which you have created child classes have a drop-down men
 
 * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
-* The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
+* The properties belonging to or inherited from the parent to the child class are shown in the row for the parent class.  
 
-* On the row of the child class, you can only see the properties specifically added to the child class (see the properties for "location site" parent and "survey area" child in **Figure 9**). 
+* In the row of the child class, you can only see the properties that have been specifically added to the child class (see the properties for "location site" parent and "survey area" child in **Figure 9**). 
 
-Classes that do not have children have no drop-down menu (blue square in **Figure 9**).  
+Classes that have no children do not have drop-down menu (blue square in **Figure 9**).  
 
 ![Screenshot (82)](https://github.com/rsimon/immarkus/assets/128056738/7a9f5b76-79c2-4d3f-bf3c-61f41f87dad9)
 
