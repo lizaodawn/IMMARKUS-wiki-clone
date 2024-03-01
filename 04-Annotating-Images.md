@@ -2,7 +2,7 @@ To add annotations in the image gallery, click the subfolder containing the imag
 
 # Overview
 
-The following functionalities are available in annotation mode (see numbers in **figures 10** and **11**) 
+The following functionalities are available in annotation mode (see numbers in **Figure 10** and **11**) 
 1.	[Add image](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#annotate-multiple-images-on-the-same-screen)
 2.	+/- (zoom in/out of the image)
 3.	Move through the images in the same subfolder
