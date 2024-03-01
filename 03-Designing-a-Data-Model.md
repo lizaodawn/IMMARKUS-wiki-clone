@@ -22,7 +22,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 **Figure 3.** Creating Entities in Annotation Mode
 
-5.	Click **Entity Class** and name the entity class (e.g. "city_gate.”)
+5.	Click **Entity Class** and name the entity class (e.g. "city_gate”).
 
     •	You can select the color of each entity on the right panel.
 
