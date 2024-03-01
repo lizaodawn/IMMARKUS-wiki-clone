@@ -30,7 +30,7 @@ Click the draw button (number 6 in **figures 3** and **4**). You can choose one 
 
 **Tip:** Double-click will end the drawing (this is useful for drawing a polygon).
 	 
-# Annotate Multiple Images on the Same Screen
+# Annotating Multiple Images on the Same Screen
 
 You can annotate images side by side by clicking **Add Image** (number 1 in **figures 3** and **4**). In this mode, you can annotate multiple images at the same time. You can drag and drop windows to move them around and change their layout.
 
