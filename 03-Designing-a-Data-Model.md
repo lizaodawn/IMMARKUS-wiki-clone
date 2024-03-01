@@ -27,7 +27,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
     •	You can select the color of each entity on the right panel.
 
 6.	You can define a different **Display Name**. In this case, "city gate.”
-7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., instances of fully displayed city gates in paintings and maps).  
+7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., a city gate is a passageway through a city wall).  
 
 
 8.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 4**)
@@ -83,7 +83,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) 
 
-You can create a child class in the Annotation Mode (see **figure 7**) and in the Data Model mode.  
+You can create a child class in the Annotation Mode (see **Figure 7**) and in the Data Model mode.  
 
 1. Click the Create New Entity button 
 
