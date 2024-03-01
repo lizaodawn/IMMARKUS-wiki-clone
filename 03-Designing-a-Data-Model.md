@@ -13,7 +13,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#draw-annotations). 
 
-1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (see **Figure 3** ). 
+1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (**Figure 3** ). 
 1.	Click **Create New Entity Class**. 
 
 
