@@ -9,6 +9,6 @@
 
 **Figure 1.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
 
-* If you have already used IMMARKUS, the folder with which you last worked will be shown next to **Open New Folder** (e.g., in figure 1 "workshop cases") 
+* If you have already used IMMARKUS, the folder with which you last worked will be shown next to **Open New Folder** (in Figure 1 above, the folder "workshop cases") 
 
 4. You will see a popup window saying "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
