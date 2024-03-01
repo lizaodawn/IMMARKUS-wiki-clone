@@ -13,7 +13,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
 
-1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window like one shown in **Figure 3** appears. 
+1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (see **Figure 3** ). 
 1.	Click **Create New Entity Class**. 
 
 
@@ -22,12 +22,12 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 **Figure 3.** Creating Entities in Annotation Mode
 
-4.	Click on **Entity Class** and name the entity class (e.g. "city_gate.”)
+4.	Click **Entity Class** and name the entity class (e.g. "city_gate.”)
 
     •	You can select the color of each entity on the right panel.
 
 5.	You can define a different **Display Name**. In this case, "city gate.”
-6.	Add an **Entity Class Description** that explains how to use this entity class (e.g., instances of city gates in the image).  
+6.	Add an **Entity Class Description** that explains the use of this entity class (e.g., instances of fully displayed city gates in paintings and maps).  
 
 
 7.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 4**)
@@ -44,9 +44,9 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 **Figure 5.** Add Properties
 
-9.	Add a property. Define **Property Name**.
+9.	Define the **Property Name**.
 
-10.	Now select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
+10.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
 ### Property Options
 
@@ -70,38 +70,40 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 ![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
 
-**Figure 6.** Choose Data Type
+**Figure 6.** Selecting a Data Type
 
 
 11.	After you have added each property, click **Save Property**. 
 
-12.	When you are finished adding properties, click **Save Entity Class**.
+12.	When you have finished adding properties, click **Save Entity Class**.
 
 
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
-In the data model, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes. (If you cannot find the data model, see the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) 
+In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) 
 
-You can create a child class in annotation mode (see **figure 7**) and in the Data Model. Click the Create New Entity button and: 
+You can create a child class in the Annotation Mode (see **figure 7**) and in the Data Model mode.  
+
+1. Click the Create New Entity button 
 
 1. Define **Entity Class** (city_gate) 
 
 1. Define **Display Name** (City gate) 
 
-1. Choose the **Parent Class** (in this case the Parent is obj_part) 
+1. Select the **Parent Class** (in this case the Parent is obj_part) 
 
 ![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
 
 
-**Figure 7.** Create Child- Parent Relationships
+**Figure 7.** Creating Child- Parent Relationships
 <br/><br/>
 
 ## Inherited Properties
 
-In **figure 8**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
+In **Figure 8**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **figure 8**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right sidebar in **figure 8**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 8**). This means no specific property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 8**.
 
 
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
@@ -109,19 +111,19 @@ In the Properties editor, it looks like this entity does not have any properties
 **Figure 8.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
 <br/><br/>
 
-## Viewing the Parent-Child Relationship
+## Viewing Parent-Child Relationships
 
 Classes do not need to have a parent-child relationship. Whether they do depends on your own data design. 
 
-The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **figure 9**). 
+The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **Figure 9**). 
 
 * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
 * The properties belonging to or inherited from the parent to the child class are shown on the row of the parent class.  
 
-* On the row of the child class, you can only see the properties specifically added to the child class (see the properties for "location site" parent and "survey area" child on **figure 9**). 
+* On the row of the child class, you can only see the properties specifically added to the child class (see the properties for "location site" parent and "survey area" child on **Figure 9**). 
 
-Classes that do not have children have no drop-down menu (blue square on **figure 9**).  
+Classes that do not have children have no drop-down menu (blue square on **Figure 9**).  
 
 ![Screenshot (82)](https://github.com/rsimon/immarkus/assets/128056738/7a9f5b76-79c2-4d3f-bf3c-61f41f87dad9)
 
