@@ -1,15 +1,15 @@
-In IMMARKUS, the data model is based on the concepts of entity classes and properties. 
+In IMMARKUS you can define a data model consisting of entity classes and properties. A well-designed data model can help ensure that you gather data systematically and tailored to the research questions the annotation process is aimed to address. Data models can also help ensure consistency in collaborative research projects.
 
-In short, we use **entity classes** to annotate specific concepts or things (e.g., a city wall); and we use **properties** to record specific details about entity classes (e.g., the name, dimension, and location). You can create and view entities and properties both in the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image) and the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model).
+**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties both in the [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image) and the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model).
 
-In the **hierarchical data model**, we can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
+In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
 
 
 
 
 # Creating Entities and Properties in Annotation Mode
 
-To create entities in the image gallery, click the subfolder containing the images you want to work with. (If you cannot find the image gallery, see **figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
+To create entities in the Image Gallery, click the subfolder containing the images you want to work with. (If you cannot find the image gallery, see **Figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
 
 1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
 
