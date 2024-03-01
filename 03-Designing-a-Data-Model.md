@@ -9,11 +9,11 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Entities and Properties in Annotation Mode
 
-1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the image gallery, see **Figure 2** in the [Interface Overview](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This will open the images in the folder.
+1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 2** in [The Interface](https://github.com/rsimon/immarkus/wiki/02-Interface-Overview)) This opens the images in the folder.
 
-1. In the Image Gallery, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
+1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations). 
 
-1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the sidebar on the right. Choose **Add Tag**. A popup window like one shown in **Figure 3** appears. 
+1. After you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window like one shown in **Figure 3** appears. 
 1.	Click **Create New Entity Class**. 
 
 
