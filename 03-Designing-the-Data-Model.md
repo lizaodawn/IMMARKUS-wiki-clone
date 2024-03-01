@@ -109,7 +109,7 @@ In the Properties editor, it looks like this entity does not have any properties
 **Figure 8.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
 <br/><br/>
 
-## View Parent-Child Relationship
+## Viewing the Parent-Child Relationship
 
 Classes do not need to have a parent-child relationship. Whether they do depends on your own data design. 
 
