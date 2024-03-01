@@ -22,6 +22,6 @@ Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi 
 
 Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [github.com/rsimon/immarkus](https://github.com/rsimon/immarkus) 
 
-**Instructions (text)**:
+**Instructions (wiki)**:
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [github.com/rsimon/immarkus/wiki/](https://github.com/rsimon/immarkus/wiki)
