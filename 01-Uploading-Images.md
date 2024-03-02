@@ -1,5 +1,7 @@
 1. To start working with IMMARKUS, create or locate a folder with jpeg or png files on your computer. 
 
+NOTE: Your image files will be directly edited by IMMARKUS. We recommend that you work with copies of your files and save the original files in another folder to avoid the loss of originals. 
+
 2. Go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
 3. Click **Open New Folder** and select the folder containing the images you want to annotate.  
