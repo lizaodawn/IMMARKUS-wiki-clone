@@ -12,7 +12,7 @@ IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. 
 
 This research is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101019509).
 
-# **How to Cite Us**
+# **How to cite us**
 
 **Platform**:
 
