@@ -32,6 +32,9 @@ Click the draw button (#6 in **Figure 3** and **4**) and select one of the three
 Then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
+
+# Creating Entities and Properties in Annotation Mode
+
 	 
 # Annotating Multiple Images Simultaneously
 
