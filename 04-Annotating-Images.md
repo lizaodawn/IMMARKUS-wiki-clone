@@ -33,7 +33,7 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
 
-# Creating Entities and Properties 
+# Creating Entities and Properties in Annotation Mode
 
 You can create and view entities and properties in both [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
 
