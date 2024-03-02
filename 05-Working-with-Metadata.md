@@ -30,7 +30,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 ## Adding Metadata for Individual Images
 
-A metadata schema for individual images can be added in the same way as metadata for folders.  
+A metadata schema for individual images can be added in the same way as metadata schemas for folders.  
 
 1. Choose **Image Metadata** and click **New Image Schema**. 
 
