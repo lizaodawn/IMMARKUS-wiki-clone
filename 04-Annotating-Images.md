@@ -114,7 +114,7 @@ Click the ↗ icon on the right side of the search field to open the current aut
 
 To add an id paste the relevant information from the external authority in the corresponding field of the schema.
 
-![Screenshot (494)](https://github.com/rsimon/immarkus/assets/128056738/cbaf8a8d-f7f1-4c35-b1c0-d40803e49cd3)
+<img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
-**Figure 22.** Wikipedia Search Result of "Yangzhou" Using IMMARKUS
+**Figure 22.** TGAZ Result of "Guangchang County" Using IMMARKUS
 
