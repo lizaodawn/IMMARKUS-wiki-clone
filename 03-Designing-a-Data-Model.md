@@ -6,6 +6,67 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Entities and Properties in the Data Model Mode
 
+To create entities and properties in the data model mode, enter the data model mode by clicking Data Model on your left side bar.
+
+1. On the upper menu bar you will see that you are editing Entity Classes. Click **Create New Entity Class**.
+
+<img width="941" alt="Screenshot 2024-03-02 at 23 35 32" src="https://github.com/rsimon/immarkus/assets/160752064/c04a31b2-a4cc-4ab9-bf5a-2ff9684a93ba">
+
+2. Click **Entity Class** and name the entity class (e.g. "bridge”).
+
+    •	You can select the color of each entity on the right panel.
+
+6.	You can define a different **Display Name**. Or you can leave it empty to display the same entity class name (e.g. "bridge")
+7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., "a bridge is an elevated structure across a river or other obstacles")
+
+8.	Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 4**)
+
+<img width="952" alt="Screenshot 2024-03-02 at 23 47 22" src="https://github.com/rsimon/immarkus/assets/160752064/1f2811c5-73c9-48ce-9a51-9816c39fb390">
+
+9.	Click **Add Property**. This opens the property editor as shown in **Figure 5**.
+
+<img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
+
+**Figure 5.** Add Properties
+
+10.	Define the **Property Name**.
+
+11.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
+
+### Property Options
+
+* **Text** - a basic text field
+
+* **Number** - a numeric field
+
+* **Options** - a list of values to choose from
+
+* **URI** - a text field which validates whether the content is a URI, and which will be clickable in the interface
+
+* **Geo-Coordinates** - a latitude/longitude coordinate pair
+
+* **Measurement** – a number combined with a measurement word
+
+* **[External Authority](https://github.com/rsimon/immarkus/wiki/06-External-Authorities)** - external authority services such as TGAZ, CBDB, and Wikipedia.
+
+
+12.	The data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
+
+<img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
+
+
+**Figure 6.** Selecting a Data Type
+
+
+13.	After you have added each property, click **Save Property**. 
+
+14.	When you have finished adding properties, click **Save Entity Class**.
+
+
+
+
+	 
+
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
 In Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) 
