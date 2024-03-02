@@ -17,7 +17,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 ![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
 
-**Figure 14.** Add a Schema for Folder Metadata
+**Figure 14.** Adding a Schema for Folder Metadata
 <br/><br/>
 
 3. Add a metadata field under **Property Name** ("title”) and choose a **Data Type** ("text"). Click **Save Property**. 
