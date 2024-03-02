@@ -51,7 +51,11 @@ In the property editor, type a name for your property ("place ID" in **Figure 21
 
 **Figure 21.** Available Options for External Authorities
 
-As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. The links to external authorities need to be copy-and-pasted in the relevant field of the schema.
+As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
+
+Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. 
+
+To add an id paste the relevant information from the external authority in the corresponding field of the schema.
 
 ![Screenshot (494)](https://github.com/rsimon/immarkus/assets/128056738/cbaf8a8d-f7f1-4c35-b1c0-d40803e49cd3)
 
