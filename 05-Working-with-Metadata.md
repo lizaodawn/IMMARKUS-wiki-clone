@@ -13,7 +13,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 **Figure 13**. Schemas for Folder Metadata 
 <br/><br/>
 
-2.  Metadata categories are added in the same way as properties for entity classes with the same [property options](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model#property-options).  
+2.  Metadata categories are added in the same way as properties for entity classes with similar [property options](https://github.com/rsimon/immarkus/wiki/03-Designing-Data-Model#property-options).  
 
 ![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
 
