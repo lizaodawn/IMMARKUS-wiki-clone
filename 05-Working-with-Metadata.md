@@ -4,7 +4,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 - The [Image Metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata#adding-metatdata-for-individual-images) schema defines how you describe individual __image files__ in your collection.
 - The [Folder Metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata#adding-folder-metadata) schema defines how you record information about the __directory folders__ in your collection. This can be useful in case your folders represent sub-collections.
 
-## Adding Folder Metadata
+## Adding a Folder Metadata Schema
 
 1. In the Data Model view, go to the **Folder Metadata** tab and click **New Folder Schema**. 
 
@@ -28,7 +28,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 4. Be sure to click **Save Schema** after you are done adding properties.
 
-## Adding Metadata for Individual Images
+## Adding a Metadata Schema for Individual Images
 
 A metadata schema for individual images can be added in the same way as metadata schemas for folders.  
 
