@@ -8,7 +8,7 @@ The following functionalities are available in annotation mode (numbers correspo
 3.	Move through the images in the same subfolder
 4.	Undo/redo 
 5.	Move between annotations
-6.	[Draw shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations) (choose rectangle, polygon, or ellipse)
+6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations) (select rectangle, polygon, or ellipse)
 7.	Select an annotation
 8.	List of annotations
 9.	Add or edit [metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata)
