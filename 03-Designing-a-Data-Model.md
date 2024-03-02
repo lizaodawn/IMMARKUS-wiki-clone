@@ -1,6 +1,6 @@
 In IMMARKUS you can define a data model consisting of entity classes and properties. A well-designed data model can help ensure that you gather data systematically and tailored to the research questions the annotation process is aimed to address. Data models can also help ensure consistency in collaborative research projects.
 
-**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties in both [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
+**Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties in both [annotation mode](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images) and data model mode. 
 
 In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are specific to child classes.
 
@@ -51,7 +51,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 * **Measurement** – a number combined with a measurement word
 
-* **[External Authority](https://github.com/rsimon/immarkus/wiki/06-External-Authorities)** - external authority services such as TGAZ, CBDB, and Wikipedia.
+* **[External Authority](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as TGAZ, CBDB, and Wikipedia.
 
 
 12.	The data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
