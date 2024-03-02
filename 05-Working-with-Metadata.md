@@ -10,21 +10,22 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 1. In the Data Model view, go to the **Folder Metadata** tab and click **New Folder Schema**. 
 
-![Screenshot (498)](https://github.com/rsimon/immarkus/assets/128056738/2210a06d-eedd-482f-b519-16b28e845113)
+<img width="993" alt="Screenshot 2024-03-03 at 00 37 29" src="https://github.com/rsimon/immarkus/assets/160752064/4a1edb58-5682-4603-8c11-bd2c346ece86">
 
 **Figure 13**. Schemas for Folder Metadata 
 <br/><br/>
 
 2.  Metadata categories are added in the same way as properties for entity classes with similar [property options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options).  
 
-![Screenshot (499)](https://github.com/rsimon/immarkus/assets/128056738/3ec44d69-8f94-4085-af65-05b2677f9879)
+<img width="837" alt="Screenshot 2024-03-03 at 00 39 13" src="https://github.com/rsimon/immarkus/assets/160752064/2e5a7224-4522-412d-bced-84a3339a2852">
+
 
 **Figure 14.** Adding a Schema for Folder Metadata
 <br/><br/>
 
-3. Add a metadata field under **Property Name** ("title”) and choose a **Data Type** ("text"). Click **Save Property**. 
+3. Add a metadata field under **Property Name** ("genre”) and choose a **Data Type** ("Options"). Click **Save Property**. 
 
-![Screenshot (500)](https://github.com/rsimon/immarkus/assets/128056738/b4d6c9f2-2c97-4e69-b3d6-f6109c744b89)
+<img width="955" alt="Screenshot 2024-03-03 at 00 48 39" src="https://github.com/rsimon/immarkus/assets/160752064/e2e8674c-d19c-4a2c-9002-ad259a922d65">
 
 **Figure 15.** Setting a Data Type in a Folder Metadata Schema
 
