@@ -74,12 +74,7 @@ You can create and view entities and properties in both [annotation mode](https:
 
 10.	Define the **Property Name**.
 
-11.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
-
-### See [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options)
-
-* **[External Authority](https://github.com/rsimon/immarkus/wiki/06-External-Authorities)** - external authority services such as TGAZ, CBDB, and Wikipedia.
-
+11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options)
 
 
 12.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
