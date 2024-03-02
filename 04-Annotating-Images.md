@@ -44,6 +44,7 @@ You can annotate images side by side by clicking **Add Image** (#1 in **Figures 
 # Using External Authorities in Annotations
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
+
 In the property editor, type a name for your property ("place ID" in **Figure 21**) and select the External Authority field type.
 
 ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
