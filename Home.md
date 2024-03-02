@@ -6,7 +6,7 @@ IMMARKUS operates fully locally without transmitting data to a server. All image
 
 Note that this means your image files will be directly edited by IMMARKUS. We recommend that you work with copies on IMMARKUS and save the original files in another folder to avoid the loss of the original files. 
 
-# **Sponsorship Statement**
+# **Funding support**
 
 IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. Rainer Simon, Dr. Lee Sunkyu, Dr. Iva Stojević, Meret Meister, and Xi Wangzhi as part of the Regionalizing Infrastructures in Chinese History ([RegInfra](https://www.infrastructurelives.eu/)) project. 
 
