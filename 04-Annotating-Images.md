@@ -1,4 +1,4 @@
-To add annotations in the image gallery, click the subfolder containing the images you want to work with. This will open the images in the folder, and you can start annotating. 
+To add annotations to your images, click the subfolder containing the images you want to work with in the Image Gallery. This will open the images in the folder, and you can start annotating. 
 
 # Overview
 
