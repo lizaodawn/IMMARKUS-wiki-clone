@@ -26,26 +26,29 @@ The following functionalities are available in annotation mode (numbers correspo
 # Drawing Annotations
 
 Decide which part of the image you would like to tag and draw a shape.
-Click the draw button (number 6 in **figures 3** and **4**). You can choose one of the three options for drawing shapes (rectangle, polygon, or ellipse), then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
 
-**Tip:** Double-click will end the drawing (this is useful for drawing a polygon).
+Click the draw button (#6 in **Figure 3** and **4**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
+
+Then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
+
+**Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
 	 
-# Annotating Multiple Images on the Same Screen
+# Annotating Multiple Images Simultaneously
 
-You can annotate images side by side by clicking **Add Image** (number 1 in **figures 3** and **4**). In this mode, you can annotate multiple images at the same time. You can drag and drop windows to move them around and change their layout.
+You can annotate images side by side by clicking **Add Image** (#1 in **Figures 3** and **4**). You can drag and drop windows to move them around and change their layout.
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
-**Figure 12.** Annotate Multiple Images Using Add Image
+**Figure 12.** Annotating Multiple Images Simultaneously Using Add Image
 
-# Adding External Authority Property
+# Using External Authorities in Annotations
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
-In the property editor, type a name for your property ("place ID" in **figure 21**) and select the External Authority field type.
+In the property editor, type a name for your property ("place ID" in **Figure 21**) and select the External Authority field type.
 
 ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
 
-**Figure 21.** Available Options of External Authorities
+**Figure 21.** Available Options for External Authorities
 
 As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. The links to external authorities need to be copy-and-pasted in the relevant field of the schema.
 
