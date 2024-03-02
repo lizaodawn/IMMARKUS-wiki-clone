@@ -11,6 +11,6 @@ NOTE: Your image files will be directly edited by IMMARKUS. We recommend that yo
 
 **Figure 1.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
 
-* If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in Figure 1 above, the folder "workshop cases") 
+ If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in Figure 1 above, the folder "workshop cases") 
 
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
