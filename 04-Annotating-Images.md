@@ -5,9 +5,9 @@ To add annotations to your images, click the subfolder containing the images you
 The following functionalities are available in annotation mode (numbers correspond to those in **Figure 10** and **11**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#annotate-multiple-images-on-the-same-screen)
 2.	Zoom in or zoom out of an image
-3.	Move through the images in the same subfolder
+3.	Browse through the images in the same subfolder
 4.	Undo/redo 
-5.	Move allows you to exit the draw mode and click annotations
+5.	Move individual images
 6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Image#draw-annotations) (select rectangle, polygon, or ellipse)
 7.	Select an annotation
 8.	List your annotations
