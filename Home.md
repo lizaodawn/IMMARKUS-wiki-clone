@@ -2,7 +2,7 @@ IMMARKUS is a semantic image annotation tool that allows you to create custom on
 
 <img width="1436" alt="Screenshot 2024-03-03 at 03 09 56" src="https://github.com/rsimon/immarkus/assets/160752064/3a2787fb-c380-4706-b9b2-f140db85036b">
 
-**Figure 1**. Annotating Images of Datong Southern Pass Using IMMARKUS
+**Figure 1**. Annotating Images of the Datong Southern Pass with IMMARKUS
 
 Setting up IMMARKUS is straightforward and hassle-free. Open IMMARKUS in your browser, select a folder on your computer, and begin annotating.
 
