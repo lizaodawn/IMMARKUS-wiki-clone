@@ -12,7 +12,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 <img width="941" alt="Screenshot 2024-03-02 at 23 35 32" src="https://github.com/rsimon/immarkus/assets/160752064/c04a31b2-a4cc-4ab9-bf5a-2ff9684a93ba">
 
-**Figure 3**. Creating Entities in Data Model Mode
+**Figure 3**. Creating Entities in the Data Model Mode
 
 2. Click **Entity Class** and name the entity class (e.g. "bridge”).
 
