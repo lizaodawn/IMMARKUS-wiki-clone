@@ -4,7 +4,8 @@ Setting up IMMARKUS is straightforward and hassle-free. Open IMMARKUS in your br
 
 IMMARKUS operates fully locally without transmitting data to a server. All images, data models, and annotations are stored on your computer, ensuring complete privacy and control over your work.  
 
-<img width="1106" alt="Screenshot 2024-03-03 at 02 47 39" src="https://github.com/rsimon/immarkus/assets/160752064/9ffc7fcd-8f6f-4e0a-8eef-c3b8f067d6b6">
+<img width="1309" alt="Screenshot 2024-03-03 at 03 08 51" src="https://github.com/rsimon/immarkus/assets/160752064/a457428d-c6f6-4bfe-9e3f-2e148ba2d092">
+
 
 
 # **Funding support**
