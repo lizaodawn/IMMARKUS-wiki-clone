@@ -82,7 +82,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ## Recording Metadata in Annotation Mode
 
-You can also enter metadata for individual images in the annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right panel (circled in red in **Figure 20**). Select the schema for your metadata and fill in the properties you defined under metadata in the Data Model view. 
+You can also enter metadata for individual images in the annotation mode. Click the individual image to enter the annotation view and select the metadata tab in the right panel (circled in red in **Figure 28**). Select the schema for your metadata and fill in the properties you defined under metadata in the Data Model view. 
 
 ![Screenshot (507)](https://github.com/rsimon/immarkus/assets/128056738/eaafd13a-7bd8-408e-aaa5-5a512bcce8ba)
 
