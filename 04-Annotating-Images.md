@@ -113,7 +113,7 @@ To add an id paste the relevant information from the external authority in the c
 	 
 # Annotating Multiple Images Simultaneously
 
-You can annotate images side by side by clicking **Add Image** (#1 in **Figures 3** and **4**). You can drag and drop windows to move them around and change their layout.
+You can annotate images side by side by clicking **Add Image** (#1 in **Figure 3** and **4**). You can drag and drop windows to move them around and change their layout.
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
