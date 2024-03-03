@@ -9,4 +9,4 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/01-Upl
 
 ![Picture2](https://github.com/rsimon/immarkus/assets/128056738/6a94da2e-0e02-4e24-ab65-b1b4f3ece46b)
 
-**Figure 2.** The IMMARKUS Interface Showing the Image Gallery
+**Figure 3.** The IMMARKUS Interface Showing the Image Gallery
