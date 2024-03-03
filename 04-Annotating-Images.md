@@ -95,17 +95,17 @@ To create entities and properties in the annotation mode, follow the steps below
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
 
-In the property editor, type a name for your property ("place ID" in **Figure 17**) and select the External Authority field type.
+1. In the property editor, type a name for your property ("place ID" in **Figure 17**) and select the External Authority field type.
 
 ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
 
 **Figure 17.** Available Options for External Authorities
 
-As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
+2. As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
 
-Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. 
+3. Click the ↗ icon on the right side of the search field to open the current authority search in a new browser tab. 
 
-To add an id paste the relevant information from the external authority in the corresponding field of the schema.
+4. To add an id paste the relevant information from the external authority in the corresponding field of the schema.
 
 <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
@@ -114,6 +114,7 @@ To add an id paste the relevant information from the external authority in the c
 # Annotating Multiple Images Simultaneously
 
 You can annotate images side by side by clicking **Add Image** (#1 in **Figure 11** and **12**). You can drag and drop windows to move them around and change their layout.
+
 
 ![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
 
