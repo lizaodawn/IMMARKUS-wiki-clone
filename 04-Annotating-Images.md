@@ -2,7 +2,7 @@ To add annotations to your images, click the subfolder containing the images you
 
 # Overview
 
-The following functionalities are available in annotation mode (numbers correspond to those in **Figure 10** and **11**) 
+The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 10** and **11**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#annotating-multiple-images-simultaneously)
 2.	Zoom in or zoom out of an image
 3.	Click image numbers to browse the images in the same subfolder on top / click arrows to display the previous or next image  
@@ -20,18 +20,20 @@ The following functionalities are available in annotation mode (numbers correspo
 ![Screenshot (485)](https://github.com/rsimon/immarkus/assets/128056738/63fd251f-c3e7-4746-9164-c0432fca8576)
 
 
-**Figure 11.** Close-up View of Functionalities in Annotation Mode
+**Figure 11.** Close-up View of Functionalities in the Annotation Mode
 
 
 # Drawing Annotations
 
 Decide which part of the image you would like to tag and draw a shape.
 
-Click the draw button (#6 in **Figure 3** and **4**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
+1. Click the draw button (#6 in **Figure 3** and **4**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
 
 Then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
+
+2. After you finish drawing, you will be prompted to add a tag. Choose "Add Tag" and you can .
 
 # Creating Entities and Properties in Annotation Mode
 
