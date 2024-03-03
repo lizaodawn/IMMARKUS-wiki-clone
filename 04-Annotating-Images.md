@@ -33,11 +33,12 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
 
-2. After you finish drawing, you will be prompted to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#creating-entities-and-properties-in-annotation-mode).
+2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#creating-entities-and-properties-in-annotation-mode).
 
 # Creating Entities and Properties in Annotation Mode
 
-You can create and view entities and properties in both annotation mode and [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model).
+To create entities and properties in the annotation mode, follow the steps below.
+* You can also create and view entities and properties in the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model). 
 
 1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 2** in [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) This opens the images in the folder.
 
@@ -76,7 +77,7 @@ You can create and view entities and properties in both annotation mode and [dat
 
 10.	Define the **Property Name**.
 
-11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options)
+11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options).
 
 
 12.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
@@ -89,16 +90,6 @@ You can create and view entities and properties in both annotation mode and [dat
 13.	After you have added each property, click **Save Property**. 
 
 14.	When you have finished adding properties, click **Save Entity Class**.
-
-
-	 
-# Annotating Multiple Images Simultaneously
-
-You can annotate images side by side by clicking **Add Image** (#1 in **Figures 3** and **4**). You can drag and drop windows to move them around and change their layout.
-
-![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
-
-**Figure 12.** Annotating Multiple Images Simultaneously Using Add Image
 
 # Using External Authorities in Annotations
 
@@ -119,4 +110,13 @@ To add an id paste the relevant information from the external authority in the c
 <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
 **Figure 22.** TGAZ Result of "Guangchang County" Using IMMARKUS
+	 
+# Annotating Multiple Images Simultaneously
+
+You can annotate images side by side by clicking **Add Image** (#1 in **Figures 3** and **4**). You can drag and drop windows to move them around and change their layout.
+
+![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
+
+**Figure 12.** Annotating Multiple Images Simultaneously Using Add Image
+
 
