@@ -91,7 +91,7 @@ To create entities and properties in the annotation mode, follow the steps below
 
 14.	When you have finished adding properties, click **Save Entity Class**.
 
-# Using External Authorities in Annotations
+## Using External Authorities in Annotations
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
 
