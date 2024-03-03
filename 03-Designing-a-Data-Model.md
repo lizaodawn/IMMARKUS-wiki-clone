@@ -25,7 +25,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 <img width="952" alt="Screenshot 2024-03-02 at 23 47 22" src="https://github.com/rsimon/immarkus/assets/160752064/1f2811c5-73c9-48ce-9a51-9816c39fb390">
 
-**Figure 5.** Creating Properties in Data Model Mode
+**Figure 5.** Creating Properties in the Data Model Mode
 
 9.	Click **Add Property**. This opens the property editor as shown in **Figure 6**.
 
@@ -59,7 +59,7 @@ To create entities and properties in the data model mode, enter the data model m
 <img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
 
 
-**Figure 7.** Selecting a Data Type in Data Model Mode
+**Figure 7.** Selecting a Data Type in the Data Model Mode
 
 
 13.	After you have added each property, click **Save Property**. 
