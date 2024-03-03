@@ -10,9 +10,10 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 1. In the Data Model view, go to the **Folder Metadata** tab and click **New Folder Schema**. 
 
-<img width="993" alt="Screenshot 2024-03-03 at 00 37 29" src="https://github.com/rsimon/immarkus/assets/160752064/4a1edb58-5682-4603-8c11-bd2c346ece86">
+<img width="1189" alt="Screenshot 2024-03-03 at 01 02 00" src="https://github.com/rsimon/immarkus/assets/160752064/f49ff713-296c-4ce9-8bd5-d4dff7c76882">
 
-**Figure 13**. Schemas for Folder Metadata 
+
+**Figure 13**. Examples of Schemas for Folder Metadata 
 <br/><br/>
 
 2.  Metadata categories are added in the same way as properties for entity classes with similar [property options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options).  
