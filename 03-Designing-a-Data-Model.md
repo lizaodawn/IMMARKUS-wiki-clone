@@ -75,7 +75,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 In the Data Model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the Data Model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) 
 
-You can create a child class in both annotation Mode (see **Figure 7**) and data model mode.  
+You can create a child class in both annotation Mode and data model mode. 
 
 1. Click the **Create New Entity** button 
 
