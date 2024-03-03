@@ -9,7 +9,7 @@ NOTE: Your image files will be directly edited by IMMARKUS. We recommend that yo
 ![Screenshot (513)](https://github.com/rsimon/immarkus/assets/128056738/671704b5-c054-4d80-b2ae-186ca3e02ba1)
 
 
-**Figure 2.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/).
+**Figure 2.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
  If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in Figure 1 above, the folder "workshop cases") 
 
