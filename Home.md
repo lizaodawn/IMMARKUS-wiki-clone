@@ -6,7 +6,7 @@ IMMARKUS operates fully locally without transmitting data to a server. All image
 
 <img width="1436" alt="Screenshot 2024-03-03 at 03 09 56" src="https://github.com/rsimon/immarkus/assets/160752064/3a2787fb-c380-4706-b9b2-f140db85036b">
 
-**Figure 1**. Annotating Images of Datong Southern Gate Using IMMARKUS
+**Figure 1**. Annotating Images of Southern Gate in Datong Using IMMARKUS
 
 
 # **Funding support**
