@@ -41,15 +41,16 @@ A metadata schema for individual images can be added in the same way as metadata
 
 1. Choose **Image Metadata** and click **New Image Schema**. 
 
-![Screenshot (501)](https://github.com/rsimon/immarkus/assets/128056738/2ed26f55-e180-4815-b7f4-677610b05d77)
+<img width="917" alt="Screenshot 2024-03-03 at 01 21 41" src="https://github.com/rsimon/immarkus/assets/160752064/faf265e2-0fc3-4a05-b4e9-864496725378">
 
-**Figure 16.**  Schemas for Individual Image Metadata
+**Figure 16.**  Example Schemas for Individual Image Metadata
 <br/><br/>
 2. Define **Property Name** and choose **Data Type**. Click **Save Property**. 
 
-![Screenshot (502)](https://github.com/rsimon/immarkus/assets/128056738/05e9a2e5-e62c-42db-b7d5-5c5e5a467f05)
+<img width="819" alt="Screenshot 2024-03-03 at 01 25 49" src="https://github.com/rsimon/immarkus/assets/160752064/af4a0c0d-1b18-4645-80a3-2c8693ba4af5">
 
-**Figure 17.** Adding Properties in an Image Metadata Schema
+
+**Figure 17.** Examples in an Image Metadata Schema
 <br/><br/>
 
 
