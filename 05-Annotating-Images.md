@@ -2,7 +2,7 @@ To add annotations to your images, click the subfolder containing the images you
 
 # Overview
 
-The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 11** and **12**) 
+The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 14** and **15**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#annotating-multiple-images-simultaneously)
 2.	Zoom in or zoom out of an image
 3.	Click image numbers to browse the images in the same subfolder on top / click arrows to display the previous or next image  
