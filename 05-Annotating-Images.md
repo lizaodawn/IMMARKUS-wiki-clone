@@ -37,7 +37,7 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 # Creating Entities and Properties in Annotation Mode
 
-To create entities and properties in the annotation mode, follow the steps below.
+To create entities and properties in the Annotation Mode, follow the steps below.
 * You can also create and view entities and properties in the [data model mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
 1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 6** in [The Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface)) This opens the images in the folder.
