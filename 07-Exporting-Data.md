@@ -4,7 +4,7 @@ You can export your data model, annotations, and metadata. Click on the **Export
 
 Click **Data Model** and download your data model as a json file. 
 
-This is the same file you will find in your working folder as _imarkus.model.json.
+This is the same file you will find in your working folder as _immarkus.model.json.
 
 ![Screenshot (541)](https://github.com/rsimon/immarkus/assets/128056738/cf611982-8e45-4721-be02-36d4e5f4228e)
 
