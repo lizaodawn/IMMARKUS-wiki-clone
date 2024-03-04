@@ -12,9 +12,9 @@ Read more about [Annotating Multiple Images Simultaneously](https://github.com/r
 
 IMMARKUS includes a form-based editor to create and manage your personal data model. The data model is designed around the concepts of **Entity Classes** and **Properties**.
 
-- Use __Entity Classes__ to annotate specific concepts or things with your annotations.
-- Define __Properties__ for your Entity Classes, to record specific details in your annotations, such as location, dimension, materials, etc. of an entity.
-- Your data model can be __hierarchical__. Each entity class can have a parent class. Properties on the parent class are automatically inherited to the child class. This way, you are building your own personal knowledge graph for your content.
+- Use __Entity Classes__ to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant).
+- Define __Properties__ for your Entity Classes, to record specific details about entity classes （e.g., name, dimension, location, identifier). 
+- Your data model can be __hierarchical__. Each entity class can have a parent class. Properties on the parent class are automatically inherited to the child class. This way, you can define common properties that are shared between parent and child entity classes; and also define properties that are particular to child classes. 
 
 <img width="800" alt="Bildschirmfoto 2024-01-16 um 15 17 21" src="https://github.com/rsimon/immarkus/assets/470971/cd8ced9f-3a82-482a-9f55-d750771a456b">
 
@@ -22,14 +22,16 @@ Read more about [Design a Data Model](https://github.com/rsimon/immarkus/wiki/03
 
 ## Property Types
 
-IMMARKUS offers a range of data types you can use to capture properties of different kinds. Think of it as a personal "database builder" for your data model. The following Property field types are currently available:
+IMMARKUS offers a range of data types you can use to capture properties of different entity classes. Think of it as a personal "database builder" for your data model. The following seven data types are currently available:
 
 - Text 
 - Number
-- Select options dropdown with configurable values
-- URL/URI
-- Geo-coordinate
-- Measurement (combination of numeric value and "unit" text field)
-- External authority (read more [here](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#using-external-authorities-in-annotations))
+- Options
+- URI
+- Geo-coordinates
+- Measurement 
+- External authority 
+
+Read more about [Property Options] (https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options)
 
 <img width="800" alt="Bildschirmfoto 2024-01-16 um 16 03 15" src="https://github.com/rsimon/immarkus/assets/470971/d7ee8b44-23f1-4a71-abdf-e8b55eefb4f8">
