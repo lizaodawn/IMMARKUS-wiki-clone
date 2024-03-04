@@ -114,7 +114,9 @@ Using the External Authority property type allows you to associate an entity cla
 **Figure 21.** TGAZ Result of "Guangchang County" Using IMMARKUS
 
 # Adding a Note
-Need to be updated
+
+You can add a note to a selected part of your image. This is useful if you want to make a note for future use, but do not want to include it in the annotations.
+
 
 **Figure needs to be added**
 	 
