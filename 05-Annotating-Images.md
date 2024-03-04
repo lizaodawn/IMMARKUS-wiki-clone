@@ -115,14 +115,22 @@ Using the External Authority property type allows you to associate an entity cla
 
 # Adding a Note
 
-You can add a note to a selected part of your image. This is useful if you want to make a note for future use, but do not want to include it in the annotations.
+You can add a note to a selected part of your image. This is useful if you want to make a note for future use, but do not want to tag and include it in the annotations.
 
 Select a part of the image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 You will see the Add Tag and Add Note buttons in the panel on the right. 
+
+<img width="980" alt="Screenshot 2024-03-04 at 19 58 06" src="https://github.com/rsimon/immarkus/assets/160752064/06f05864-0886-4c2c-bbd5-d65bf5580b25">
+
+**Figure 22.** Adding a Note to a Selected Image Part
+
 Choose **Add Note**. Make sure you click **Save** after writing your note.
 
+You can also add a note to the part of the image that you have already annotated. If you select your annotation, you will be able to see the properties that you have already entered. Scroll-down to the bottom and click **Add a Note**. This is useful if you want to add a note that is unrelated to your existing properties.
 
-**Figure needs to be added**
+<img width="985" alt="Screenshot 2024-03-04 at 20 07 25" src="https://github.com/rsimon/immarkus/assets/160752064/d2f2c4f6-61cb-4fb4-a398-5714e0990f93">
+
+**Figure 23.** Adding a Note to a Selection of an Image with an Existing Tag
 	 
 # Annotating Multiple Images Simultaneously
 
