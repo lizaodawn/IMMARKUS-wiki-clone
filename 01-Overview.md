@@ -5,8 +5,8 @@ Here are some of the highlights of what IMMARKUS offers.
 IMMARKUS provides a zoomable view to support annotating large images, and tools for creating __rectangle__, __polygon__ and __circle/ellipse__ selections. Similar to multi-image viewers like [Mirador](https://projectmirador.org/), IMMARKUS provides a multi-window environment for annotating multiple images side by side.
 
 <img width="1427" alt="Screenshot 2024-03-04 at 11 40 09" src="https://github.com/rsimon/immarkus/assets/160752064/d7c7f932-1727-49a7-b111-859396166cac">
-** Figure**
 
+**Figure 2.** Multi-Window Zoomable Image Annotation in IMMARKUS
 
 * Read more about [Annotating Multiple Images Simultaneously](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#annotating-multiple-images-simultaneously)
 
@@ -20,7 +20,7 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 
 <img width="972" alt="Screenshot 2024-03-04 at 11 42 52" src="https://github.com/rsimon/immarkus/assets/160752064/a024d199-5451-41dd-b516-4fa9c23cddb3">
 
-** Figure**
+**Figure 3.** Defining Entities in IMMARKUS
 
 
 * Read more about [Design a Data Model](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model)
@@ -35,10 +35,10 @@ IMMARKUS offers a range of data types you can use to capture properties of diffe
 - URI
 - Geo-coordinates
 - Measurement 
-- External authority 
+- External Authority 
 
 <img width="978" alt="Screenshot 2024-03-04 at 11 45 01" src="https://github.com/rsimon/immarkus/assets/160752064/996cd609-c1c3-4a96-b51c-f7ee376e3a7a">
 
-** Figure **
+**Figure 4.** Defining Properties in IMMARKUS
 
 * Read more about [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options)
