@@ -6,7 +6,7 @@ NOTE: Your image files will be directly edited by IMMARKUS. We recommend that yo
 
 3. Click **Open New Folder** and select the folder containing the images you want to annotate.  
  
-![Screenshot (512)](https://github.com/rsimon/immarkus/assets/128056738/39002f29-5f2b-452f-a44c-e0d061e501a7)
+
 
 
 **Figure 5.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
