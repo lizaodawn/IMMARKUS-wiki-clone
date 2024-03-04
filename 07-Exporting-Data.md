@@ -16,7 +16,7 @@ Click **Annotations** and all annotations will be downloaded as a flat list in t
 
 ![Screenshot (542)](https://github.com/rsimon/immarkus/assets/128056738/1bb83de8-fd9a-4af0-bbe0-115fd3f36423)
 
-**Figure 33.** Export Annotations
+**Figure 33.** Exporting Annotations
 
 ## Exporting Metadata
 
@@ -24,4 +24,4 @@ Click **Metadata** and select either **Image** or **Folder Metadata**. The metad
 
 ![Screenshot (543)](https://github.com/rsimon/immarkus/assets/128056738/d0f73c09-ae52-4e7f-bdaa-5ded9bae9d64)
 
-**Figure 34.** Export Metadata
+**Figure 34.** Exporting Metadata
