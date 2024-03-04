@@ -7,7 +7,7 @@ The following functionalities are available in the annotation mode (numbers corr
 2.	Zoom in or zoom out of an image
 3.	Click image numbers to browse the images in the same subfolder on top / click arrows to display the previous or next image  
 4.	Undo/redo 
-5.	Pan across the image
+5.	Move (pan) across the image
 6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#annotating-multiple-images-simultaneously) (select rectangle, polygon, or ellipse)
 7.	Select an annotation
 8.	List your annotations
