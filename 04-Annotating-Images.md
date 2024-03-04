@@ -115,7 +115,7 @@ Using the External Authority property type allows you to associate an entity cla
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (red square in **figure 19**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **Figure 19**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
