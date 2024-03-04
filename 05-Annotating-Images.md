@@ -115,7 +115,8 @@ Using the External Authority property type allows you to associate an entity cla
 
 # Adding a Note
 Need to be updated
-**Figure**
+
+**Figure needs to be added**
 	 
 # Annotating Multiple Images Simultaneously
 
