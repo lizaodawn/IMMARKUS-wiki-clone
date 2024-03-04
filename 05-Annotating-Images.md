@@ -81,9 +81,9 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 8.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
 
 
-9.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
+9.	The data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
 
-![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
+<img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
 
 **Figure 19.** Selecting a Data Type
 
