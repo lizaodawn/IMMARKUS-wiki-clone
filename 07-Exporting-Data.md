@@ -8,7 +8,7 @@ This is the same file you will find in your working folder as _imarkus.model.jso
 
 ![Screenshot (541)](https://github.com/rsimon/immarkus/assets/128056738/cf611982-8e45-4721-be02-36d4e5f4228e)
 
-**Figure 32.** Exporting Your Data Model
+**Figure 32.** Exporting a Data Model
 
 ## Exporting Annotations
 
