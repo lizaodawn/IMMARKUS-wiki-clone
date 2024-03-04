@@ -112,6 +112,10 @@ Using the External Authority property type allows you to associate an entity cla
 <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
 **Figure 21.** TGAZ Result of "Guangchang County" Using IMMARKUS
+
+# Adding a Note
+Need to be updated
+**Figure**
 	 
 # Annotating Multiple Images Simultaneously
 
