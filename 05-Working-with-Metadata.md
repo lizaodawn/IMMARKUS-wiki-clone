@@ -66,7 +66,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 1. Select a schema for your metadata on the right panel and enter the metadata for the selected folder. After you are done, be sure to click **Save Metadata**. 
 
-![Screenshot (505)](https://github.com/rsimon/immarkus/assets/128056738/6c55b8bb-5406-40f0-a441-d23aec01e624)
+![Screenshot (529)](https://github.com/rsimon/immarkus/assets/128056738/acb11fe8-c8d3-4ea8-918f-90e88594f4b9)
 
 **Figure 26**. Recording Folder Metadata in the Image Gallery
 <br/>
