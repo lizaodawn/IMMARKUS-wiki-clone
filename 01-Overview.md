@@ -16,7 +16,7 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 
 - Use __Entity Classes__ to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant).
 - Define __Properties__ for your Entity Classes, to record specific details about entity classes (e.g., name, dimension, location, identifier). 
-- Your data model can be __hierarchical__. Each entity class can have a parent class. Properties of the parent class are automatically inherited by the child class. This way, you can define common properties that are shared between parent and child entity classes; and also define properties that are particular to child classes. 
+- Your data model can be __hierarchical__. Each entity class can have a parent class. Properties of the parent class are automatically inherited by the child class. This way, you can define common properties that are shared between parent and child entity classes; and define properties that are particular to child classes. 
 
 <img width="958" alt="Screenshot 2024-03-04 at 13 11 01" src="https://github.com/rsimon/immarkus/assets/160752064/b8d54fa9-53dc-414e-b291-d62f46b76a9b">
 
