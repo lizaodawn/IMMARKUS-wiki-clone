@@ -13,7 +13,7 @@ The following functionalities are available in the annotation mode (numbers corr
 8.	List your annotations
 9.	Add or edit [metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata)
 
-![Screenshot (484)](https://github.com/rsimon/immarkus/assets/128056738/913bd4fa-8cf8-4447-9ca5-8b0b1e64fb8a)
+![Screenshot (520)](https://github.com/rsimon/immarkus/assets/128056738/430a8823-1169-460b-80d1-819568eade75)
 
 **Figure 11.** Annotation Mode
 
@@ -48,8 +48,8 @@ To create entities and properties in the annotation mode, follow the steps below
 1.	Click **Create New Entity Class**. 
 
 
+![Screenshot (522)](https://github.com/rsimon/immarkus/assets/128056738/14b6e2b2-15c0-4170-8ebf-c09d416dae2b)
 
-![Screenshot (487)](https://github.com/rsimon/immarkus/assets/128056738/e9d557b0-6af3-41a8-8a3d-5e7fadadfccc)
 
 **Figure 13.** Creating Entities in Annotation Mode
 
@@ -115,13 +115,13 @@ Using the External Authority property type allows you to associate an entity cla
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (#1 in **Figure 11** and **12**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **figure 19**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
 
-![Picture11](https://github.com/rsimon/immarkus/assets/128056738/18df8963-93a5-4304-be1b-819c85a2729d)
+![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/9f8fa135-5e97-4294-808e-f06555bd32ac)
 
-**Figure 19.** Annotating Multiple Images Simultaneously Using Add Image
+**Figure 19.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
