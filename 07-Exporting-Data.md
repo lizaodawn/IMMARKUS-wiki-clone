@@ -12,7 +12,7 @@ This is the same file you will find in your working folder as _immarkus.model.js
 
 ## Exporting Annotations
 
-Click **Annotations** and all annotations will be downloaded as a flat list in the [W3C Web Annotation format](https://www.w3.org/TR/annotation-model/).
+Click **Annotations** and export all annotations as a flat list in the [W3C Web Annotation format](https://www.w3.org/TR/annotation-model/).
 
 ![Screenshot (542)](https://github.com/rsimon/immarkus/assets/128056738/1bb83de8-fd9a-4af0-bbe0-115fd3f36423)
 
