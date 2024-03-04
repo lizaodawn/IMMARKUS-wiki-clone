@@ -93,9 +93,9 @@ You can create a child class in both annotation Mode and data model mode.
 
 ## Inherited Properties
 
-In **Figure 8**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
+In **Figure 10 and 11**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 9**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 11**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 11**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 11**.
 
 
 ![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
@@ -113,7 +113,7 @@ The entity classes for which you have created child classes have a drop-down men
 
 * The properties belonging to or inherited from the parent to the child class are shown in the row for the parent class.  
 
-* In the row of the child class, you can only see the properties that have been specifically added to the child class (see the properties for "location site" parent and "survey area" child in **Figure 12**). 
+* In the row of the child class, you can only see the properties that have been specifically added to the child class (see the properties for "location_site" parent and "survey area" child in **Figure 12**). 
 
 Classes that have no children do not have a drop-down menu (blue square in **Figure 10**).  
 
