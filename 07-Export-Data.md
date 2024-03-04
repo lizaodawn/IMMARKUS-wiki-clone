@@ -1,4 +1,4 @@
-You can export your data model, annotations, or metadata. Click on the **Export** page and select the data you wish to export.
+You can export your data model, annotations, and metadata. Click on the **Export** page in the [IMMARKUS Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface) and select the data you wish to export.
 
 ## Export a Data Model
 
