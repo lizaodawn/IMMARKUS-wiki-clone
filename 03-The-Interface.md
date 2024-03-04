@@ -6,7 +6,7 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/02-Upl
 4.	**Export** is where you can [export data](https://github.com/rsimon/immarkus/wiki/07-Exporting-Data) in different formats. 
 5.	**MARKUS** is a placeholder currently. Here you will be able to link and export to other modules in the X-MARKUS platform.
 6. **About** is where you can find information on funding for the project and how to cite us.
-7. **Help** will lead you back to this wiki page.
+7. **Help** leads you back to this wiki page.
 
 
 ![Screenshot (539)](https://github.com/rsimon/immarkus/assets/128056738/1da828a5-87fa-42ae-8ac4-b35bdd55bc61)
