@@ -73,7 +73,7 @@ To create entities and properties in the annotation mode, follow the steps below
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
-**Figure 18.** Add Properties
+**Figure 18.** Adding Properties
 
 10.	Define the **Property Name**.
 
