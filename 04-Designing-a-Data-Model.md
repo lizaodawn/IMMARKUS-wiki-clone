@@ -54,7 +54,7 @@ To create entities and properties in the data model mode, enter the data model m
 * **[External Authority](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as TGAZ, CBDB, and Wikipedia.
 
 
-9.	The data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
+9.	In this case the data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
 
 <img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
 
