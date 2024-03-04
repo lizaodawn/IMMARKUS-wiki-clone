@@ -18,24 +18,24 @@ To create entities and properties in the data model mode, enter the data model m
 
     •	You can select the color of each entity on the right panel.
 
-6.	You can define a different **Display Name**. Or you can leave it empty to display the same entity class name (e.g. "bridge")
-7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., "a bridge is an elevated structure across a river or other obstacles")
+3. 	You can define a different **Display Name**. Or you can leave it empty to display the same entity class name (e.g. "bridge")
+4.	Add an **Entity Class Description** that explains the use of this entity class (e.g., "a bridge is an elevated structure across a river or other obstacles")
 
-8.	Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 8**)
+5.	Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 8**)
 
 <img width="952" alt="Screenshot 2024-03-02 at 23 47 22" src="https://github.com/rsimon/immarkus/assets/160752064/1f2811c5-73c9-48ce-9a51-9816c39fb390">
 
 **Figure 8.** Creating Properties in the Data Model Mode
 
-9.	Click **Add Property**. This opens the property editor as shown in **Figure 9**.
+6.	Click **Add Property**. This opens the property editor as shown in **Figure 9**.
 
 <img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
 
 **Figure 9.** Adding Properties in the Data Model Mode
 
-10.	Define the **Property Name**.
+7.	Define the **Property Name**.
 
-11.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
+8.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
 ### Property Options
 
