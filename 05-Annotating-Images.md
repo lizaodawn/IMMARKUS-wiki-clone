@@ -43,9 +43,11 @@ While annotating images, you can also create or add entities and properties.
 First, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears and follow the steps below. 
 
 1.	Click **Create New Entity Class**. 
+* If you have already created your data model, the existing entities will appear as shown in **Figure 16**.
 
 
-![Screenshot (522)](https://github.com/rsimon/immarkus/assets/128056738/14b6e2b2-15c0-4170-8ebf-c09d416dae2b)
+<img width="583" alt="Screenshot 2024-03-04 at 18 42 22" src="https://github.com/rsimon/immarkus/assets/160752064/7631a25d-2913-4ff4-9c33-972056b20d5c">
+
 
 
 **Figure 16.** Creating Entities in Annotation Mode
