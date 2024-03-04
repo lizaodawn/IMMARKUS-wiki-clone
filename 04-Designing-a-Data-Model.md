@@ -31,7 +31,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 <img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
 
-**Figure 9.** Adding Properties in Data Model Mode
+**Figure 9.** Adding Properties in the Data Model Mode
 
 10.	Define the **Property Name**.
 
