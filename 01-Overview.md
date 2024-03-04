@@ -23,7 +23,7 @@ IMMARKUS includes a form-based editor to create and manage your personal data mo
 **Figure 3.** Defining Entities in IMMARKUS
 
 
-* Read more about [Design a Data Model](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model)
+* Read more about [Designing Your Data Model](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model)
 
 ## Property Types
 
