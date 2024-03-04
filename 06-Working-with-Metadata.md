@@ -1,8 +1,8 @@
 # Creating a Metadata Schema
 
 You can create a metadata schema in the Data Model view. You can record metadata at the folder (or sub-folder) level as well as at the individual image level. 
-- The [Image Metadata Schema ](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata#adding-a-metadata-schema-for-individual-images) defines how you describe individual __image files__ in your collection.
-- The [Folder Metadata Schema](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata#adding-a-folder-metadata-schema) defines how you record information about the __directory folders__ in your collection. This can be useful if your folder contains images from the same book, artwork, or publication, so that you do not have to enter in the same metadata information for each individual image in the sub-folder.
+- The [Image Metadata Schema ](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#adding-a-metadata-schema-for-individual-images) defines how you describe individual __image files__ in your collection.
+- The [Folder Metadata Schema](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#adding-a-folder-metadata-schema) defines how you record information about the __directory folders__ in your collection. This can be useful if your folder contains images from the same book, artwork, or publication, so that you do not have to enter in the same metadata information for each individual image in the sub-folder.
 
 
 
@@ -16,7 +16,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 **Figure 23**. Examples of Folder Metadata Schemas
 <br/><br/>
 
-2.  Metadata categories are added in the same way as properties for entity classes with similar [property options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options).  
+2.  Metadata categories are added in the same way as properties for entity classes with similar [property options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).  
 
 <img width="837" alt="Screenshot 2024-03-03 at 00 39 13" src="https://github.com/rsimon/immarkus/assets/160752064/2e5a7224-4522-412d-bced-84a3339a2852">
 
@@ -73,7 +73,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ## Recording Individual Image Metadata in the Image Gallery 
 1. Click the three dots on the individual image. 
-2. Select a schema for your metadata and fill in the properties in the same way as for the [folder metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata).
+2. Select a schema for your metadata and fill in the properties in the same way as for the [folder metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#recording-folder-metadata-in-the-image-gallery).
 
 ![Screenshot (533)](https://github.com/rsimon/immarkus/assets/128056738/6fe34242-8b76-4a4d-a6f1-8c863e3d12c6)
 
