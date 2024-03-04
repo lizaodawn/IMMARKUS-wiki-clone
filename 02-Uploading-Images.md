@@ -6,11 +6,11 @@ NOTE: Your image files will be directly edited by IMMARKUS. We recommend that yo
 
 3. Click **Open New Folder** and select the folder containing the images you want to annotate.  
  
-
+<img width="578" alt="Screenshot 2024-03-04 at 14 17 54" src="https://github.com/rsimon/immarkus/assets/160752064/aa280af6-768d-40bf-accc-2f0739b7a3e8">
 
 
 **Figure 5.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
- If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in **Figure 5** above, the folder "workshop cases") 
+ If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in **Figure 5** above, the folder "Ming illustrative map") 
 
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
