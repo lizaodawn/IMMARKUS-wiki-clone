@@ -2,7 +2,7 @@ You can export your data model, annotations, or metadata. Click on the **Export*
 
 ## Export a Data Model
 
-Click **Data Model** and download your data model as a json file (see **Figure 32.**). 
+Click **Data Model** and download your data model as a json file. 
 
 This is the same file you will find in your working folder as _imarkus.model.json.
 
@@ -12,7 +12,7 @@ This is the same file you will find in your working folder as _imarkus.model.jso
 
 ## Export Annotations
 
-Click **Annotations** and all annotations will be downloaded as a flat list in the [W3C Web Annotation format](https://www.w3.org/TR/annotation-model/) (see **Figure 33.**).
+Click **Annotations** and all annotations will be downloaded as a flat list in the [W3C Web Annotation format](https://www.w3.org/TR/annotation-model/).
 
 ![Screenshot (542)](https://github.com/rsimon/immarkus/assets/128056738/1bb83de8-fd9a-4af0-bbe0-115fd3f36423)
 
