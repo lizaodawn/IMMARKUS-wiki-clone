@@ -20,7 +20,7 @@ Click **Annotations** and all annotations will be downloaded as a flat list in t
 
 ## Export Metadata
 
-Click **Metadata** and select either **Image** or **Folder Metadata**. This will be downloaded as a flat list in a CSV spreadsheet. 
+Click **Metadata** and select either **Image** or **Folder Metadata**. The metadata will be downloaded as a flat list in a CSV spreadsheet. 
 
 ![Screenshot (543)](https://github.com/rsimon/immarkus/assets/128056738/d0f73c09-ae52-4e7f-bdaa-5ded9bae9d64)
 
