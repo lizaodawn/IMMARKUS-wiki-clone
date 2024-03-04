@@ -12,7 +12,7 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 ## Design Your Own Ontology
 
-IMMARKUS includes a form-based editor to create and manage your personal data model. The data model is designed around the concepts of **Entity Classes** and **Properties**.
+IMMARKUS includes a form-based editor for creating and managing your personal data model. . The data model is designed around the concepts of **Entity Classes** and **Properties**.
 
 - Use __Entity Classes__ to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant).
 - Define __Properties__ for your Entity Classes, to record specific details about entity classes (e.g., name, dimension, location, identifier). 
