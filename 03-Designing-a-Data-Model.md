@@ -117,8 +117,9 @@ The entity classes for which you have created child classes have a drop-down men
 
 Classes that have no children do not have a drop-down menu (blue square in **Figure 10**).  
 
-![Screenshot (82)](https://github.com/rsimon/immarkus/assets/128056738/7a9f5b76-79c2-4d3f-bf3c-61f41f87dad9)
+
+![Screenshot (518)](https://github.com/rsimon/immarkus/assets/128056738/1221a90f-0175-4afd-baef-956976ea2086)
 
 **Figure 10.** Entity Classes in the Data Model
-<br/><br/>
 
+<br/><br/>
