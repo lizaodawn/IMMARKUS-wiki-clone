@@ -117,7 +117,7 @@ Using the External Authority property type allows you to associate an entity cla
 
 You can add a note to a selected part of your image. This is useful if you want to make a note for future use, but do not want to tag and include it in the annotations.
 
-Select a part of the image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
+Select a part of your image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 You will see the Add Tag and Add Note buttons in the panel on the right. 
 
 <img width="980" alt="Screenshot 2024-03-04 at 19 58 06" src="https://github.com/rsimon/immarkus/assets/160752064/06f05864-0886-4c2c-bbd5-d65bf5580b25">
@@ -136,13 +136,13 @@ You can also add a note to the part of the image that you have already annotated
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (red square in **Figure 22**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **Figure 24**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
 ![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
 
 
-**Figure 22.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
+**Figure 24.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
