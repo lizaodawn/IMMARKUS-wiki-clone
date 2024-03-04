@@ -3,12 +3,12 @@ To add annotations to your images, click the subfolder containing the images you
 # Overview
 
 The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 14** and **15**) 
-1.	[Add an image](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#annotating-multiple-images-simultaneously)
+1.	[Add an image](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images)
 2.	Zoom in or zoom out of an image
 3.	Click image numbers to browse the images in the same subfolder on top / click arrows to display the previous or next image  
 4.	Undo/redo 
 5.	Move (pan) across the image
-6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#drawing-annotations) (select rectangle, polygon, or ellipse)
+6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations) (select rectangle, polygon, or ellipse)
 7.	Select an annotation
 8.	List your annotations
 9.	Add or edit [metadata](https://github.com/rsimon/immarkus/wiki/05-Working-with-Metadata)
@@ -33,16 +33,16 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
 
-2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#creating-entities-and-properties-in-annotation-mode).
+2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#creating-entities-and-properties-in-annotation-mode).
 
 # Creating Entities and Properties in Annotation Mode
 
 To create entities and properties in the annotation mode, follow the steps below.
-* You can also create and view entities and properties in the [data model mode](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model). 
+* You can also create and view entities and properties in the [data model mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
-1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 6** in [The Interface](https://github.com/rsimon/immarkus/wiki/02-The-Interface)) This opens the images in the folder.
+1. In the Image Gallery click a subfolder containing the images with which you want to work. (To locate the Image Gallery, see **Figure 6** in [The Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface)) This opens the images in the folder.
 
-1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/04-Annotating-Images#drawing-annotations). 
+1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 
 1. Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (**Figure 16**). 
 1.	Click **Create New Entity Class**. 
@@ -77,7 +77,7 @@ To create entities and properties in the annotation mode, follow the steps below
 
 10.	Define the **Property Name**.
 
-11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/03-Designing-a-Data-Model#property-options).
+11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
 
 
 12.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
