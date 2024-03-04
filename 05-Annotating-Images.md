@@ -40,7 +40,7 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 While annotating images, you can also create or add entities and properties. 
 * For creating entities and properties in the data model mode, see [data model mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
-First, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears (**Figure 16**). 
+First, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears and follow the steps below (**Figure 16**). 
 
 1.	Click **Create New Entity Class**. 
 
@@ -50,15 +50,15 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 
 **Figure 16.** Creating Entities in Annotation Mode
 
-5.	Click **Entity Class** and name the entity class (e.g. "city_gate”).
+2.	Click **Entity Class** and name the entity class (e.g. "city_gate”).
 
     •	You can select the color of each entity on the right panel.
 
-6.	You can define a different **Display Name**. In this case, "city gate.”
-7.	Add an **Entity Class Description** that explains the use of this entity class (e.g., a city gate is a passageway through a city wall).  
+3.	You can define a different **Display Name**. In this case, "city gate.”
+4.	Add an **Entity Class Description** that explains the use of this entity class (e.g., a city gate is a passageway through a city wall).  
 
 
-8.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 17**)
+5.	Add/edit the properties. Click the drop down menu next to **No Properties** (the blue arrow in **Figure 17**)
 
 ![Screenshot (488)](https://github.com/rsimon/immarkus/assets/128056738/74052980-2bf6-4b82-884a-3130bdd2a721)
 
@@ -66,27 +66,27 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 
 
 
-9.	Click **Add Property**. This opens the property editor as shown in **Figure 18**.
+6.	Click **Add Property**. This opens the property editor as shown in **Figure 18**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
 **Figure 18.** Adding Properties
 
-10.	Define the **Property Name**.
+7.	Define the **Property Name**.
 
-11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
+8.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
 
 
-12.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
+9.	The data type of "name" is **Text**. You can also add a description of the property in **Property Description**.
 
 ![Screenshot (490)](https://github.com/rsimon/immarkus/assets/128056738/a59a9c46-0a07-4db2-bf2b-b5d8161ee79f)
 
 **Figure 19.** Selecting a Data Type
 
 
-13.	After you have added each property, click **Save Property**. 
+10.	After you have added each property, click **Save Property**. 
 
-14.	When you have finished adding properties, click **Save Entity Class**.
+11.	When you have finished adding properties, click **Save Entity Class**.
 
 ## Using External Authorities in Annotations
 
