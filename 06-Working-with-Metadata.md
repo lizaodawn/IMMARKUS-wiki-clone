@@ -58,7 +58,7 @@ A metadata schema for individual images can be added in the same way as metadata
 
 # Recording Metadata
 
-After defining your metadata schemas, you can enter metadata for folders and images in the Image Gallery. You can also enter image metadata in the annotation mode (but not folder metadata).
+After defining your metadata schemas, you can enter metadata for folders and images in the Image Gallery. You can also enter image metadata in the Annotation Mode (but not folder metadata).
 
 ## Recording Folder Metadata in the Image Gallery 
 
