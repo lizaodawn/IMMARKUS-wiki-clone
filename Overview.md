@@ -13,7 +13,7 @@ Read more about [Annotating Multiple Images Simultaneously](https://github.com/r
 IMMARKUS includes a form-based editor to create and manage your personal data model. The data model is designed around the concepts of **Entity Classes** and **Properties**.
 
 - Use __Entity Classes__ to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant).
-- Define __Properties__ for your Entity Classes, to record specific details about entity classes （e.g., name, dimension, location, identifier). 
+- Define __Properties__ for your Entity Classes, to record specific details about entity classes (e.g., name, dimension, location, identifier). 
 - Your data model can be __hierarchical__. Each entity class can have a parent class. Properties on the parent class are automatically inherited to the child class. This way, you can define common properties that are shared between parent and child entity classes; and also define properties that are particular to child classes. 
 
 <img width="800" alt="Bildschirmfoto 2024-01-16 um 15 17 21" src="https://github.com/rsimon/immarkus/assets/470971/cd8ced9f-3a82-482a-9f55-d750771a456b">
