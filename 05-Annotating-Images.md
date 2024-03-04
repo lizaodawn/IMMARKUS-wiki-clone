@@ -27,7 +27,7 @@ The following functionalities are available in the annotation mode (numbers corr
 
 Decide which part of the image you would like to tag and draw a shape.
 
-1. Click the draw button (#6 in **Figure 11** and **12**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
+1. Click the draw button (#6 in **Figure 14** and **15**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
 
 Then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
 
