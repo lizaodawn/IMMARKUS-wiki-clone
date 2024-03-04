@@ -119,8 +119,8 @@ You can annotate multiple images side by side.
 
 2. You can drag and drop windows to move them around and change their layout.
 
+![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
 
-![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/9f8fa135-5e97-4294-808e-f06555bd32ac)
 
 **Figure 19.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
