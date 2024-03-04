@@ -107,7 +107,7 @@ In the Properties editor, it looks like this entity does not have any properties
 
 Classes do not need to have a parent-child relationship. Whether they do depends on your own data design. 
 
-The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **Figure 12**). 
+The entity classes for which you have created child classes have a drop-down menu (“>”) on the left (red square in **Figure 13**). 
 
 * Click the drop-down menu to expand the parent class and you will see child classes belonging to the parent class.  
 
