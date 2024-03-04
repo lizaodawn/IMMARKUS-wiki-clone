@@ -57,10 +57,9 @@ First, decide which part of the image you would like to tag and [draw a shape](h
     •	You can select the color of each entity on the right panel.
 
 3.	You can define a different **Display Name**. (e.g. "gate tower").
-4.	Add an **Entity Class Description** that explains the use of this entity class. This is optional and you can skip it if you want.  
-
-5.	You can choose to add your new entity class as a child class of one of your existing entities. Enter the name of the entity class you want to make the parent of your new entity class. (e.g. "obj_part").
+4.	You can choose to add your new entity class as a child class of one of your existing entities. Enter the name of the entity class you want to make the parent of your new entity class. (e.g. "obj_part").
 * Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 17**)
+5. Add an **Entity Class Description** that explains the use of this entity class. This is optional and can be skipped if you wish.  
 
 6. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
 
