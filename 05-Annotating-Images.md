@@ -56,11 +56,13 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 
     •	You can select the color of each entity on the right panel.
 
-3.	You can define a different **Display Name**. In this case, "gate tower.”
+3.	You can define a different **Display Name**. (e.g. "gate tower").
 4.	Add an **Entity Class Description** that explains the use of this entity class. This is optional and you can skip it if you want.  
 
+5.	You can choose to add your new entity class as a child class of one of your existing entities. Enter the name of the entity class you want to make the parent of your new entity class. (e.g. "obj_part").
+* Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 17**)
 
-5.	Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
+6. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
 
 <img width="987" alt="Screenshot 2024-03-04 at 18 45 39" src="https://github.com/rsimon/immarkus/assets/160752064/46bf3d50-b73e-41aa-84d9-73ea81a3c7e9">
 
