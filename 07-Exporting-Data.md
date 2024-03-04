@@ -2,7 +2,7 @@ You can export your data model, annotations, and metadata. Click on the **Export
 
 ## Exporting Annotations
 
-Click **Annotations** to download 
+Click and download **Annotations**.  
  1. **Annotation Data**: export all annotations as a flat list in the [W3C Web Annotation format](https://www.w3.org/TR/annotation-model/).
  2. **Annotations and Images**: export all annotations and image snippets.
 
