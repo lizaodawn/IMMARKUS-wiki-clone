@@ -5,8 +5,11 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/01-Upl
 3.	**Knowledge Graph** is a placeholder for now. This is where you will be able to access an overview of your annotations and their relations in the future.
 4.	**Export** is where you can export data in different formats.
 5.	**MARKUS** is a placeholder currently. Here you will be able to link and export to other modules in the X-MARKUS platform.
+6. **About** is where you can find information on funding for the project and how to cite us
+7. **Help** will lead you back to this wiki page
 
 
-![Picture2](https://github.com/rsimon/immarkus/assets/128056738/6a94da2e-0e02-4e24-ab65-b1b4f3ece46b)
+![Screenshot (538)](https://github.com/rsimon/immarkus/assets/128056738/41bc1c33-a7eb-41ea-b3b0-d5561ecc47af)
+
 
 **Figure 3.** The IMMARKUS Interface Showing the Image Gallery
