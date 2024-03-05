@@ -37,7 +37,7 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 # Adding Entities and Properties to Image Selections
 
-While annotating images, you can also create or add entities and properties by and following the steps below:
+While annotating images, you can also create or add entities and properties by following the steps below:
 * For creating entities and properties in the data model mode, see [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
 1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Select **Add Tag** and a popup window appears.
