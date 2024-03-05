@@ -33,7 +33,7 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 **Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
 
-2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#creating-entities-and-properties-in-annotation-mode).
+2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [create entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#adding-entities-and-properties-to-image-selections).
 
 # Adding Entities and Properties to Image Selections
 
