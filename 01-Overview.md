@@ -10,7 +10,7 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 * Read more about [Annotating Multiple Images Simultaneously](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#annotating-multiple-images-simultaneously)
 
-## Design Your Own Ontology
+## Design Your Own Data Model
 
 IMMARKUS includes a form-based editor for creating and managing your personal data model. The data model is designed around the concepts of **Entity Classes** and **Properties**.
 
