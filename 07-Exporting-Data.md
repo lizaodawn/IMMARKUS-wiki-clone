@@ -4,7 +4,7 @@ You can export your data model, annotations, and metadata. Click on the **Export
 
 Click and download **Annotations**.  
  1. **Annotation Data**: export all annotations as a flat list in the [W3C Web Annotation](https://www.w3.org/TR/annotation-model/) JSON-LD format (JSON for Linked Data, a specification for encoding contextualized meaning into JSON documents.).
- 2. **Annotations and Images**: generates one Excel file with multiple worksheets - one worksheet for each top-level Entity Class. 
+ 2. **Annotations and Images**: generates one Excel file with multiple worksheets - one worksheet for each top-level entity class. 
 Each metadata property is exported as a column. The first column contains the image snippet. 
 
 
