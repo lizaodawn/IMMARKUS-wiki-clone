@@ -121,9 +121,9 @@ You will see the Add Tag and Add Note buttons in the panel on the right.
 
 **Figure 22.** Adding a Note to a Selected Image Part
 
-Choose **Add Note**. Make sure you click **Save** after writing your note.
+Click **Add Note**. Be sure to click **Save** after writing your note.
 
-You can also add a note to the part of the image that you have already annotated. Select the annotation, and then scroll down to the bottom and click the **Add Note** button. This is useful if you want to add a note unrelated to existing properties.
+You can also add a note to any image selection that you have already annotated. Select the annotation, and then scroll down to the bottom and click the **Add Note** button. This is useful if you want to add a note unrelated to existing properties or want to add extra information for future reference.
 
 <img width="985" alt="Screenshot 2024-03-04 at 20 07 25" src="https://github.com/rsimon/immarkus/assets/160752064/d2f2c4f6-61cb-4fb4-a398-5714e0990f93">
 
