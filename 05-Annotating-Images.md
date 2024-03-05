@@ -37,12 +37,12 @@ Then click and drag on the part of the image that you want to annotate. Be sure 
 
 # Adding Entities and Properties to Image Selections
 
-While annotating images, you can also create or add entities and properties. 
+While annotating images, you can also create or add entities and properties by and following the steps below:
 * For creating entities and properties in the data model mode, see [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
-First, decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Choose **Add Tag**. A popup window appears and follow the steps below. 
+1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Select **Add Tag** and a popup window appears.
 
-1.	Click **Create New Entity Class**. 
+2.	Click **Create New Entity Class**. 
 * If you have already created your data model, the existing entities will appear as shown in **Figure 16**.
 
 
@@ -52,18 +52,17 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 
 **Figure 16.** Creating Entities in Annotation Mode
 
-2.	Click **Entity Class** and name the entity class (e.g. "gate_tower”).
+3.	Click **Entity Class** and name the entity class (e.g. "gate_tower”).
 
     •	You can select the color of each entity on the right panel.
 
-3.	You can define a different **Display Name**. (e.g. "gate tower").
-4.	You can choose to add your new entity class as a child class of one of your existing entities. In **Parent Class** enter the name of the entity class you want to make the parent of your new entity class. (e.g. "obj_part").
-* Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 17**)
-* You can read more about inherited properties [here](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#inherited-properties)
+4.	You can define a different **Display Name**. (e.g. "gate tower").
+5.	You can choose to add your new entity class as a child class of one of your existing entities. In the **Parent Class** field, type the name of the entity class that you want to make the parent of your new entity class (e.g. "obj_part").
+6.  Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 17**). You can read more about inherited properties [here](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#inherited-properties)
 
-5. Add an **Entity Class Description** that explains the use of this entity class. This is optional and can be skipped if you wish.  
+7. Add an **Entity Class Description** that explains the use of this entity class. This field is optional.  
 
-6. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
+8. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
 
 <img width="987" alt="Screenshot 2024-03-04 at 18 45 39" src="https://github.com/rsimon/immarkus/assets/160752064/46bf3d50-b73e-41aa-84d9-73ea81a3c7e9">
 
@@ -71,27 +70,27 @@ First, decide which part of the image you would like to tag and [draw a shape](h
 
 
 
-6.	Click **Add Property**. This opens the property editor as shown in **Figure 18**.
+9.	Click **Add Property**. This opens the property editor as shown in **Figure 18**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
 **Figure 18.** Adding Properties
 
-7.	Define the **Property Name**.
+10.	Define the **Property Name**.
 
-8.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
+11.	Select a data type by clicking the drop-down menu under **Data Type**. Click here for [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options).
 
 
-9.	The data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
+12.	The data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
 
 <img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
 
 **Figure 19.** Selecting a Data Type
 
 
-10.	After you have added each property, click **Save Property**. 
+13.	After you have added each property, click **Save Property**. 
 
-11.	When you have finished adding properties, click **Save Entity Class**.
+14.	When you are done adding properties, click **Save Entity Class**.
 
 ## Using External Authorities in Annotations
 
