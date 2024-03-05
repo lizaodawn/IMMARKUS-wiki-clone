@@ -10,7 +10,7 @@ Each metadata property is exported as a column. The first column includes the im
 
 ![Screenshot (547)](https://github.com/rsimon/immarkus/assets/128056738/6eb1008a-7876-4bac-93e7-2ac2b806c48c)
 
-**Figure 32.** Exporting Annotations
+**Figure 34.** Exporting Annotations
 
 ## Exporting a Data Model
 
@@ -21,7 +21,7 @@ This is the same file you will find in your working folder as _immarkus.model.js
 
 ![Screenshot (548)](https://github.com/rsimon/immarkus/assets/128056738/3a65311a-c05d-42b4-acb9-64ca128314d9)
 
-**Figure 33.** Exporting a Data Model
+**Figure 35.** Exporting a Data Model
 
 
 ## Exporting Metadata
@@ -30,4 +30,4 @@ Click **Metadata** and select either **Image** or **Folder Metadata**. The metad
 
 ![Screenshot (549)](https://github.com/rsimon/immarkus/assets/128056738/a17fe67b-6ce9-4062-a749-ca8fab3c4407)
 
-**Figure 34.** Exporting Metadata
+**Figure 36.** Exporting Metadata
