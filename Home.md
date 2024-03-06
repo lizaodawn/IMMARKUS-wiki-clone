@@ -22,10 +22,6 @@ This research is part of a project that has received funding from the European R
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Meret Meister, and Xi Wangzhi. IMMARKUS: Image Annotation in X-MARKUS. 2024. [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
-**Code**:
-
-Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [github.com/rsimon/immarkus](https://github.com/rsimon/immarkus) 
-
 **Instructions (wiki)**:
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Image Annotation in IMMARKUS Wiki. 2024. [github.com/rsimon/immarkus/wiki](https://github.com/rsimon/immarkus/wiki)
@@ -33,3 +29,7 @@ Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Image Annotation i
 **Instructions (pdf)**:
 
 Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [add link to pdf]
+
+**Code**:
+
+Rainer Simon. IMMARKUS: Image Annotation in X-MARKUS. 2024. [github.com/rsimon/immarkus](https://github.com/rsimon/immarkus) 
