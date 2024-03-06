@@ -28,7 +28,7 @@ Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Image Annotation i
 
 **Instructions (pdf)**:
 
-Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [add link to pdf]
+Hilde De Weerdt, Rainer Simon, Lee Sunkyu, and Iva Stojević. Instructions for Image Annotation in IMMARKUS. 2024. [pdf TBA]
 
 **Code**:
 
