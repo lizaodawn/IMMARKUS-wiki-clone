@@ -28,12 +28,11 @@ The following functionalities are available in the Annotation Mode (numbers corr
 Decide which part of the image you would like to tag and draw a shape.
 
 1. Click the draw button (#6 in **Figure 14** and **15**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
-
-Then click and drag on the part of the image that you want to annotate. Be sure to click the part of the image you want to annotate before you move the pointer over the image to avoid moving the image.
-
-**Tip:** Double-clicking will end the drawing; this is especially useful when drawing a polygon.
-
-2. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [add entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#adding-entities-and-properties-to-image-selections).
+2. Click once - without keeping the mouse button pressed - to start drawing.
+* When drawing a rectangle or ellipse, move the mouse and click again once to complete the shape.
+* When drawing a polygon, each further click adds another point. If you double click, or click once on the first point of the polygon, you will close the shape and complete the drawing.
+* If you need to move the image while you are drawing, click and keep the mouse button pressed to drag the image.
+3. When you have finished drawing, you will be asked to add a tag. Choose "Add Tag" and you can [add entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#adding-entities-and-properties-to-image-selections).
 
 # Adding Entities and Properties to Image Selections
 
