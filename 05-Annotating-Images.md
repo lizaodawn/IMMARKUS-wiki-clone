@@ -42,7 +42,6 @@ After you have drawn a shape, you can also add or create entities and properties
 
 2. If you have already created a data model, the existing entities will appear along with any other entities you created before as shown in **Figure 16**. You can reuse these entities and their properties to annotate the image selection. You can also search through your entities to locate the one needed if you have created many.
 
-* The workflow for creating entitities and properties is exactly identical to the one in [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
 <img width="583" alt="Screenshot 2024-03-04 at 18 42 22" src="https://github.com/rsimon/immarkus/assets/160752064/7631a25d-2913-4ff4-9c33-972056b20d5c">
 
@@ -51,6 +50,8 @@ After you have drawn a shape, you can also add or create entities and properties
 **Figure 16.** Adding or Creating Entities in Annotation Mode
 
 3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the Data Model view.
+
+* The workflow for creating entitities and properties is identical to the one in [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
 4.	You can define a different **Display Name**. (e.g. "gate tower").
 5.	You can choose to add your new entity class as a child class of one of your existing entities. In the **Parent Class** field, type the name of the entity class that you want to make the parent of your new entity class (e.g. "obj_part").
