@@ -11,7 +11,7 @@ The following functionalities are available in the Annotation Mode (numbers corr
 6.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations) (select rectangle, polygon, or ellipse)
 7.	See details of the currently selected annotation
 8.	List your annotations
-9.	Add or edit [image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
+9.	Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
 
 ![Screenshot (520)](https://github.com/rsimon/immarkus/assets/128056738/430a8823-1169-460b-80d1-819568eade75)
 
