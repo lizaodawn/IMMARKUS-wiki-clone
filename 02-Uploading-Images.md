@@ -1,6 +1,6 @@
 1. To start working with IMMARKUS, create or locate a folder with jpeg or png files on your computer. 
 
-NOTE: Your image files will be directly edited by IMMARKUS. We recommend that you work with copies of your files and save the original files in another folder to avoid the loss of originals. 
+NOTE: IMMARKUS stores data directly on your computer. We recommend that you work with copies of your work folder, and make regular backups of your files in another folder to avoid the loss of data.
 
 2. Go to IMMARKUS [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
