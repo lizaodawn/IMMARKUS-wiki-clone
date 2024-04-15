@@ -26,7 +26,7 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 3. Add a metadata field under **Property Name** ("author_cbdb_id”) and choose a **Data Type** ("External Authority"-choose at least one external authority, such as CBDB). Click **Save Property**. 
 
-![image](https://github.com/rsimon/immarkus/assets/160752064/176eef10-9fed-40d0-a389-8e6fd8467c92)
+![image](https://github.com/rsimon/immarkus/assets/160752064/0c6f1cfc-35a3-4345-8237-a1ee7ed47f23)
 
 
 **Figure 27.** Setting a Data Type in a Folder Metadata Schema
