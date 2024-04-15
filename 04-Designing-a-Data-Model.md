@@ -4,6 +4,8 @@ In IMMARKUS you can define a data model consisting of entity classes and propert
 
 In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
 
+**Attention.** You cannot have two data models for the same folder (or a sub-folder). To have a different data model, you must create a separate folder instead of using a subfolder. 
+
 # Creating Entities and Properties in the Data Model Mode
 
 To create entities and properties in the data model mode, enter the data model mode by clicking Data Model on your left side bar.
