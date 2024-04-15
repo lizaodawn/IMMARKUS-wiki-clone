@@ -24,15 +24,16 @@ You can create a metadata schema in the Data Model view. You can record metadata
 **Figure 26.** Adding a Schema for Folder Metadata
 <br/><br/>
 
-3. Add a metadata field under **Property Name** ("genre”) and choose a **Data Type** ("Options"). Click **Save Property**. 
+3. Add a metadata field under **Property Name** ("author_cbdb_id”) and choose a **Data Type** ("External Authority"-choose at least one external authority, such as CBDB). Click **Save Property**. 
 
-<img width="955" alt="Screenshot 2024-03-03 at 00 48 39" src="https://github.com/rsimon/immarkus/assets/160752064/e2e8674c-d19c-4a2c-9002-ad259a922d65">
+![image](https://github.com/rsimon/immarkus/assets/160752064/176eef10-9fed-40d0-a389-8e6fd8467c92)
+
 
 **Figure 27.** Setting a Data Type in a Folder Metadata Schema
 
 4. Be sure to click **Save Schema** after you are done adding properties (bottom blue box in **Figure 28**).
 
-<img width="614" alt="Screenshot 2024-03-03 at 01 09 37" src="https://github.com/rsimon/immarkus/assets/160752064/fe127aa5-443e-4320-9cbb-38c91206466b">
+![image](https://github.com/rsimon/immarkus/assets/160752064/b46d08b9-0bac-4406-ab2f-b142a87d2ae8)
 
 
 **Figure 28.** Saving a Folder Metadata Schema
