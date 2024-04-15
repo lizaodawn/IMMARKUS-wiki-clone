@@ -31,9 +31,9 @@ You can create a metadata schema in the Data Model view. You can record metadata
 
 **Figure 27.** Setting a Data Type in a Folder Metadata Schema
 
-4. Be sure to click **Save Schema** after you are done adding properties (bottom blue box in **Figure 28**).
+4. Be sure to click **Save Schema** after you are done adding properties.
 
-![image](https://github.com/rsimon/immarkus/assets/160752064/b46d08b9-0bac-4406-ab2f-b142a87d2ae8)
+![image](https://github.com/rsimon/immarkus/assets/160752064/d5aee4f8-e1e1-45ae-9eaf-59697121c520)
 
 
 **Figure 28.** Saving a Folder Metadata Schema
