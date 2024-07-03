@@ -6,7 +6,7 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 <img width="1427" alt="Screenshot 2024-03-04 at 11 40 09" src="https://github.com/rsimon/immarkus/assets/160752064/d7c7f932-1727-49a7-b111-859396166cac">
 
-**Figure 2.** Multi-Window Zoomable Image Annotation in IMMARKUS
+**Figure 1.** Multi-Window Zoomable Image Annotation in IMMARKUS
 
 * Read more about [Annotating Multiple Images Simultaneously](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#annotating-multiple-images-simultaneously)
 
@@ -20,7 +20,7 @@ IMMARKUS includes a form-based editor for creating and managing your personal da
 
 <img width="958" alt="Screenshot 2024-03-04 at 13 11 01" src="https://github.com/rsimon/immarkus/assets/160752064/b8d54fa9-53dc-414e-b291-d62f46b76a9b">
 
-**Figure 3.** Defining Entities in IMMARKUS
+**Figure 2.** Defining Entities in IMMARKUS
 
 
 * Read more about [Designing a Data Model](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model)
@@ -39,6 +39,6 @@ IMMARKUS offers a range of data types you can use to capture properties of diffe
 
 <img width="978" alt="Screenshot 2024-03-04 at 11 45 01" src="https://github.com/rsimon/immarkus/assets/160752064/996cd609-c1c3-4a96-b51c-f7ee376e3a7a">
 
-**Figure 4.** Defining Properties in IMMARKUS
+**Figure 3.** Defining Properties in IMMARKUS
 
 * Read more about [Property Options](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#property-options)
