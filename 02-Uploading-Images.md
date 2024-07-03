@@ -17,4 +17,5 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
 
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
 
-**NOTE:** limit your image size to 10 MB to ensure IMMARKUS can open them. If you are working with images above 10 MB, we recommend converting them to lower quality images for your work in IMMARKUS. 
+## Image Size
+Limit your image size to 10 MB to ensure IMMARKUS can open them. If you are working with images above 10 MB, we recommend converting them to lower quality images for your work in IMMARKUS. 
