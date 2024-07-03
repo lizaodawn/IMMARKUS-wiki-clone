@@ -10,18 +10,17 @@ Each property is exported as a column followed by the image snippet, the file na
 
 ![Screenshot (547)](https://github.com/rsimon/immarkus/assets/128056738/6eb1008a-7876-4bac-93e7-2ac2b806c48c)
 
-**Figure 34.** Exporting Annotations
+**Figure 1.** Exporting Annotations
 
 ## Exporting a Data Model
 
-Click **Data Model** and download your data model as a json file. 
+In **Data Model**, you can choose what to export: **Entity Classes**, **Image Metadata**, **Folder Metadata**, or the entire IMMARKUS Data Model. All the exports are downloaded as a json file.  
 
 This is the same file you will find in your working folder as _immarkus.model.json.
 
+![NEW FIGURE 34](https://github.com/rsimon/immarkus/assets/128056738/f85d8a3d-b647-412b-b8b1-dae08d2218d8)
 
-![Screenshot (548)](https://github.com/rsimon/immarkus/assets/128056738/3a65311a-c05d-42b4-acb9-64ca128314d9)
-
-**Figure 35.** Exporting a Data Model
+**Figure 2.** Exporting a Data Model
 
 
 ## Exporting Metadata
@@ -30,4 +29,4 @@ Click **Metadata** and select either **Image** or **Folder Metadata**. The metad
 
 ![Screenshot (549)](https://github.com/rsimon/immarkus/assets/128056738/a17fe67b-6ce9-4062-a749-ca8fab3c4407)
 
-**Figure 36.** Exporting Metadata
+**Figure 3.** Exporting Metadata
