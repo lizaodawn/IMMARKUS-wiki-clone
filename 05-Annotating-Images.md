@@ -2,7 +2,7 @@ To add annotations to your images, click the subfolder containing the images you
 
 # Overview
 
-The following functionalities are available in the Annotation Mode (numbers correspond to those in **Figure 14** and **15**) 
+The following functionalities are available in the Annotation Mode (numbers correspond to those in **Figures 1** and **2**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images)
 2.	Zoom in or zoom out of an image
 3.	Click image numbers to browse the images in the same subfolder on top / click arrows to display the previous or next image  
@@ -15,19 +15,19 @@ The following functionalities are available in the Annotation Mode (numbers corr
 
 ![Screenshot (520)](https://github.com/rsimon/immarkus/assets/128056738/430a8823-1169-460b-80d1-819568eade75)
 
-**Figure 14.** Annotation Mode
+**Figure 1.** Annotation Mode
 
 ![Screenshot (485)](https://github.com/rsimon/immarkus/assets/128056738/63fd251f-c3e7-4746-9164-c0432fca8576)
 
 
-**Figure 15.** Close-up View of Functionalities in the Annotation Mode
+**Figure 2.** Close-up View of Functionalities in the Annotation Mode
 
 
 # Drawing Annotations
 
 Decide which part of the image you would like to tag and draw a shape.
 
-1. Click the draw button (#6 in **Figure 14** and **15**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
+1. Click the draw button (#6 in **Figures 1** and **2**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
 2. Click once - without keeping the mouse button pressed - to start drawing.
 * When drawing a rectangle or ellipse, move the mouse and click again once to complete the shape.
 * When drawing a polygon, each further click adds another point. If you double click, or click once on the first point of the polygon, you will close the shape and complete the drawing.
@@ -40,14 +40,14 @@ After you have drawn a shape, you can also add or create entities and properties
 
 1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Select **Add Tag** and a popup window appears.
 
-2. If you have already created a data model, the existing entities will appear along with any other entities you created before as shown in **Figure 16**. You can reuse these entities and their properties to annotate the image selection. You can also search through your entities to locate the one needed if you have created many.
+2. If you have already created a data model, the existing entities will appear along with any other entities you created before as shown in **Figure 3**. You can reuse these entities and their properties to annotate the image selection. You can also search through your entities to locate the one needed if you have created many.
 
 
 <img width="583" alt="Screenshot 2024-03-04 at 18 42 22" src="https://github.com/rsimon/immarkus/assets/160752064/7631a25d-2913-4ff4-9c33-972056b20d5c">
 
 
 
-**Figure 16.** Adding or Creating Entities in Annotation Mode
+**Figure 3.** Adding or Creating Entities in Annotation Mode
 
 3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the Data Model view.
 
@@ -55,23 +55,23 @@ After you have drawn a shape, you can also add or create entities and properties
 
 4.	You can define a different **Display Name**. (e.g. "gate tower").
 5.	You can choose to add your new entity class as a child class of one of your existing entities. In the **Parent Class** field, type the name of the entity class that you want to make the parent of your new entity class (e.g. "obj_part").
-6.  Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 17**). You can read more about inherited properties [here](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#inherited-properties).
+6.  Once you have defined your new entity class as a child class, the properties of its parent class will be displayed in the entity preview. (see the right side of the panel in **Figure 4**). You can read more about inherited properties [here](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#inherited-properties).
 
 7. Add an **Entity Class Description** that explains the use of this entity class. This field is optional.  
 
-8. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 17**)
+8. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 4**)
 
 <img width="987" alt="Screenshot 2024-03-04 at 18 45 39" src="https://github.com/rsimon/immarkus/assets/160752064/46bf3d50-b73e-41aa-84d9-73ea81a3c7e9">
 
-**Figure 17.** Creating Entities and Properties
+**Figure 4.** Creating Entities and Properties
 
 
 
-9.	Click **Add Property**. This opens the property editor as shown in **Figure 18**.
+9.	Click **Add Property**. This opens the property editor as shown in **Figure 5**.
 
 ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
-**Figure 18.** Adding Properties
+**Figure 5.** Adding Properties
 
 10.	Define the **Property Name**.
 
@@ -82,7 +82,7 @@ After you have drawn a shape, you can also add or create entities and properties
 
 <img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
 
-**Figure 19.** Selecting a Data Type
+**Figure 6.** Selecting a Data Type
 
 
 13.	After you have added each property, click **Save Property**. 
@@ -93,11 +93,11 @@ After you have drawn a shape, you can also add or create entities and properties
 
 Using the External Authority property type allows you to associate an entity class with one or more external authority services. You can add multiple authorities per field, and multiple fields per entity class. 
 
-1. In the property editor, type a name for your property ("place ID" in **Figure 20**) and select the External Authority field type.
+1. In the property editor, type a name for your property ("place ID" in **Figure 7**) and select the External Authority field type.
 
 ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
 
-**Figure 20.** Available Options for External Authorities
+**Figure 7.** Available Options for External Authorities
 
 2. As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
 
@@ -107,7 +107,7 @@ Using the External Authority property type allows you to associate an entity cla
 
 <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
-**Figure 21.** TGAZ Result of "Guangchang County" Using IMMARKUS
+**Figure 8.** TGAZ Result of "Guangchang County" Using IMMARKUS
 
 # Adding a Note
 
@@ -118,7 +118,7 @@ You will see the Add Tag and Add Note buttons in the panel on the right.
 
 <img width="980" alt="Screenshot 2024-03-04 at 19 58 06" src="https://github.com/rsimon/immarkus/assets/160752064/06f05864-0886-4c2c-bbd5-d65bf5580b25">
 
-**Figure 22.** Adding a Note to a Selected Image Part
+**Figure 9.** Adding a Note to a Selected Image Part
 
 Click **Add Note**. Be sure to click **Save** after writing your note.
 
@@ -126,19 +126,19 @@ You can also add a note to any image selection that you have already annotated. 
 
 <img width="985" alt="Screenshot 2024-03-04 at 20 07 25" src="https://github.com/rsimon/immarkus/assets/160752064/d2f2c4f6-61cb-4fb4-a398-5714e0990f93">
 
-**Figure 23.** Adding a Note to a Selection of an Image with an Existing Tag
+**Figure 10.** Adding a Note to a Selection of an Image with an Existing Tag
 	 
 # Annotating Multiple Images Simultaneously
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (red square in **Figure 24**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **Figure 11**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
 ![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
 
 
-**Figure 24.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
+**Figure 11.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
