@@ -16,3 +16,5 @@ NOTE: IMMARKUS stores data directly on your computer. We recommend that you work
  If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in **Figure 5** above, the folder "Ming illustrative map") 
 
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
+
+NOTE: limit your image size to 10 MB to ensure IMMARKUS can open them. If you are working with images above 10 MB, we recommend converting them to lower quality images for your work in IMMARKUS. 
