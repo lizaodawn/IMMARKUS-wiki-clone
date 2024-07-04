@@ -21,7 +21,8 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
 Limit your image size to 10 MB to ensure IMMARKUS can open them. If you are working with images above 10 MB, we recommend converting them to lower quality images for your work in IMMARKUS. 
 
 ## Subfolder organization 
-In IMMARKUS it is possible to upload one folder with several subfolders and apply the same data and metadata model to subfolders. We recommend organizing images into subfolders according to shared features (e.g. they belong to the same publication or collection). If you have images from different sources (**Figure 2**) consider storing those from the same source together. You can then fill in the shared bibliographic information for all images in the same subfolder in the [subfolder metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata). The subfolder structure will be visible in the .xlsx export of annotations.
+In IMMARKUS it is possible to upload one folder with several subfolders and apply the same data and metadata model to subfolders. We recommend organizing images into subfolders according to shared features (e.g. they belong to the same publication or collection). If you have images from different sources (**Figure 2**) consider storing those from the same source together. You can then fill in the shared bibliographic information for all images in the same subfolder in the [subfolder metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata). The subfolder structure will be visible in the .XLSX export of annotations.
+
 <img width="1100" alt="SUBFOLDERS" src="https://github.com/rsimon/immarkus/assets/128056738/a9fabd17-2042-48b7-ac57-7c9b2ddc1bab">
 
 **Figure 2.** Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
