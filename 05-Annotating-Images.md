@@ -104,14 +104,14 @@ Using the External Authority property type allows you to associate an entity cla
 
 <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
-**Figure 7.** TGAZ Result of "Guangchang County" Using IMMARKUS
+**Figure 7.** TGAZ Result of "Guangchang County" 
 
 # Adding a Note
 
 You can add a note to a selected part of your image. This is useful if you want to make a note about the image for future use, but do not want to include that information in the annotations.
 
 Select a part of your image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
-You will see the Add Tag and Add Note buttons in the panel on the right. 
+You will see the **Add Tag** and **Add Note** buttons in the panel on the right. 
 
 <img width="980" alt="Screenshot 2024-03-04 at 19 58 06" src="https://github.com/rsimon/immarkus/assets/160752064/06f05864-0886-4c2c-bbd5-d65bf5580b25">
 
