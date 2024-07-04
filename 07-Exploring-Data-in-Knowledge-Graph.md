@@ -17,7 +17,7 @@ You can inspect individual nodes, move them, and pin them on the knowledge graph
 
 ## Entity Class Nodes 
 
-To see all annotations of a specific entity class click on an entity class node (in this case _survey_) (**Figure 3**). You can access the individual annotations by clicking on the **Open Image** button. IMMARKUS will then take you to the individual image in the **Image Gallery**. This will return the knowledge graph to default mode. 
+To see all annotations of a specific entity class click on an entity class node (in this case _survey_) (**Figure 3**). You can access the individual annotations by clicking on the **Open Image** button. IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). This will return the knowledge graph to default mode. 
 
 ![KG3](https://github.com/rsimon/immarkus/assets/128056738/dcf0a907-88fc-4bc7-93a3-c210c7d4454d)
 
@@ -25,7 +25,7 @@ To see all annotations of a specific entity class click on an entity class node 
 
 ## Image Nodes 
 
-If you want to see all entity classes annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **Open Image** button. IMMARKUS will then take you to the individual image in the **Image Gallery**. This will return the knowledge graph to default mode. 
+If you want to see all entity classes annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **Open Image** button. IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). This will return the knowledge graph to default mode. 
 
 ![KG4](https://github.com/rsimon/immarkus/assets/128056738/29efab0e-aeb8-47b6-96bf-5fa20cc7ba42)
 
