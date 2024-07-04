@@ -8,7 +8,7 @@ In the IMMARKUS **hierarchical data model**, you can define common properties th
 
 # Creating Entities and Properties in the Data Model Mode
 
-To create entities and properties in the data model mode, enter the data model mode by clicking Data Model on your left side bar.
+To create entities and properties in the data model mode, enter the data model mode by clicking **Data Model** on your left side bar.
 
 1. On the upper menu bar you will see that you are editing Entity Classes. Click **Create New Entity Class**.
 
