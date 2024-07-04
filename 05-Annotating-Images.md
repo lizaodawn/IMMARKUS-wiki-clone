@@ -15,7 +15,9 @@ See details of the currently selected annotation
 9. 	List your annotations
 10. Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
 
-![Screenshot (874)](https://github.com/rsimon/immarkus/assets/128056738/7ba2222b-bb29-4ee2-87c2-b30373a00d83)
+![Screenshot (182)](https://github.com/rsimon/immarkus/assets/128056738/39b883d6-7b45-4fa9-8a16-ae5b0ef90a3c)
+
+
 **Figure 1.** Annotation Mode
 
 
