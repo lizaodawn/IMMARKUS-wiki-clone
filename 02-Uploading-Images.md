@@ -1,6 +1,6 @@
 IMMARKUS uses a novel browser feature which is currently unavailable on Firefox, Safari and mobile devices. Please use **Chrome** or **Edge** on the desktop to access IMMARKUS.
 
-1. To start working with IMMARKUS, create or locate a folder with jpeg or png files on your computer. 
+1. To start working with IMMARKUS, create or locate a folder with JPEG or PNG files on your computer. 
 
 **NOTE:** IMMARKUS stores data directly on your computer. We recommend that you work with copies of your work folder, and make regular backups of your files in another folder to avoid the loss of data.
 
