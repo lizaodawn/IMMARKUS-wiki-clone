@@ -22,7 +22,7 @@ You can create a metadata schema in the **Data Model** view. You can record meta
 **Figure 2.** Adding a Schema for Folder Metadata
 <br/><br/>
 
-3. Add a metadata field under **Property Name** ("author_cbdb_id”) and choose a **Data Type** ("External Authority"-choose at least one external authority, such as CBDB). Click **Save Property**. 
+3. Add a metadata field under **Property Name** ("author_cbdb_id”) and select a **Data Type** ("External Authority"-select at least one external authority, such as CBDB). Click **Save Property**. 
 
 ![image](https://github.com/rsimon/immarkus/assets/160752064/176eef10-9fed-40d0-a389-8e6fd8467c92)
 
@@ -40,13 +40,13 @@ You can create a metadata schema in the **Data Model** view. You can record meta
 
 A metadata schema for individual images can be added in the same way as metadata schemas for folders.  
 
-1. Choose **Image Metadata** and click **New Image Schema**. 
+1. Go to **Image Metadata** and click **New Image Schema**. 
 
 <img width="917" alt="Screenshot 2024-03-03 at 01 21 41" src="https://github.com/rsimon/immarkus/assets/160752064/faf265e2-0fc3-4a05-b4e9-864496725378">
 
 **Figure 5.**  Creating a Metadata Schema for Individual Images
 <br/><br/>
-2. Define **Property Name** and choose **Data Type**. Click **Save Property**. 
+2. Define **Property Name** and select **Data Type**. Click **Save Property**. 
 
 <img width="819" alt="Screenshot 2024-03-03 at 01 25 49" src="https://github.com/rsimon/immarkus/assets/160752064/af4a0c0d-1b18-4645-80a3-2c8693ba4af5">
 
