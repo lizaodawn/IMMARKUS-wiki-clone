@@ -31,7 +31,7 @@ If you want to see all entity classes annotated on an individual image, click on
 
 Figure 4. Clicking on an Individual Image Node in the Knowledge Graph to Select it  
 
-You can also view and modify image metadata in the knowledge graph: select an image node and click on the **Information** button (in blue).  From here you can also select a predefined schema and fill out image metadata (**Figure 5**). 
+To view and modify image metadata in the **Knowledge Graph** view, select an image node and click on the **Information** button (in blue).  From here you can also select a predefined schema and fill out image metadata (**Figure 5**). 
 
 ![KG5](https://github.com/rsimon/immarkus/assets/128056738/e1ae4a43-f5aa-48d3-967f-7d276b28b3e0)
 
@@ -49,12 +49,12 @@ Hide labels hides text labels from the graph. You can view the labels by hoverin
 
 **Figure 6.** Hide Labels in Knowledge Graph with the Label Excavation Made Visible by Hovering over the Node 
 
-## Show Sub-folders as Nodes  
+## Show Subfolders as Nodes  
 
-Show sub-folders as nodes allows you to see the distribution of your images and entities across sub-folders on the graph (crimson nodes on **Figure 7**)
+Show subfolders as nodes allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 7**)
  
 ![KG7](https://github.com/rsimon/immarkus/assets/128056738/76f9434f-cabf-4fda-983c-f72c80af0f45)
-**Figure 7.** Show Sub-folders as Nodes  
+**Figure 7.** Show Subfolders as Nodes  
 
 ## Hide Unconnected Nodes  
 
