@@ -24,16 +24,16 @@ Limit your image size to 10 MB to ensure IMMARKUS can open them. If you are work
 In IMMARKUS it is possible to upload one folder with several subfolders and apply the same data and metadata model to all subfolders. We recommend organizing images into subfolders according to shared features (e.g. they belong to the same publication or collection). If you have images from different sources (**Figure 2**) consider storing those from the same source together. You can then fill in the shared bibliographic information for all images in the same subfolder in the [subfolder metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata). The subfolder structure will be visible in the .xlsx export of annotations.
 <img width="1100" alt="SUBFOLDERS" src="https://github.com/rsimon/immarkus/assets/128056738/a9fabd17-2042-48b7-ac57-7c9b2ddc1bab">
 
-Figure 2. Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
+**Figure 2.** Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
 
 Folders can have several levels of subfolders, as shown in **Figure 3**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier), where you can store additional information for each sub-theme using project metadata if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in the folder (**Figure 4**).
 ![SUBFOLDERS image 2](https://github.com/rsimon/immarkus/assets/128056738/a3a66ee2-5fc8-4c59-b429-f3772be8087e)
 
-Figure 3. Subfolder Organization in IMMARKUS
+**Figure 3.** Subfolder Organization in IMMARKUS
    
 ![SUBFOLDERS image 3](https://github.com/rsimon/immarkus/assets/128056738/9e18c3ec-e840-4b01-bb74-d1266d8572a2)
 
-Figure 4. Project Metadata
+**Figure 4.** Project Metadata
 
 ## Image and Folder Size
 
