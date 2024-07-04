@@ -2,7 +2,7 @@ To add annotations to your images, click the subfolder containing the images you
 
 # Overview
 
-The following functionalities are available in the Annotation Mode (numbers correspond to those in **Figure 1**) 
+The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 1**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images)
 2.	Browse the images in the same subfolder on top / click arrows to display the previous or next image 
 3.	Rotate image 90° to the left or to the right 
