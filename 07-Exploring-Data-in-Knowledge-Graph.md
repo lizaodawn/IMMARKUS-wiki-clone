@@ -15,6 +15,7 @@ You can inspect individual nodes, move them, and pin them on the knowledge graph
 ![KG2](https://github.com/rsimon/immarkus/assets/128056738/0ec3574f-b00e-4fbc-85fd-05938a177b8b)
 **Figure 2.** Pinning a Node (Tower) on the Knowledge Graph 
 
+
 ## Entity Class Nodes 
 
 To see all annotations of a specific entity class click on an entity class node (in this case _survey_) (**Figure 3**). You can access the individual annotations by clicking on the **Open Image** button. IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). This will return the knowledge graph to default mode. 
@@ -22,6 +23,7 @@ To see all annotations of a specific entity class click on an entity class node 
 ![KG3](https://github.com/rsimon/immarkus/assets/128056738/dcf0a907-88fc-4bc7-93a3-c210c7d4454d)
 
 **Figure 3.** Clicking on an Individual Entity Class to Select it
+
 
 ## Image Nodes 
 
@@ -36,6 +38,7 @@ To view and modify image metadata in the **Knowledge Graph** view, select an ima
 ![KG5](https://github.com/rsimon/immarkus/assets/128056738/e1ae4a43-f5aa-48d3-967f-7d276b28b3e0)
 
 **Figure 5.** Viewing and Modifying Image Metadata in the Knowledge Graph 
+
 
 # Settings 
 
