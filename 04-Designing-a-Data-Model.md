@@ -146,7 +146,7 @@ You can decide how you want to handle duplicate classes (**Figure 10**). You can
 
 **Figure 10.** Handling Duplicate Entity Classes 
 
-The imported model can still be modified using [entity classes and properties](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model/_edit#creating-entities-and-properties-in-the-data-model-mode) described above.
+The imported model can still be modified using [entity classes and properties](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#creating-entities-and-properties-in-the-data-model-mode) described above.
 
 <br/><br/>
 
