@@ -33,9 +33,9 @@ Decide which part of the image you would like to tag and draw a shape.
 
 # Adding Entities and Properties to Image Selections
 
-After you have drawn a shape, you can also add or create entities and properties by following the steps below:
+You can add or create entities and properties by following the steps below:
 
-1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the Add Tag and Add Note buttons in the panel on the right. Select **Add Tag** and a popup window appears.
+1. Decide which part of the image you would like to tag and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). Once you have drawn a shape, you will see the **Add Tag** and **Add Note** buttons in the panel on the right. Select **Add Tag** and a popup window appears.
 
 2. If you have already created a data model, the existing entities will appear along with any other entities you created before as shown in **Figure 2**. You can reuse these entities and their properties to annotate the image selection. You can also search through your entities to locate the one needed if you have created many.
 
@@ -46,7 +46,7 @@ After you have drawn a shape, you can also add or create entities and properties
 
 **Figure 2.** Adding or Creating Entities in Annotation Mode
 
-3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the Data Model view.
+3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the data model.
 
 * The workflow for creating entitities and properties is identical to the one in [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
