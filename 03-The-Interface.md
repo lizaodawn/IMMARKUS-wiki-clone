@@ -9,7 +9,7 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/02-Upl
 7. **Help** leads you back to this wiki page.
 
 
-![Screenshot (539)](https://github.com/rsimon/immarkus/assets/128056738/1da828a5-87fa-42ae-8ac4-b35bdd55bc61)
+![Fig 1](https://github.com/rsimon/immarkus/assets/128056738/c79be963-a37b-4d89-b3e9-b566f55021d2)
 
 
 **Figure 1.** The IMMARKUS Interface Showing the Image Gallery
