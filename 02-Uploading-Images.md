@@ -39,5 +39,5 @@ Folders can have several levels of subfolders, as shown in **Figure 3**, the top
 
 ## Image and Folder Size
 
-To ensure optimal performance, keep your projects manageable. Limit the number of subfolders and limit the number of images in your subfolders to 100, with a recommended maximum size of 10 MB per image (see [Image Size](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images#image-size) above). Keep in mind that metadata models can be exported and reused in projects (see **[Importing Metadata Models](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)**).
+To ensure optimal performance, keep your projects manageable. Limit the number of subfolders and limit the number of images in your subfolders to 100, with a recommended maximum size of 10 MB per image (see [Image Size](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images#image-size) above). Keep in mind that metadata models can be exported and reused in projects (see [Importing Metadata Models](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)).
 
