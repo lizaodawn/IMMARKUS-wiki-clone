@@ -4,8 +4,6 @@ You can create a metadata schema in the Data Model view. You can record metadata
 - The [Image Metadata Schema ](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#adding-a-metadata-schema-for-individual-images) defines how you describe individual __image files__ in your collection.
 - The [Folder Metadata Schema](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#adding-a-folder-metadata-schema) defines how you record information about the __directory folders__ in your collection. This can be useful if your folder contains images from the same book, artwork, or publication, so that you do not have to enter in the same metadata information for each individual image in the sub-folder.
 
-
-
 ## Adding a Folder Metadata Schema
 
 1. In the Data Model view, go to the **Folder Metadata** tab and click **New Folder Schema**. 
@@ -56,6 +54,53 @@ A metadata schema for individual images can be added in the same way as metadata
 **Figure 6.** Setting a Data Type in a Metadata Schema for Individual Images
 <br/><br/>
 
+# Importing Data Models for Metadata
+
+
+## Importing an Image Metadata Model 
+To import an image metadata model click **Import Model** under **Image Metadata** (**Figure 7**).
+
+![import image metadata 1](https://github.com/rsimon/immarkus/assets/128056738/f53e5349-f5d4-4ad9-b9ad-da8c118289d6)
+
+**Figure 7**. Importing a Model for Image Metadata
+
+From the pop-up window you can upload an image metadata model (**Figure 8**) or replace the current schema. You can also indicate how duplicates should be handled (**Figure 9**).
+
+![import image metadata 2](https://github.com/rsimon/immarkus/assets/128056738/b73c9d81-0bc9-4f48-a28c-5a098253d15f)
+
+**Figure 8.** Importing a Metadata Model  
+
+
+![import image metadata 3](https://github.com/rsimon/immarkus/assets/128056738/6456252f-9b7d-40a9-8d29-f27c4e608eb4)
+
+**Figure 9.** Handling Duplicate Classes during Import
+
+
+
+When importing an image metadata model, you can choose to import from preset image metadata models (in blue on **Figure 10**) which include schemas for ‘archaeological image’, ‘artwork’, and ‘historical printed illustration’ or you can click **Upload Datamodel File** to upload your own data model.
+
+
+![image import preset](https://github.com/rsimon/immarkus/assets/128056738/a3418aea-cf71-4180-9602-132aa9b87f38)
+
+
+**Figure 10.** Importing Predefined Image  Metadata Models
+
+## Importing a Folder Metadata Model
+
+To import a folder metadata model, click the **Import Model** button under **Folder Metadata** (in blue on **Figure 11**).
+
+
+![folder import 1](https://github.com/rsimon/immarkus/assets/128056738/c0d40f73-2771-4390-b376-45e07ba6fce2)
+
+**Figure 11.** Importing a Model for Folder Metadata
+
+The pop-up is identical to the one in **Image Metadata** (**Figures 8** and **9**) and you can select from the same options. The preset options include ‘artwork’, ‘historical printed text’, ‘journal article’, and ‘modern monograph’  (**Figure 12**).
+
+
+
+![folder import 2](https://github.com/rsimon/immarkus/assets/128056738/1b5364b2-b7c6-4584-b4bc-656da1bcc72e)
+
+**Figure 12.** Importing a Preset Folder Metadata Model
 
 # Recording Metadata
 
@@ -69,7 +114,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ![Screenshot (529)](https://github.com/rsimon/immarkus/assets/128056738/acb11fe8-c8d3-4ea8-918f-90e88594f4b9)
 
-**Figure 7**. Recording Folder Metadata in the Image Gallery
+**Figure 13**. Recording Folder Metadata in the Image Gallery
 <br/>
 
 ## Recording Individual Image Metadata in the Image Gallery 
@@ -78,15 +123,15 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ![Screenshot (533)](https://github.com/rsimon/immarkus/assets/128056738/6fe34242-8b76-4a4d-a6f1-8c863e3d12c6)
 
-**Figure 8.** Recording Image Metadata in the Image Gallery   
+**Figure 14.** Recording Image Metadata in the Image Gallery   
 <br/>
 
 ## Recording Metadata in Annotation Mode
 
-You can also enter metadata for individual images in the Annotation Mode. Click the individual image to enter the Annotation Mode and select the metadata tab in the right panel (red square in **Figure 9**). Select the schema for your metadata and fill in the properties you defined under metadata in the Data Model view. 
+You can also enter metadata for individual images in the Annotation Mode. Click the individual image to enter the Annotation Mode and select the metadata tab in the right panel (red square in **Figure 15**). Select the schema for your metadata and fill in the properties you defined under metadata in the Data Model view. 
 
 ![Screenshot (537)](https://github.com/rsimon/immarkus/assets/128056738/f0d2ffec-2310-4266-a4e8-eba572fddb04)
 
-**Figure 9.** Recording Image Metadata in the Annotation Mode
+**Figure 15.** Recording Image Metadata in the Annotation Mode
 
 
