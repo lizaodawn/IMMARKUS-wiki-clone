@@ -27,7 +27,7 @@ In IMMARKUS it is possible to upload one folder with several subfolders and appl
 
 **Figure 2.** Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
 
-Folders can have several levels of subfolders, as shown in **Figure 3**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
+Folders can have several levels of subfolders, as shown in **Figure 3**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of the subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
 
 ![SUBFOLDERS image 2](https://github.com/rsimon/immarkus/assets/128056738/a3a66ee2-5fc8-4c59-b429-f3772be8087e)
 
@@ -35,9 +35,9 @@ Folders can have several levels of subfolders, as shown in **Figure 3**, the top
    
 ![SUBFOLDERS image 3](https://github.com/rsimon/immarkus/assets/128056738/9e18c3ec-e840-4b01-bb74-d1266d8572a2)
 
-**Figure 4.** Project Metadata
+**Figure 4.** Subfolder Metadata
 
 ## Image and Folder Size
 
-To ensure optimal performance, limit your subfolders to 100 images per subfolder, with a limit of 10 MB per image (see [Image Size](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images#image-size) above).
+To ensure optimal performance, keep your projects manageable. Limit the number of subfolders and limit the number of images in your subfolders to 100, with a recommended maximum size of 10 MB per image (see [Image Size](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images#image-size) above). Keep in mind that metadata models can be exported and reused in projects.
 
