@@ -27,7 +27,8 @@ In IMMARKUS it is possible to upload one folder with several subfolders and appl
 
 **Figure 2.** Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
 
-Folders can have several levels of subfolders, as shown in **Figure 3**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier), where you can store additional information for each sub-theme using project metadata if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in the folder (**Figure 4**).
+Folders can have several levels of subfolders, as shown in **Figure 3**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
+
 ![SUBFOLDERS image 2](https://github.com/rsimon/immarkus/assets/128056738/a3a66ee2-5fc8-4c59-b429-f3772be8087e)
 
 **Figure 3.** Subfolder Organization in IMMARKUS
