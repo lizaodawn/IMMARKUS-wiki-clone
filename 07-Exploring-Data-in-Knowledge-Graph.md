@@ -90,3 +90,6 @@ You can continue to filter your results by adding more search conditions (**Figu
 ![KG10](https://github.com/rsimon/immarkus/assets/128056738/539ae6e3-aa05-4a1f-9fd2-198558f589a0)
  **Figure 10.** Graph Search Options
 
+
+You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
+
