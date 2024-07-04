@@ -126,6 +126,8 @@ Classes that have no children do not have a drop-down menu (blue square in **Fig
 
 # Importing an Entity Class Model
 
+If you want to reuse data models that you developed in other projects, you can import data models for **Entity Classes**, **[Image Metadata, and Folder Metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)**. You can also make use of preset  data models.
+
 To import an entity class data model, click **Import Model** (blue square in **Figure 8**).  
 
 ![import model image 1](https://github.com/rsimon/immarkus/assets/128056738/d50576cd-8da9-48f1-9874-1b3f7f7d47c1)
