@@ -2,7 +2,7 @@ The **Knowledge Graph** (**Figure 1**) organizes data from all sources (folders 
 
 # Default View 
 
-The default view shows all images (blue nodes) and entity classes (green nodes). To add sub-folders as nodes to the default view see [Show Sub-folders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-sub-folders-as-nodes). You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
+The default view shows all images (blue nodes) and entity classes (green nodes). To add sub-folders as nodes to the default view see [Show Subfolders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-subfolders-as-nodes). You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
 
 Use the scroll wheel on your mouse to **zoom** into the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. You can also **expand** the graph to full screen by clicking on the expand button at the bottom right (circled in blue on **Figure 1**).
 
@@ -43,7 +43,7 @@ Settings allow you to change the way the data is displayed. Clicking on the **Se
 
 ## Hide Labels 
 
-Hide labels hides text labels from the graph. You can view the labels by hovering over nodes (**Figure 6**). 
+**Hide labels** hides text labels from the graph. You can view the labels by hovering over nodes (**Figure 6**). 
 
 ![KG6](https://github.com/rsimon/immarkus/assets/128056738/0f8c30d4-8423-47d7-a709-66081d0d697d)
 
@@ -51,14 +51,14 @@ Hide labels hides text labels from the graph. You can view the labels by hoverin
 
 ## Show Subfolders as Nodes  
 
-Show subfolders as nodes allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 7**)
+**Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 7**)
  
 ![KG7](https://github.com/rsimon/immarkus/assets/128056738/76f9434f-cabf-4fda-983c-f72c80af0f45)
 **Figure 7.** Show Subfolders as Nodes  
 
 ## Hide Unconnected Nodes  
 
-Hide unconnected nodes hides unused entity classes and images without entity annotations (compare the graphs on **Figures 6** and **8**) and makes the graph less cluttered and focused on annotated content. 
+**Hide unconnected nodes** hides unused entity classes and images without entity annotations (compare the graphs on **Figures 6** and **8**) and makes the graph less cluttered and focused on annotated content. 
 
 ![KG8](https://github.com/rsimon/immarkus/assets/128056738/804cc4af-3b16-43a2-a861-db7f745e84ec)
 **Figure 8.** Hide Unconnected Nodes
