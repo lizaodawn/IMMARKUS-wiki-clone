@@ -1,16 +1,15 @@
-To add annotations to your images, click the subfolder containing the images you want to work with in the Image Gallery. This will open the images in the folder, and you can start annotating. 
+To add annotations to your images, click the subfolder containing the images you want to work with in the image gallery. This will open the images in the folder, and you can start annotating. 
 
 # Overview
 
 The following functionalities are available in the annotation mode (numbers correspond to those in **Figure 1**) 
 1.	[Add an image](https://github.com/rsimon/immarkus/wiki/02-Uploading-Images)
-2.	Browse the images in the same subfolder on top / click arrows to display the previous or next image 
+2.	Browse the images in the same subfolder / click arrows to display the previous or next image 
 3.	Rotate image 90° to the left or to the right 
 4.	Zoom in or zoom out of an image
 5.	Undo/redo 
 6.	Move (pan) across the image
 7.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations) (select rectangle, polygon, or ellipse)
-See details of the currently selected annotation
 8.	See details of the currently selected annotation 
 9. 	List your annotations
 10. Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
