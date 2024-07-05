@@ -88,7 +88,8 @@ You can continue to filter your results by adding more search conditions (**Figu
 
 5. Reset the search by pressing the **Clear All button**. 
 
-![KG10](https://github.com/rsimon/immarkus/assets/128056738/539ae6e3-aa05-4a1f-9fd2-198558f589a0)
+![Screenshot (195)](https://github.com/rsimon/immarkus/assets/128056738/70ad496b-e984-4b80-8bf4-5fe807494fcc)
+
  **Figure 10.** Graph Search Options
 
 
