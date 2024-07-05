@@ -80,7 +80,7 @@ You can continue to filter your results by adding more search conditions (**Figu
 
 1. Click **Add Condition** to add a condition to your search. 
 
-2. **Sub-Condition ⊕** is only available for filtering according to a property of an entity class.  
+2. **⊕ Sub-Condition** is only available for filtering according to a property of an entity class.  
 
 3. Click **Export Search Result** to export the results of your search to an .XLSX file. 
 
