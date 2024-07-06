@@ -41,6 +41,9 @@ To view and modify image metadata in the **Knowledge Graph** view, select an ima
 **Figure 5.** Viewing and Modifying Image Metadata in the Knowledge Graph 
 
 
+To deselect a node in order to explore other nodes, click any where outside the selection or close the right panel.
+
+
 # Settings 
 
 Settings allow you to change the way the data is displayed. Clicking on the **Settings** icon on the bottom right corner of the knowledge graph will take you to a menu with several options. You can combine selections from those options to adapt the graph to your needs.  
