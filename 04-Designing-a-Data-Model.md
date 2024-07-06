@@ -2,9 +2,9 @@ In IMMARKUS you can define a data model consisting of entity classes and propert
 
 **Entity classes** are used to annotate classes of concepts or things (e.g., a city wall, a bridge, a human figure, an animal, a plant); **properties** can be used to record specific details about entity classes (e.g., name, dimension, location, identifier). You can create and view entities and properties in both [Annotation Mode](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images) and **Data Model** Mode. 
 
-In the IMMARKUS **hierarchical data model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
+In an IMMARKUS hierarchical data model, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. We can also define properties that are particular to child classes.
 
-**Attention!** You cannot have two data models for the same project (or a sub-folder). To have a different data model, you must create a separate project. 
+**Attention!** You cannot have two data models for the same project (or a subfolder). To have a different data model, you must create a separate project. 
 
 # Creating Entities and Properties in the Data Model Mode
 
