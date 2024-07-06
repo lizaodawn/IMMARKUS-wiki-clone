@@ -14,7 +14,7 @@ Each property is exported as a column followed by the image snippet, the file na
 
 ## Exporting a Data Model
 
-In **Data Model**, you can select what to export: **Entity Classes**, **Image Metadata**, **Folder Metadata**, or the entire **IMMARKUS Data Model**. All the exports are downloaded as a JSON file.  
+In **Data Model** you can select what to export: **Entity Classes**, **Image Metadata**, **Folder Metadata**, or the entire **IMMARKUS Data Model**. All the exports are downloaded as a JSON file.  
 
 **Full IMMARKUS Data Model** is the same file you will find in your working folder as _immarkus.model.json.
 
