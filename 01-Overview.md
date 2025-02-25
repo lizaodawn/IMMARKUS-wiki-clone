@@ -4,7 +4,7 @@ Here are some of the highlights of what IMMARKUS offers.
 
 IMMARKUS provides a zoomable view to support annotating large images, and tools for creating __rectangle__, __polygon__ and __circle/ellipse__ selections. Similar to multi-image viewers like [Mirador](https://projectmirador.org/), IMMARKUS provides a multi-window environment for annotating multiple images side by side.
 
-<img width="1427" alt="Screenshot 2024-03-04 at 11 40 09" src="update-images/01_overview_fig1">
+<img width="1427" alt="Screenshot 2024-03-04 at 11 40 09" src="update-images/01_overview_fig1.png">
 
 **Figure 1.** Multi-Window Zoomable Image Annotation in IMMARKUS
 
