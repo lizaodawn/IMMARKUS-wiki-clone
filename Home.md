@@ -1,9 +1,9 @@
 IMMARKUS is a semantic image annotation tool that allows you to create custom ontologies, make selections on images, identify specific image regions using ontological concepts, and add relationships between elements in your images.  
 
-<img width="1427" alt="Screenshot 2024-03-04 at 11 05 03" src="https://github.com/rsimon/immarkus/assets/160752064/4df58cd2-91a7-4aa5-9981-e93362a9caf8">
+<img width="1427" alt="IMMARKUS interface screenshot" src="update-images/home_figure1.png">
 
 
-**Figure 1**. Annotating Images of the Datong Southern Pass with IMMARKUS
+**Figure 1**. Annotating City Walls of the Counties in Shanxi with IMMARKUS
 
 
 Setting up IMMARKUS is straightforward and hassle-free. Open IMMARKUS in your browser, select a folder on your computer, and begin annotating.
