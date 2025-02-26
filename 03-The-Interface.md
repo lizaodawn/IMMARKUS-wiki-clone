@@ -9,7 +9,10 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/02-Upl
 7. **Help** leads you back to this wiki page.
 
 
-![Fig 1](https://github.com/rsimon/immarkus/assets/128056738/c79be963-a37b-4d89-b3e9-b566f55021d2)
-
-
+![Fig 1](update-images/03_the-interface_fig1.png)
 **Figure 1.** The IMMARKUS Interface Showing the Image Gallery
+
+In the Image Gallery of your subfolder, you can click **Hide Unannotated** to display only the annotated images. Click the button again to **Show Unannotated** images.
+
+![Fig 2](update-images/03_the-interface_fig2.png)
+**Figure 2.** The Hide/Show Unannotated button in the Image Gallery
