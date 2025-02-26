@@ -38,21 +38,21 @@ To create entities and properties in the data model mode, enter the data model m
 
 8.	Select a data type by clicking the drop-down menu under **Data Type**. You can select as many properties as you need to create a schema for your entity class. The following seven data types are currently available:
 
-### Property Options
+    ### Property Options
 
-* **Text** - a basic text field
+    * **Text** - a basic text field
 
-* **Number** - a numeric field
+    * **Number** - a numeric field
 
-* **Options** - a list of values to choose from
+    * **Options** - a list of values to choose from
 
-* **URI** - a text field which validates whether the content is a URI, and which will be clickable in the interface
+    * **URI** - a text field which validates whether the content is a URI, and which will be clickable in the interface
 
-* **Geo-Coordinates** - a latitude/longitude coordinate pair
+    * **Geo-Coordinates** - a latitude/longitude coordinate pair
 
-* **Measurement** – a number combined with a measurement word
+    * **Measurement** – a number combined with a measurement word
 
-* **[External Authority](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as TGAZ, CBDB, and Wikipedia.
+    * **[External Authority](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as TGAZ, CBDB, and Wikipedia.
 
 
 9.	In this case the data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
@@ -122,27 +122,46 @@ Classes that have no children do not have a drop-down menu (blue square in **Fig
 
 # Creating Relationships between Entities in the Data Model Mode
 
+In **Data Model**, you can define connections between two annotations through a **Relationship**.
+
+1. Click **Relationships** on the upper menu bar. 
+
+2. Click **Add Relationship Type** to define a new relationship.
+
+    ![Fig 8](update-images/04_designing-a-data-model_fig8.png)
+    **Figure 8.** Creating Relationships in the Data Model Mode
+
+3. You can enter a name for the relationship and specify whether it is directional, where the source and target roles are distinct.
+
+    ![Fig 9](update-images/04_designing-a-data-model_fig9.png)
+    **Figure 9.** Defining the Relationship Name, Direction and Description
+
+4. You can restrict the relationship to specific source and target entity classes.
+
+    ![Fig 10](update-images/04_designing-a-data-model_fig10.png)
+    **Figure 10.** Restricting Entity Classes for the Source and Target in the Example Relationship "spans"
+
+
+
 # Importing an Entity Class Model
 
 If you want to reuse data models that you developed in other projects, you can import data models for **Entity Classes**, **[Image Metadata, and Folder Metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)**. You can also make use of preset  data models.
 
 To import an entity class data model, click **Import Model** (blue square in **Figure 8**).  
 
-![import model image 1](https://github.com/rsimon/immarkus/assets/128056738/d50576cd-8da9-48f1-9874-1b3f7f7d47c1)
-**Figure 8.** Importing an Entity Class Data Model 
+![import model image 1](update-images/04_designing-a-data-model_fig11.png)
+**Figure 11.** Importing an Entity Class Data Model 
 
 From the pop-up window you can import a model or replace the current model. Keep in mind that replacing an existing schema will remove all its entity classes (**Figure 9**).
 
 ![import model image 2](https://github.com/rsimon/immarkus/assets/128056738/1bad27ed-40a6-40f4-80b0-3805449499fe)
-
-**Figure 9.** Replacing the Current Data Model 
+**Figure 12.** Replacing the Current Data Model 
 
 You can decide how you want to handle duplicate classes (**Figure 10**). You can either keep the existing classes that you had in your model before importing the data model (**Keep Existing** button), or you can have the existing classes  replaced by the ones in the imported model (**Keep Imported** button).  
 
 
 ![import model image 3](https://github.com/rsimon/immarkus/assets/128056738/b811bb2b-a4e0-4310-8304-d5870b18f69e)
-
-**Figure 10.** Handling Duplicate Entity Classes 
+**Figure 13.** Handling Duplicate Entity Classes 
 
 The imported model can still be modified using [entity classes and properties](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#creating-entities-and-properties-in-the-data-model-mode) described above.
 
