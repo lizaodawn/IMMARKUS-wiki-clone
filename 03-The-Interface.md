@@ -15,4 +15,4 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/02-Upl
 In the Image Gallery of your subfolder, you can click **Hide Unannotated** to display only the annotated images. Click the button again to **Show Unannotated** images.
 
 ![Fig 2](update-images/03_the-interface_fig2.png)
-**Figure 2.** The Hide/Show Unannotated button in the Image Gallery
+**Figure 2.** Hiding an Image without Annotation in the Upper Part by Clicking **Hide Unannotated**; It Can Be Shown Again by Clicking **Show Unannotated** as Outlined in the Lower Part

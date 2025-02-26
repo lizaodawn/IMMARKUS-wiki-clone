@@ -112,7 +112,7 @@ You can add a note to a selected part of your image. This is useful if you want 
 Select a part of your image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 You will see the **Add Tag** and **Add Note** buttons in the panel on the right. 
 
-<img width="980" alt="Screenshot 2024-03-04 at 19 58 06" src="https://github.com/rsimon/immarkus/assets/160752064/06f05864-0886-4c2c-bbd5-d65bf5580b25">
+<img width="980" alt="Screenshot for add tag and add note buttons" src="update-images/05_annotating-images_fig8.png">
 
 **Figure 8.** Adding a Note to a Selected Image Part
 
@@ -120,9 +120,29 @@ Click **Add Note**. Be sure to click **Save** after writing your note.
 
 You can also add a note to any image selection that you have already annotated. Select the annotation, and then scroll down to the bottom and click the **Add Note** button (in bue on **Figure 9**). This is useful if you want to add a note unrelated to existing properties or want to add extra information for future reference.
 
-![309872162-d2f2c4f6-61cb-4fb4-a398-5714e0990f93](https://github.com/rsimon/immarkus/assets/128056738/b0821a54-86ac-4cab-952f-cdd2186593a7)
+![05-Fig 9](update-images/05_annotating-images_fig9.png)
 
 **Figure 9.** Adding a Note to a Selection of an Image with an Existing Tag
+
+# Adding Relations between Entities
+
+You can define connections between two annotations through a **Relationship** in the annotation mode.
+
+1. Select the source entity you want to establish relation upon.
+
+2. Click **Relation** in the upper menu bar.
+
+3. Select the target entity.
+
+4. Click **Create New Type" to define your relation. You can also choose from the relations you established.
+
+5. You can enter the relationship name, define if it is directed, and restrict source and target entity classes.
+
+6. You can have an overview of all relations you defined in the image you are working with in the **List** panel.
+
+7. You can click the source and target thumbnail in the **List** mode to locate to the entity you annotated.
+
+8. You can click the pencil icon to modify the relation to a pre-defined type, or delete it.
 	 
 # Annotating Multiple Images Simultaneously
 
