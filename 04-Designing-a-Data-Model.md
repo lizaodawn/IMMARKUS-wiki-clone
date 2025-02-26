@@ -12,9 +12,8 @@ To create entities and properties in the data model mode, enter the data model m
 
 1. On the upper menu bar you will see that you are editing entity classes. Click **Create New Entity Class**.
 
-![Screenshot (540)](https://github.com/rsimon/immarkus/assets/128056738/b062b31e-9e57-4e15-bfc6-ffead8aef613)
-
-**Figure 1**. Creating Entities in the Data Model Mode
+    ![Fig 1](update-images/04_designing-a-data-model_fig1.png)    
+    **Figure 1**. Creating Entities in the Data Model Mode
 
 2. Click **Entity Class** and name the entity class (e.g. "bridge”).
 
@@ -25,15 +24,15 @@ To create entities and properties in the data model mode, enter the data model m
 
 5.	Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 2**)
 
-<img width="952" alt="Screenshot 2024-03-02 at 23 47 22" src="https://github.com/rsimon/immarkus/assets/160752064/1f2811c5-73c9-48ce-9a51-9816c39fb390">
+    <img width="952" alt="Screenshot 2024-03-02 at 23 47 22" src="https://github.com/rsimon/immarkus/assets/160752064/1f2811c5-73c9-48ce-9a51-9816c39fb390">
 
-**Figure 2.** Creating Properties in the Data Model Mode
+    **Figure 2.** Creating Properties in the Data Model Mode
 
 6.	Click **Add Property**. This opens the property editor as shown in **Figure 3**.
 
-<img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
+    <img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
 
-**Figure 3.** Adding Properties in the Data Model Mode
+    **Figure 3.** Adding Properties in the Data Model Mode
 
 7.	Define the **Property Name**.
 
@@ -58,10 +57,10 @@ To create entities and properties in the data model mode, enter the data model m
 
 9.	In this case the data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
 
-<img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
+    <img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
 
 
-**Figure 4.** Selecting a Data Type in the Data Model Mode
+    **Figure 4.** Selecting a Data Type in the Data Model Mode
 
 
 10.	After you have added each property, click **Save Property**. 
@@ -88,10 +87,7 @@ You can create a child class in both annotation mode and data model mode.
 1. Select the **Parent Class** (in this case the Parent is obj_part) 
 
 ![Screenshot (495)](https://github.com/rsimon/immarkus/assets/128056738/68f14260-31e9-4a0b-99e0-93b6fe0a7586)
-
-
 **Figure 5.** Creating Parent-Child Relationships
-<br/><br/>
 
 ## Inherited Properties
 
@@ -124,6 +120,8 @@ Classes that have no children do not have a drop-down menu (blue square in **Fig
 
 **Figure 7.** Entity Classes in the Data Model
 
+# Creating Relationships between Entities in the Data Model Mode
+
 # Importing an Entity Class Model
 
 If you want to reuse data models that you developed in other projects, you can import data models for **Entity Classes**, **[Image Metadata, and Folder Metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)**. You can also make use of preset  data models.
@@ -148,5 +146,5 @@ You can decide how you want to handle duplicate classes (**Figure 10**). You can
 
 The imported model can still be modified using [entity classes and properties](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#creating-entities-and-properties-in-the-data-model-mode) described above.
 
-<br/><br/>
+
 
