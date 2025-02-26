@@ -147,20 +147,23 @@ In **Data Model**, you can define connections between two annotations through a 
 
 If you want to reuse data models that you developed in other projects, you can import data models for **Entity Classes**, **[Image Metadata, and Folder Metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata#importing-data-models-for-metadata)**. You can also make use of preset  data models.
 
-To import an entity class data model, click **Import Model** (blue square in **Figure 8**).  
+To import an entity class data model, click **Import Model** (blue square in **Figure 11**).  
 
 ![import model image 1](update-images/04_designing-a-data-model_fig11.png)
+
 **Figure 11.** Importing an Entity Class Data Model 
 
 From the pop-up window you can import a model or replace the current model. Keep in mind that replacing an existing schema will remove all its entity classes (**Figure 9**).
 
 ![import model image 2](https://github.com/rsimon/immarkus/assets/128056738/1bad27ed-40a6-40f4-80b0-3805449499fe)
+
 **Figure 12.** Replacing the Current Data Model 
 
 You can decide how you want to handle duplicate classes (**Figure 10**). You can either keep the existing classes that you had in your model before importing the data model (**Keep Existing** button), or you can have the existing classes  replaced by the ones in the imported model (**Keep Imported** button).  
 
 
 ![import model image 3](https://github.com/rsimon/immarkus/assets/128056738/b811bb2b-a4e0-4310-8304-d5870b18f69e)
+
 **Figure 13.** Handling Duplicate Entity Classes 
 
 The imported model can still be modified using [entity classes and properties](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model#creating-entities-and-properties-in-the-data-model-mode) described above.

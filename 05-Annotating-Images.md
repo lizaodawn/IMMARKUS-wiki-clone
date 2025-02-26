@@ -10,13 +10,12 @@ The following functionalities are available in the annotation mode (numbers corr
 5.	Undo/redo 
 6.	Move (pan) across the image
 7.	[Draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations) (select rectangle, polygon, or ellipse)
-8.	See details of the currently selected annotation 
-9. 	List your annotations
-10. Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
+8.  Add relation between two entities
+9.	See details of the currently selected annotation 
+10. List your annotations
+11. Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
 
-![Screenshot (182)](https://github.com/rsimon/immarkus/assets/128056738/39b883d6-7b45-4fa9-8a16-ae5b0ef90a3c)
-
-
+![05-fig1](update-images/05_annotating-images_fig1.png)
 **Figure 1.** Annotation Mode
 
 
@@ -26,9 +25,9 @@ Decide which part of the image you would like to tag and draw a shape.
 
 1. Click the draw button (#7 in **Figure 1**) and select one of the three options for drawing shapes (rectangle, polygon, or ellipse).
 2. Click once - without keeping the mouse button pressed - to start drawing.
-* When drawing a rectangle or ellipse, move the mouse and click again once to complete the shape.
-* When drawing a polygon, each further click adds another point. If you double click, or click once on the first point of the polygon, you will close the shape and complete the drawing.
-* If you need to move the image while you are drawing, click and keep the mouse button pressed to drag the image.
+    * When drawing a rectangle or ellipse, move the mouse and click again once to complete the shape.
+    * When drawing a polygon, each further click adds another point. If you double click, or click once on the first point of the polygon, you will close the shape and complete the drawing.
+    * If you need to move the image while you are drawing, click and keep the mouse button pressed to drag the image.
 3. When you have finished drawing, you will be asked to add a tag. Click **Add Tag** to [add entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#adding-entities-and-properties-to-image-selections).
 
 # Adding Entities and Properties to Image Selections
@@ -58,17 +57,17 @@ You can add or create entities and properties by following the steps below:
 
 8. Add/edit the properties. Click the drop down menu next to **No Properties** (circled in blue in **Figure 3**)
 
-<img width="987" alt="Screenshot 2024-03-04 at 18 45 39" src="https://github.com/rsimon/immarkus/assets/160752064/46bf3d50-b73e-41aa-84d9-73ea81a3c7e9">
+    <img width="987" alt="Screenshot 2024-03-04 at 18 45 39" src="https://github.com/rsimon/immarkus/assets/160752064/46bf3d50-b73e-41aa-84d9-73ea81a3c7e9">
 
-**Figure 3.** Creating Entities and Properties
+    **Figure 3.** Creating Entities and Properties
 
 
 
 9.	Click **Add Property**. This opens the property editor as shown in **Figure 4**.
 
-![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
+    ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
 
-**Figure 4.** Adding Properties
+    **Figure 4.** Adding Properties
 
 10.	Define the **Property Name**.
 
@@ -77,9 +76,9 @@ You can add or create entities and properties by following the steps below:
 
 12.	In this case, the data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
 
-<img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
+    <img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
 
-**Figure 5.** Selecting a Data Type
+    **Figure 5.** Selecting a Data Type
 
 
 13.	After you have added each property, click **Save Property**. 
@@ -92,9 +91,9 @@ Using the External Authority property type allows you to associate an entity cla
 
 1. In the property editor, type a name for your property ("place ID" in **Figure 6**) and select the External Authority field type.
 
-![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
+    ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
 
-**Figure 6.** Available Options for External Authorities
+    **Figure 6.** Available Options for External Authorities
 
 2. As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
 
@@ -102,9 +101,9 @@ Using the External Authority property type allows you to associate an entity cla
 
 4. To add an id paste the relevant information from the external authority in the corresponding field of the schema.
 
-<img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
+    <img width="723" alt="Screenshot 2024-03-03 at 00 09 36" src="https://github.com/rsimon/immarkus/assets/160752064/517a056d-fef7-42be-813d-7c56c9d0c458">
 
-**Figure 7.** TGAZ Result of "Guangchang County" 
+    **Figure 7.** TGAZ Result of "Guangchang County" 
 
 # Adding a Note
 
