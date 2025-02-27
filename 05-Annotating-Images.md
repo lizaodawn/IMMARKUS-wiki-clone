@@ -128,21 +128,17 @@ You can also add a note to any image selection that you have already annotated. 
 
 You can define connections between two annotations through a **Relationship** in the annotation mode.
 
-1. Select the source entity you want to establish relation upon.
+1. Select the source entity you want to establish a relation from.
 
 2. Click **Relation** in the upper menu bar.
 
 3. Select the target entity.
 
-4. Click **Create New Type" to define your relation. You can also choose from the relations you established.
+4. Click **Create New Type** to define a new relationship, or choose from existing ones.
 
-5. You can enter the relationship name, define if it is directed, and restrict source and target entity classes.
+5. Enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
 
-6. You can have an overview of all relations you defined in the image you are working with in the **List** panel.
-
-7. You can click the source and target thumbnail in the **List** mode to locate to the entity you annotated.
-
-8. You can click the pencil icon to modify the relation to a pre-defined type, or delete it.
+You can view all defined relationships in the **List** panel. Click the source or target thumbnail in **List** panel to locate the anntation in the image. You can click the pencil icon to modify the relation type or delete it.
 	 
 # Annotating Multiple Images Simultaneously
 
