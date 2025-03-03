@@ -182,6 +182,6 @@ You can annotate multiple images side by side.
 ![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
 
 
-**Figure 10.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
+**Figure 17.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
