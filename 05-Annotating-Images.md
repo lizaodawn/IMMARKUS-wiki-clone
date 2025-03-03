@@ -132,13 +132,44 @@ You can define connections between two annotations through a **Relationship** in
 
 2. Click **Relation** in the upper menu bar.
 
+    ![05-Fig 10](update-images/05_annotating-images_fig10.png)
+
+    **Figure 10.** Selecting the source annotation in a relation
+
 3. Select the target entity.
+    ![05-Fig 11](update-images/05_annotating-images_fig11.png)
 
-4. Click **Create New Type** to define a new relationship, or choose from existing ones.
+    **Figure 11.** Selecting the target annotation in a relation
 
-5. Enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
+4. Choose from existing relationships, or click **Create New Type** to define a new relationship.
+    ![05-Fig 12](update-images/05_annotating-images_fig12.png)
 
-You can view all defined relationships in the **List** panel. Click the source or target thumbnail in **List** panel to locate the anntation in the image. You can click the pencil icon to modify the relation type or delete it.
+    **Figure 12.** Defining the relationship type between the selected annotations
+
+5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
+
+    ![05-Fig 13](update-images/05_annotating-images_fig13.png)
+
+    **Figure 13.** Creating a new relationship type in **Annotation Mode**
+
+You can view all defined relationships in the **List** panel. You can filter the list view with conditions on **Entity Classes** or **Relationship Types**.
+
+![05-Fig 14](update-images/05_annotating-images_fig14.png)
+
+**Figure 14.** Navigating all annotations in the **List** panel
+
+You can click the source or target thumbnail in **List** panel to locate the anntation in the image. 
+
+![05-Fig 15](update-images/05_annotating-images_fig15.png)
+
+**Figure 15.** Locating the annotation area in the image for the sourse entity in the selected relationship "close_to"
+
+You can click the pencil icon to modify the relation type or delete it.
+
+![05-Fig 16](update-images/05_annotating-images_fig16.png)
+
+**Figure 16.** Modifying relation in **Annotation Mode**
+
 	 
 # Annotating Multiple Images Simultaneously
 
