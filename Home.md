@@ -24,7 +24,7 @@ Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević, Dawn Zhuang, Meret Mei
 
 **Instructions (wiki)**:
 
-Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević and Dawn Lizao Zhuang. Image Annotation in IMMARKUS Wiki. 2024. [github.com/rsimon/immarkus/wiki](https://github.com/rsimon/immarkus/wiki)
+Hilde De Weerdt, Rainer Simon, Lee Sunkyu, Iva Stojević and Dawn Zhuang. Image Annotation in IMMARKUS Wiki. 2024. [github.com/rsimon/immarkus/wiki](https://github.com/rsimon/immarkus/wiki)
 
 **Code**:
 

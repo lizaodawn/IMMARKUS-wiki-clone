@@ -30,6 +30,15 @@ Decide which part of the image you would like to tag and draw a shape.
     * If you need to move the image while you are drawing, click and keep the mouse button pressed to drag the image.
 3. When you have finished drawing, you will be asked to add a tag. Click **Add Tag** to [add entities and properties](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#adding-entities-and-properties-to-image-selections).
 
+## 🛠️ Smart Selection Tools
+
+Additionally, we are developing advanced **Smart Selection Tools**, which will be available soon. These include:
+
+* AI-Powered Selection Tool – Automatically selects objects with the option for manual refinement.
+* Donut Shape Selection – Allows deduction of part of the selection for donut-shaped objects.
+* Magnetic Outline – Enables precise drawing around the desired part of the image.
+
+
 # Adding Entities and Properties to Image Selections
 
 You can add or create entities and properties by following the steps below:
