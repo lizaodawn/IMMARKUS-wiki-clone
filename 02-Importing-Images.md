@@ -10,7 +10,6 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
  
     <img width="578" alt="Screenshot 2024-03-04 at 14 17 54" src="https://github.com/rsimon/immarkus/assets/160752064/aa280af6-768d-40bf-accc-2f0739b7a3e8">
 
-
     **Figure 1.** The IMMARKUS Main Page [immarkus.xmarkus.org](https://immarkus.xmarkus.org/)
 
     If you have already used IMMARKUS, the folder with which you last worked will be displayed next to **Open New Folder** (in **Figure 1** above, the folder "Ming illustrative map") 
@@ -18,19 +17,31 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
 
 ## Working with IIIF Sources
-IMMARKUS supports IIIF import, enabling you to work with collections compliant with the IIIF standard. This helps reduce the need for local storage. You can always export annotations and relationships, along with image snippets, to your computer. 
+IMMARKUS supports IIIF import, enabling you to work with collections compliant with the IIIF standard. This helps reduce the need for local storage. 
+
+IMMARKUS supports the IIIF (International Image Interoperability Framework) standard, enabling seamless work with IIIF-compliant collections. Integrating with IIIF resourses provides several key advantages:
+
+* **Reduced Local Storage Needs**: Access images and metadata remotely, reducing reliance on local storage, especially for large collections.
+* **Access to High-Quality, Scalable Images**: View high-resolution images at different zoom levels without downloading large files, ensuring optimal quality with minimal storage.
+* **Efficient Image Handling**: Manipulate images directly from the source, without the need to store full-resolution files locally.
+
+You can always export annotations and relationships, along with image snippets, to your local storage, keeping full control over your work.
+
+Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)
+
+Looking for more IIIF resources and tips? ➡️Explore [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
+
+Need quick help working with IIIF resources in IMMARKUS? ➡️Check out our [Helpsheet for IIIF in IMMARKUS](09-Helpsheet-for-IIIF.md).
 
 ### Import IIIF Manifest
 Paste the URL to a **IIIF Presentation Manifest** into the dialogue box.
 
-<img width="578" alt="Screenshot for IIIF manifest import" src="update-images/02_importing-images_fig2.png">
-
+![02-fig2](update-images/02_importing-images_fig2.png)
 **Figure 2.** Pasting IIIF Manifest URL to Import
 
 The imported IIIF folders or canvases will have a IIIF icon displayed on their thumbnails (outlined in blue in **Figure 3**). 
 
-<img width="578" alt="Screenshot IIIF icons" src="update-images/02_importing-images_fig3.png">
-
+![02-fig3](update-images/02_importing-images_fig3.png)
 **Figure 3.** IIIF icons shown on the thumbnails of imported folders and canvases
 
 You can then work with IIIF canvas just like local images. 
@@ -48,11 +59,11 @@ In IMMARKUS it is possible to upload one folder with several subfolders and appl
 Folders can have several levels of subfolders, as shown in **Figure 5**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of the subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
 
 ![SUBFOLDERS image 2](update-images/02_importing-images_fig5.png)
-
 **Figure 5.** Subfolder Organization in IMMARKUS
    
-![SUBFOLDERS image 3](update-images/02_importing-images_fig6.png)
+</br>
 
+![SUBFOLDERS image 3](update-images/02_importing-images_fig6.png)
 **Figure 6.** Subfolder Metadata
 
 ## Image and Folder Size
