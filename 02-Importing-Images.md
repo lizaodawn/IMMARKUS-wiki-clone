@@ -17,15 +17,14 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
 4. You will see a popup window asking "Let site edit files?" Click **Edit files** to allow IMMARKUS to edit the files in the selected folder. 
 
 ## Working with IIIF Sources
-IMMARKUS supports IIIF import, enabling you to work with collections compliant with the IIIF standard. This helps reduce the need for local storage. 
 
-IMMARKUS supports the IIIF (International Image Interoperability Framework) standard, enabling seamless work with IIIF-compliant collections. Integrating with IIIF resourses provides several key advantages:
+IMMARKUS supports imports from [IIIF (International Image Interoperability Framework)](https://iiif.io/get-started/how-iiif-works/) Presentation Manifests, allowing you to bring images (whether organized in a folder structure or as individual canvases) and their associated metadata from IIIF-compliant collections directly into your workspace. Integrating with IIIF resourses provides several key advantages:
 
-* **Reduced Local Storage Needs**: Access images and metadata remotely, reducing reliance on local storage, especially for large collections.
-* **Access to High-Quality, Scalable Images**: View high-resolution images at different zoom levels without downloading large files, ensuring optimal quality with minimal storage.
-* **Efficient Image Handling**: Manipulate images directly from the source, without the need to store full-resolution files locally.
+* **Efficient Image Access and Handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
 
-You can always export annotations and relationships, along with image snippets, to your local storage, keeping full control over your work.
+* **Integration with Multiple Sources**: IIIF enables users to easily integrate image and metadata sources from different institutions as they all follow a shared, interoperable standard.
+
+You can always export annotations, relationships, and image snippets, to your local storage, keeping full control over your work.
 
 Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)
 
