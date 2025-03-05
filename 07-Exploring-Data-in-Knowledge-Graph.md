@@ -43,40 +43,56 @@ To deselect a node in order to explore other nodes, click any where outside the 
 
 Settings allow you to change the way the data is displayed. Clicking on the **Settings** icon on the bottom right corner of the knowledge graph will take you to a menu with several options. You can combine selections from those options to adapt the graph to your needs.  
 
+## Choose Graph Type
+
+You can choose to visualize your data in **Hierarchy & Annotations** mode, which shows the data model structure and entity annotations, or in **Relationships** mode, which shows the relationship annotations you created between entity classes. 
+
+![KG6](update-images/07_exploring-data-in-knowledge-graph_fig6.png)
+**Figure 6.** Choosing **Hierarchy & Annotations** Mode for the Knowledge Graph
+
+
 ## Hide Labels 
 
-**Hide labels** hides text labels from the graph. You can view the labels by hovering over nodes (**Figure 6**). 
+**Hide labels** hides text labels from the graph. You can further choose to only hide **Image** labels or **Entity Class** lables. You can view the labels by hovering over nodes (**Figure 7**). 
 
-![KG6](https://github.com/rsimon/immarkus/assets/128056738/0f8c30d4-8423-47d7-a709-66081d0d697d)
-
-**Figure 6.** Hide Labels in Knowledge Graph with the Label Excavation Made Visible by Hovering over the Node 
+![KG7](update-images/07_exploring-data-in-knowledge-graph_fig7.png)
+**Figure 7.** Hiding Image Labels in Knowledge Graph with the Label *光緒_代州志_36.jpg* Made Visible by Hovering over the Node 
 
 ## Show Subfolders as Nodes  
 
-**Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 7**)
+**Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 8**)
  
-![KG7](https://github.com/rsimon/immarkus/assets/128056738/76f9434f-cabf-4fda-983c-f72c80af0f45)
-**Figure 7.** Show Subfolders as Nodes  
+![KG8](update-images/07_exploring-data-in-knowledge-graph_fig8.png)
+**Figure 8.** Showing Subfolders as Nodes  
+
+By clicking a subfolder node, you can view the total number of images in the folder and access its metadata. To navigate to the subfolder, click the **Open** button (outlined in blue). When you return to the Knowledge Graph page, the browser memory will retain the selected node. 
+ 
+![KG9](update-images/07_exploring-data-in-knowledge-graph_fig9.png)
+**Figure 9.** Selecting a Subfolder Node to View Its Metadata 
 
 ## Hide Unconnected Nodes  
 
-**Hide unconnected nodes** hides unused entity classes and images without entity annotations (compare the graphs on **Figures 6** and **8**) and makes the graph less cluttered and focused on annotated content. 
+**Hide unconnected nodes** hides unused entity classes and images without entity annotations and makes the graph less cluttered and focused on annotated content. 
 
-![KG8](https://github.com/rsimon/immarkus/assets/128056738/804cc4af-3b16-43a2-a861-db7f745e84ec)
-**Figure 8.** Hide Unconnected Nodes
+![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
+**Figure 10.** Hide Unconnected Nodes
 
 ## Knowledge Graph Search 
 
 In **Graph Search** you can search and filter images in the current project according to metadata and/or properties; you can also export the results of your search.  
 
-Start searching by clicking the magnifying glass icon (circled in blue on **Figure 9**) and selecting either the “search images by (folder and image) metadata” (**_where_**) option or the “search by entity class” (**_annotated with_**) option. 
+Start searching by clicking the magnifying glass icon (circled in blue on **Figure 11**). In both **Hierarchy & Annotations** and **Relationships** modes, you can either search subfolders by metadata, or search images by (image or subfolder) metadata, entity classes, or notes. 
 
-![KG9](https://github.com/rsimon/immarkus/assets/128056738/91a97468-4f86-4fcc-a2e9-b161fb0b031d)
-**Figure 9.** Graph Search
+In **Relationships mode**, you can search entity classes or images by the relationships that were added in annotation. 
+ 
 
-You can continue to filter your results by adding more search conditions (**Figure 10**): 
+![KG11](update-images/07_exploring-data-in-knowledge-graph_fig11.png)
+**Figure 11.** Searching Images with *bridge* Entities in Graph Search
 
-1. Click **Add Condition** to add a condition to your search. 
+
+You can continue to filter your results by adding more search conditions (**Figure 12**): 
+
+1. Click **Add Condition** to add an and/or condition to your search. 
 
 2. **⊕ Sub-Condition** is only available for filtering according to a property of an entity class.  
 
@@ -86,9 +102,9 @@ You can continue to filter your results by adding more search conditions (**Figu
 
 5. Reset the search by pressing the **Clear All button**. 
 
-![Screenshot (195)](https://github.com/rsimon/immarkus/assets/128056738/bb7d1c92-c530-48d7-8939-281d3f5603b6)
+![KG12](update-images/07_exploring-data-in-knowledge-graph_fig12.png)
 
- **Figure 10.** Graph Search Options
+ **Figure 12.** Graph Search Options
 
 
 You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
