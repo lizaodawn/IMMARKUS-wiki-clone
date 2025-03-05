@@ -39,5 +39,5 @@ The following links will not work:
 Metadata may be incomplete depending on the institution. You have the flexibility to create and edit your own metadata schema and save them as IMMARKUS exports.
 
 ## Contact Us
-1. GitHub - Submit an issue ticket directly on the [IMMARKUS developer page](https://github.com/rsimon/immarkus/issues).
+1. GitHub - Submit an issue directly on the [IMMARKUS developer page](https://github.com/rsimon/immarkus/issues).
 2. RegInfra and InfraLives projects - Contact us at infrastructurelives@kuleuven.be. We are enthusiastic about collaborating and finding solutions together.
