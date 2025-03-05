@@ -8,9 +8,21 @@ Click and download **Annotations**.
 Each property is exported as a column followed by the image snippet, the file name, the annotation ID and the time when the annotation was created.
 
 
-![Screenshot (547)](https://github.com/rsimon/immarkus/assets/128056738/6eb1008a-7876-4bac-93e7-2ac2b806c48c)
-
+![08-fig1](update-images/08_exporting-data_fig1.png)
 **Figure 1.** Exporting Annotations
+
+## Exporting Relationships
+
+Click and download **Relationships**. 
+
+1. **Relationship Data**: export all relationships created between entity classes as a flat list in the [W3C Web Annotation](https://www.w3.org/TR/annotation-model/) JSON-LD format. 
+
+2. **Relationships and Images**: export all relationships created between entity classes on all images in your current work folder as a single XLSX file. Each relationship is exported as a column, followed by the start- (source) annotation snippet, its file and folder name, and entity class, as well as the end (target) annotation snippet, its file and folder name, and entity class.   
+
+**Full IMMARKUS Data Model** is the same file you will find in your working folder as _immarkus.model.json.
+
+![08-fig3](update-images/08_exporting-data_fig3.png)
+**Figure 3.** Exporting a Data Model
 
 ## Exporting a Data Model
 
@@ -18,15 +30,18 @@ In **Data Model** you can select what to export: **Entity Classes**, **Image Met
 
 **Full IMMARKUS Data Model** is the same file you will find in your working folder as _immarkus.model.json.
 
-![NEW FIGURE 34](https://github.com/rsimon/immarkus/assets/128056738/f85d8a3d-b647-412b-b8b1-dae08d2218d8)
-
-**Figure 2.** Exporting a Data Model
+![08-fig3](update-images/08_exporting-data_fig3.png)
+**Figure 3.** Exporting a Data Model
 
 
 ## Exporting Metadata
 
 Click **Metadata** and select either **Image** or **Folder Metadata**. The metadata will be downloaded as a flat list in a CSV spreadsheet. 
 
-![Screenshot (549)](https://github.com/rsimon/immarkus/assets/128056738/a17fe67b-6ce9-4062-a749-ca8fab3c4407)
+![08-fig4](update-images/08_exporting-data_fig4.png)
+**Figure 4.** Exporting Metadata
 
-**Figure 3.** Exporting Metadata
+A **Type** column (outlined in **Figure 5**) will be generated in the Metadata export to specify whether the folder or image originates locally or from an IIIF import.
+
+![08-fig5](update-images/08_exporting-data_fig5.png)
+**Figure 5.** **Type** Column Indicating Folder and Image Sources in Exported Metadata Files
