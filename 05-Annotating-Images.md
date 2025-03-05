@@ -47,12 +47,9 @@ You can add or create entities and properties by following the steps below:
 
 2. If you have already created a data model, the existing entities will appear along with any other entities you created before as shown in **Figure 2**. You can reuse these entities and their properties to annotate the image selection. You can also search through your entities to locate the one needed if you have created many.
 
-
-<img width="583" alt="Screenshot 2024-03-04 at 18 42 22" src="https://github.com/rsimon/immarkus/assets/160752064/7631a25d-2913-4ff4-9c33-972056b20d5c">
-
-
-
-**Figure 2.** Adding or Creating Entities in Annotation Mode
+    <img width="583" alt="Screenshot 2024-03-04 at 18 42 22" src="https://github.com/rsimon/immarkus/assets/160752064/7631a25d-2913-4ff4-9c33-972056b20d5c">
+    
+    **Figure 2.** Adding or Creating Entities in Annotation Mode
 
 3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the data model.
 
@@ -75,7 +72,6 @@ You can add or create entities and properties by following the steps below:
 9.	Click **Add Property**. This opens the property editor as shown in **Figure 4**.
 
     ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
-
     **Figure 4.** Adding Properties
 
 10.	Define the **Property Name**.
@@ -101,7 +97,6 @@ Using the External Authority property type allows you to associate an entity cla
 1. In the property editor, type a name for your property ("place ID" in **Figure 6**) and select the External Authority field type.
 
     ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
-
     **Figure 6.** Available Options for External Authorities
 
 2. As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
@@ -130,7 +125,6 @@ Click **Add Note**. Be sure to click **Save** after writing your note.
 You can also add a note to any image selection that you have already annotated. Select the annotation, and then scroll down to the bottom and click the **Add Note** button (in bue on **Figure 9**). This is useful if you want to add a note unrelated to existing properties or want to add extra information for future reference.
 
 ![05-Fig 9](update-images/05_annotating-images_fig9.png)
-
 **Figure 9.** Adding a Note to a Selection of an Image with an Existing Tag
 
 # Adding Relations between Entities
@@ -158,25 +152,21 @@ You can define connections between two annotations through a **Relationship** in
 5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
 
     ![05-Fig 13](update-images/05_annotating-images_fig13.png)
-
     **Figure 13.** Creating a new relationship type in **Annotation Mode**
 
 You can view all defined relationships in the **List** panel. You can filter the list view with conditions on **Entity Classes** or **Relationship Types**.
 
 ![05-Fig 14](update-images/05_annotating-images_fig14.png)
-
 **Figure 14.** Navigating all annotations in the **List** panel
 
 You can click the source or target thumbnail in **List** panel to locate the anntation in the image. 
 
 ![05-Fig 15](update-images/05_annotating-images_fig15.png)
-
 **Figure 15.** Locating the annotation area in the image for the sourse entity in the selected relationship "close_to"
 
 You can click the pencil icon to modify the relation type or delete it.
 
 ![05-Fig 16](update-images/05_annotating-images_fig16.png)
-
 **Figure 16.** Modifying relation in **Annotation Mode**
 
 	 
@@ -189,8 +179,6 @@ You can annotate multiple images side by side.
 2. You can drag and drop windows to move them around and change their layout.
 
 ![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
-
-
 **Figure 17.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
