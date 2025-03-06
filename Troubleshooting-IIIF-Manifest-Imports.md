@@ -10,7 +10,7 @@ __What you can do:__
 
 - __Test in other viewers:__ Try opening the manifest in alternative viewers like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, the issue is with the source server, not IMMARKUS.
 
-- __Contact the collection administrators:__ The collection may be inadvertently block external access. Some collections may not be aware they need to explicitly enable a server setting called CORS (Cross-Origin Resource Sharing) to allow access. When contacting them, reference [this IIIF implementation guide](https://iiif.io/guides/guide_for_implementers/#other-considerations) for technical details.
+- __Contact the collection administrators:__ The collection may have inadvertently blocked external access. Some collections may not be aware they need to explicitly enable a server setting called CORS (Cross-Origin Resource Sharing) to allow access. When contacting them, reference [this IIIF implementation guide](https://iiif.io/guides/guide_for_implementers/#other-considerations) for technical details.
 
 ### 2. Error: "The provided input is not a valid URL"
 
