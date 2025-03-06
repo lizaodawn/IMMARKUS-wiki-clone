@@ -90,7 +90,7 @@ The pop-up is identical to the one in **Image Metadata** (**Figures 8** and **9*
 
 # Recording Metadata
 
-After defining your metadata schemas, you can enter metadata for folders and images in the image gallery. You can also enter image metadata in the annotation mode (but not folder metadata).
+After defining your metadata schemas, you can enter metadata for folders and images in the image gallery and knowledge graph. You can also enter image metadata in the annotation mode (but not folder metadata).
 
 ## Recording Folder Metadata in the Image Gallery 
 
