@@ -30,7 +30,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 6.	Click **Add Property**. This opens the property editor as shown in **Figure 3**.
 
-    <img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">
+    [<img width="962" alt="Screenshot 2024-03-02 at 23 52 50" src="https://github.com/rsimon/immarkus/assets/160752064/3483cc2c-0fa3-4b5f-857b-323d0c6a9706">]
 
     **Figure 3.** Adding Properties in the Data Model Mode
 
@@ -58,7 +58,6 @@ To create entities and properties in the data model mode, enter the data model m
 9.	In this case the data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
 
     <img width="953" alt="Screenshot 2024-03-02 at 23 57 34" src="https://github.com/rsimon/immarkus/assets/160752064/fdbe477b-3e09-479d-b048-57bd38f72c1d">
-
 
     **Figure 4.** Selecting a Data Type in the Data Model Mode
 
@@ -93,10 +92,10 @@ You can create a child class in both annotation mode and data model mode.
 
 In **Figure 5 and 6**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 6**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (circled in blue) as shown on the right panel in **Figure 6**.
+In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 6**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (outlined in blue) as shown on the right panel in **Figure 6**.
 
 
-![Screenshot (496)](https://github.com/rsimon/immarkus/assets/128056738/fa26f2c4-4600-4f84-9fa7-017c3bf454ff)
+![04-fig6](update-images/04_designing-a-data-model_fig6.png)
 **Figure 6.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
 <br/><br/>
 
