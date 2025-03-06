@@ -2,7 +2,7 @@ After [uploading an image folder](https://github.com/rsimon/immarkus/wiki/02-Upl
 
 1.	**Images** is where all the subfolders are stored. Clicking on an image opens the [annotation mode](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images).
 2.	**Data Model** is where you can create or edit a [data model](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model) for annotating images. You can also define a schema for [metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata).
-3.	**Knowledge Graph** allows you to [view and search](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph) your source images and annotations, to explore connections between them, and to navigate to the desired content. 
+3.	**Knowledge Graph** allows you to [view and search](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph) your source images and annotations, to explore connections between them, to navigate to the desired content, and to export search results. 
 4.	**Export** is where you can [export data](https://github.com/rsimon/immarkus/wiki/07-Exporting-Data) in different formats. 
 5.	**X-MARKUS** currently provides links to other modules in the X-MARKUS platform.
 6. **About** is where you can find information on funding for the project and how to cite us.
