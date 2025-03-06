@@ -1,6 +1,6 @@
 IMMARKUS uses a novel browser feature which is currently unavailable on Firefox, Safari and mobile devices. Please use **Chrome** or **Edge** on the desktop to access IMMARKUS.
 
-1. To start working with IMMARKUS, create or locate a folder with JPEG or PNG files on your computer. If you are working exclusively with IIIF sources, select an empty folder.
+1. To start working with IMMARKUS, create or locate a folder with JPEG or PNG files on your computer. If you are working exclusively with IIIF sources, select or create an empty folder.
 
     **NOTE:** IMMARKUS stores data directly on your computer. We recommend that you work with copies of your work folder, and make regular backups of your files in another folder to avoid the loss of data.
 
@@ -18,13 +18,13 @@ IMMARKUS uses a novel browser feature which is currently unavailable on Firefox,
 
 ## Working with IIIF Sources
 
-IMMARKUS supports imports from [IIIF (International Image Interoperability Framework)](https://iiif.io/get-started/how-iiif-works/) Presentation Manifests, allowing you to bring images (whether organized in a folder structure or as individual canvases) and their associated metadata from IIIF-compliant collections directly into your workspace. Integrating with IIIF resourses provides several key advantages:
+IMMARKUS supports imports from [IIIF (International Image Interoperability Framework)](https://iiif.io/get-started/how-iiif-works/) Presentation Manifests, allowing you to bring images (whether organized in a folder structure or as individual canvases) and their associated metadata from IIIF-compliant collections directly into your workspace. Working with IIIF resources provides several key advantages:
 
-* **Efficient Image Access and Handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
+* **efficient image access and handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
 
-* **Integration of Multiple Collections**: IIIF enables users to easily integrate image and metadata sources from different collections as they all follow a shared, interoperable standard.
+* **the integration of sources from multiple collections**: IIIF enables users to easily integrate image and metadata sources from different collections as they all adopt a shared, interoperable standard.
 
-You can always export annotations, relationships, and image snippets, to your local storage, keeping full control over your work.
+You can add and save annotations, relationships, and other content added to imported IIIF canvases to your local storage, keeping full control over your work. 
 
 **Want to learn more about IIIF?**  
 ➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)  
@@ -33,20 +33,20 @@ You can always export annotations, relationships, and image snippets, to your lo
 ➡️Explore [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
 
 **Need quick help working with IIIF resources in IMMARKUS?**  
-➡️Check out our [Helpsheet for IIIF in IMMARKUS](09-Helpsheet-for-IIIF.md).
+➡️Check out [Troubleshooting](09-Troubleshooting.md).
 
-### Import IIIF Manifest
+### Importing IIIF Manifest
 Paste the URL to a **IIIF Presentation Manifest** into the dialogue box.
 
-![02-fig2](update-images/02_importing-images_fig2.png)  
+![02-fig2](update-images/02_importing-images_fig2.jpg)  
 **Figure 2.** Pasting IIIF Manifest URL to Import
 
 The imported IIIF folders or canvases will have a IIIF icon displayed on their thumbnails (outlined in blue in **Figure 3**). 
 
 ![02-fig3](update-images/02_importing-images_fig3.png)
-**Figure 3.** IIIF icons shown on the thumbnails of imported folders and canvases
+**Figure 3.** IIIF Icons Shown on the Thumbnails of Imported Folders and Canvases
 
-You can then work with IIIF canvas just like local images. 
+You can work with IIIF canvases in the same way as with local images.
 
 ## Image Size
 Limit your image size to 10 MB to ensure IMMARKUS can open them. If you are working with images above 10 MB, we recommend converting them to lower quality images for your work in IMMARKUS. 
