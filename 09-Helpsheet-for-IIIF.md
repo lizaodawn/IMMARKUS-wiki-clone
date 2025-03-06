@@ -23,9 +23,11 @@ Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-start
 ### Manuals and Guides
 * Blogpost by IMMARKUS Developer [Rainer Simon](https://rainersimon.io/): [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
 
+### Use Cases Demo
+
 ## Troubleshooting (Updating)
 
-**1. Fatal fetch**
+**1. Fatal Fetch**
 
 The following links will not work:
 - viewer pages – e.g. pages that embed Mirador or Universal Viewer.
