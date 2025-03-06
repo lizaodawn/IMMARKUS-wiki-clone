@@ -2,7 +2,7 @@ This guide covers common issues you may encounter when importing IIIF manifests 
 
 ### 1. Error: "Failed to fetch. Server may restrict access."
 
-This error indicates that the collection hosting the manifest blocks external access. You can view the IIIF images in the collection's own website, but importing the manifest into external tools like IMMARKUS is restriced.
+This error indicates that the collection hosting the manifest blocks external access. You can view the IIIF images in the collection's own website, but importing the manifest into external tools like IMMARKUS is restricted.
 
 __What you can do:__
 
