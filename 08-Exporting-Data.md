@@ -1,11 +1,11 @@
-You can export your data model, annotations, and metadata. Click on the **Export** page in the [IMMARKUS Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface) and select the data you wish to export.
+You can export your data models, annotations, and metadata. Click on the **Export** page in the [IMMARKUS Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface) and select the data you wish to export.
 
 ## Exporting Annotations
 
 Click and download **Annotations**.  
  1. **Annotation Data**: export all annotations as a flat list in the [W3C Web Annotation](https://www.w3.org/TR/annotation-model/) JSON-LD format (JSON for Linked Data, a specification for encoding contextualized meaning into JSON documents).
  2. **Annotations and Images**: generates one XLSX file with multiple worksheets. Each worksheet is for each top-level (parent) entity class. 
-Each property is exported as a column followed by the image snippet, the file name, the annotation ID and the time when the annotation was created.
+Each property is exported as a column followed by the image snippet, the file name, the annotation ID, and the time when the annotation was created.
 
 
 ![08-fig1](update-images/08_exporting-data_fig1.png)
@@ -24,7 +24,7 @@ Click and download **Relationships**.
 
 ## Exporting a Data Model
 
-In **Data Model** you can select what to export: **Entity Classes**, **Image Metadata**, **Folder Metadata**, or the entire **IMMARKUS Data Model**. All the exports are downloaded as a JSON file.  
+In **Data Model** you can select what to export: **Entity Classes**, **Relationship Types**, **Image Metadata**, **Folder Metadata**, or the entire **IMMARKUS Data Model**. All the exports are downloaded as a JSON file.  
 
 **Full IMMARKUS Data Model** is the same file you will find in your working folder as _immarkus.model.json.
 
