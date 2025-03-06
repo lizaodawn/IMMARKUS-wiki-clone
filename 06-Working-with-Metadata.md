@@ -42,8 +42,7 @@ A metadata schema for individual images can be added in the same way as metadata
 
 2. Define **Property Name** and select **Data Type**. Click **Save Property**. 
 
-   <img width="819" alt="Screenshot 2024-03-03 at 01 25 49" src="https://github.com/rsimon/immarkus/assets/160752064/af4a0c0d-1b18-4645-80a3-2c8693ba4af5">
-
+   ![06-fig6](update-images/06_working-with-Metadata_fig6.png)
     **Figure 6.** Setting a Data Type in a Metadata Schema for Individual Images
 
 # Importing Data Models for Metadata
