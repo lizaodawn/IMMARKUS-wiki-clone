@@ -22,21 +22,23 @@ IMMARKUS supports imports from [IIIF (International Image Interoperability Frame
 
 * **Efficient Image Access and Handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
 
-* **Integration of Multiple Collections**: IIIF enables users to easily integrate image and metadata collections from different institutions as they all follow a shared, interoperable standard.
+* **Integration of Multiple Collections**: IIIF enables users to easily integrate image and metadata sources from different collections as they all follow a shared, interoperable standard.
 
 You can always export annotations, relationships, and image snippets, to your local storage, keeping full control over your work.
 
-Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)
+**Want to learn more about IIIF?**  
+➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)  
 
-Looking for more IIIF resources and tips? ➡️Explore [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
+**Looking for more IIIF resources and tips?**  
+➡️Explore [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
 
-Need quick help working with IIIF resources in IMMARKUS? ➡️Check out our [Helpsheet for IIIF in IMMARKUS](09-Helpsheet-for-IIIF.md).
+**Need quick help working with IIIF resources in IMMARKUS?**  
+➡️Check out our [Helpsheet for IIIF in IMMARKUS](09-Helpsheet-for-IIIF.md).
 
 ### Import IIIF Manifest
 Paste the URL to a **IIIF Presentation Manifest** into the dialogue box.
 
-<img width="578" alt="Screenshot for importing IIIF resource" src="update-images/02_importing-images_fig2.png">
-
+![02-fig2](update-images/02_importing-images_fig2.png)  
 **Figure 2.** Pasting IIIF Manifest URL to Import
 
 The imported IIIF folders or canvases will have a IIIF icon displayed on their thumbnails (outlined in blue in **Figure 3**). 

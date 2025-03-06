@@ -19,7 +19,7 @@ Click and download **Relationships**.
 
 2. **Relationships and Images**: export all relationships created between entity classes on all images in your current work folder as a single XLSX file. Each relationship is exported as a column, followed by the start- (source) annotation snippet, its file and folder name, and entity class, as well as the end (target) annotation snippet, its file and folder name, and entity class.   
 
-![08-fig2](update-images/08_exporting-data_fig3.png)
+![08-fig2](update-images/08_exporting-data_fig2.png)
 **Figure 2.** Exporting Relationships Created between Entity Classes
 
 ## Exporting a Data Model

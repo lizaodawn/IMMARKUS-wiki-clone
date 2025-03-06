@@ -15,7 +15,7 @@ The following functionalities are available in the annotation mode (numbers corr
 10. List your annotations
 11. Add or edit [individual image metadata](https://github.com/rsimon/immarkus/wiki/06-Working-with-Metadata)
 
-![05-fig1](update-images/05_annotating-images_fig1.png)
+![05-fig1](update-images/05_annotating-images_fig1.png)  
 **Figure 1.** Annotation Mode
 
 
@@ -71,7 +71,7 @@ You can add or create entities and properties by following the steps below:
 
 9.	Click **Add Property**. This opens the property editor as shown in **Figure 4**.
 
-    ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)
+    ![Screenshot (489)](https://github.com/rsimon/immarkus/assets/128056738/915a5228-ae1e-4067-8c40-787f4c81e797)  
     **Figure 4.** Adding Properties
 
 10.	Define the **Property Name**.
@@ -82,7 +82,7 @@ You can add or create entities and properties by following the steps below:
 12.	In this case, the data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
 
     <img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
-    
+
     **Figure 5.** Selecting a Data Type
 
 
@@ -96,7 +96,7 @@ Using the External Authority property type allows you to associate an entity cla
 
 1. In the property editor, type a name for your property ("place ID" in **Figure 6**) and select the External Authority field type.
 
-    ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)
+    ![Screenshot (491)](https://github.com/rsimon/immarkus/assets/128056738/8b581e78-bb41-42d5-9664-ebae050103b4)  
     **Figure 6.** Available Options for External Authorities
 
 2. As you fill in properties for the annotated entity, the external authority popup displays a search field and the authority service result page below it.  
@@ -116,68 +116,65 @@ You can add a note to a selected part of your image. This is useful if you want 
 Select a part of your image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 You will see the **Add Tag** and **Add Note** buttons in the panel on the right. 
 
-<img width="980" alt="Screenshot for add tag and add note buttons" src="update-images/05_annotating-images_fig8.png">
-
+![05-Fig 8](update-images/05_annotating-images_fig8.png)  
 **Figure 8.** Adding a Note to a Selected Image Part
 
 Click **Add Note**. Be sure to click **Save** after writing your note.
 
 You can also add a note to any image selection that you have already annotated. Select the annotation, and then scroll down to the bottom and click the **Add Note** button (in bue on **Figure 9**). This is useful if you want to add a note unrelated to existing properties or want to add extra information for future reference.
 
-![05-Fig 9](update-images/05_annotating-images_fig9.png)
+![05-Fig 9](update-images/05_annotating-images_fig9.png)  
 **Figure 9.** Adding a Note to a Selection of an Image with an Existing Tag
 
 # Adding Relations between Entities
 
 You can define connections between two annotations through a **Relationship** in the annotation mode.
 
-1. Select the source entity you want to establish a relation from.
+1. Select the source entity you want to establish a relationship from.
 
 2. Click **Relation** in the upper menu bar.
 
-    ![05-Fig 10](update-images/05_annotating-images_fig10.png)
-
-    **Figure 10.** Selecting the source annotation in a relation
+    ![05-Fig 10](update-images/05_annotating-images_fig10.png)  
+    **Figure 10.** Selecting the Source Annotation in a Relationship
 
 3. Select the target entity.
-    ![05-Fig 11](update-images/05_annotating-images_fig11.png)
-
-    **Figure 11.** Selecting the target annotation in a relation
+    ![05-Fig 11](update-images/05_annotating-images_fig11.png)  
+    **Figure 11.** Selecting the Target Annotation in a Relationship
 
 4. Choose from existing relationships, or click **Create New Type** to define a new relationship.
     ![05-Fig 12](update-images/05_annotating-images_fig12.png)  
-    **Figure 12.** Defining the relationship type between the selected annotations
+    **Figure 12.** Defining the Relationship Type between the Selected Annotations
 
 5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
 
-    ![05-Fig 13](update-images/05_annotating-images_fig13.png)
-    **Figure 13.** Creating a new relationship type in **Annotation Mode**
+    ![05-Fig 13](update-images/05_annotating-images_fig13.png)  
+    **Figure 13.** Creating a New Relationship Type in **Annotation Mode**
 
 You can view all defined relationships in the **List** panel. You can filter the list view with conditions on **Entity Classes** or **Relationship Types**.
 
-![05-Fig 14](update-images/05_annotating-images_fig14.png)
-**Figure 14.** Navigating all annotations in the **List** panel
+![05-Fig 14](update-images/05_annotating-images_fig14.png)  
+**Figure 14.** Navigating All Annotations in the **List** Panel
 
 You can click the source or target thumbnail in **List** panel to locate the anntation in the image. 
 
-![05-Fig 15](update-images/05_annotating-images_fig15.png)
-**Figure 15.** Locating the annotation area in the image for the sourse entity in the selected relationship "close_to"
+![05-Fig 15](update-images/05_annotating-images_fig15.png)  
+**Figure 15.** Locating the Annotation in the Image for the Sourse Entity in the Selected Relationship "close_to"
 
-You can click the pencil icon to modify the relation type or delete it.
+You can click the pencil icon to modify the relationship type or delete it.
 
-![05-Fig 16](update-images/05_annotating-images_fig16.png)
-**Figure 16.** Modifying relation in **Annotation Mode**
+![05-Fig 16](update-images/05_annotating-images_fig16.png)  
+**Figure 16.** Modifying Relation in **Annotation Mode**
 
 	 
 # Annotating Multiple Images Simultaneously
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (red square in **Figure 10**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **Figure 17**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
-![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)
+![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)  
 **Figure 17.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 

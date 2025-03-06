@@ -8,7 +8,7 @@ Key advantages working with IIIF:
 
 * **Efficient Image Access and Handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
 
-* **Integration with Multiple Sources**: IIIF enables users to easily integrate image and metadata sources from different institutions as they all follow a shared, interoperable standard.
+* **Integration of Multiple Collections**: IIIF enables users to easily integrate image and metadata sources from different collections as they all follow a shared, interoperable standard.
 
 Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%20set%20of%20open%20standards%20for,backed%20by%20a%20consortium%20of%20leading%20cultural%20institutions)
 

@@ -29,7 +29,7 @@ To see all annotations of a specific entity class click on an entity class node 
 If you want to see all entity classes and relationships annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **expand icon** (circled in **Figure 4**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph page, the browser memory will retain the selected node. 
 
 ![KG4](update-images/07_exploring-data-in-knowledge-graph_fig4.png)
-Figure 4. Clicking on an Individual Image Node in the Knowledge Graph to Select it  
+**Figure 4.** Clicking on an Individual Image Node in the Knowledge Graph to Select it  
 
 To view and modify image metadata in the **Knowledge Graph** view, select an image node and click on the **Metadata** button (outlined in blue).  From here you can also select a predefined schema and fill out image metadata (**Figure 5**). 
 
@@ -75,7 +75,7 @@ By clicking a subfolder node, you can view the total number of images in the fol
 **Hide unconnected nodes** hides unused entity classes and images without entity annotations and makes the graph less cluttered and focused on annotated content. 
 
 ![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
-**Figure 10.** Hide Unconnected Nodes
+**Figure 10.** Hiding Unconnected Nodes
 
 ## Knowledge Graph Search 
 
@@ -103,7 +103,6 @@ You can continue to filter your results by adding more search conditions (**Figu
 5. Reset the search by pressing the **Clear All button**. 
 
 ![KG12](update-images/07_exploring-data-in-knowledge-graph_fig12.png)
-
  **Figure 12.** Graph Search Options
 
 

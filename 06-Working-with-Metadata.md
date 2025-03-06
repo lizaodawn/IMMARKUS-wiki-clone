@@ -120,7 +120,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 3. For IIIF imports, the resource may be structured as a manifest per canvas. Embedded metadata is automatically retrieved and can be viewed in the right panel (Figure 17).
    ![06_Fig-17](update-images/06_working-with-Metadata_fig17.png)
-   **Figure 17**. Viewing the Embedded Manifest Metadata of an IIIF Import
+   **Figure 17**. Viewing the Embedded Manifest Metadata of an Imported IIIF Image
    
    You can also edit and save metadata using your own schema (Figure 18).  
    ![06_Fig-18](update-images/06_working-with-Metadata_fig18.png)
@@ -128,7 +128,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ## Recording Metadata in Annotation Mode
 
-You can also enter metadata for individual images in the annotation mode. Click the individual image to enter the annotation mode and select the metadata tab in the right panel (red square in **Figure 15**). Select the schema for your metadata and fill in the properties you defined under **metadata** in the **Data Model** view. 
+You can also enter metadata for individual images in the annotation mode. Click the individual image to enter the annotation mode and select the metadata tab in the right panel (blue square in **Figure 19**). Select the schema for your metadata and fill in the properties you defined under **metadata** in the **Data Model** view. 
 
 For IIIF imports, as with the [Folder Metadata](#Recording-Folder-Metadata-in-the-Image-Gallery) and [Individual Image Metadata](#Recording-Individual-Image-Metadata-in-the-Image-Gallery), you can view the embedded metadata or edit it using your own schema.
 
