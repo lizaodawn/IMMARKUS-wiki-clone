@@ -2,9 +2,9 @@ The **Knowledge Graph** (**Figure 1**) organizes data from all sources (folders 
 
 # Default View 
 
-The default view shows all images (blue nodes) and entity classes (green nodes). To add subfolders as nodes to the default view see [Show Subfolders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-subfolders-as-nodes). You can also make changes to the default view using the buttons at the top right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
+The default view shows all images (blue nodes) and entity classes (green nodes). To add subfolders as nodes to the default view see [Show Subfolders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-subfolders-as-nodes). You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
 
-Use the scroll wheel on your mouse to **zoom** into the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. You can also **expand** the graph to full screen by clicking on the expand button at the bottom right (circled in blue on **Figure 1**).
+Use the scroll wheel on your mouse to **zoom** into the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. You can also **expand** the graph to full screen by clicking on the expand button at the top right (circled in blue on **Figure 1**).
 
 ![KG1](update-images/07_exploring-data-in-knowledge-graph_fig1.png)
 **Figure 1.** Knowledge Graph 
