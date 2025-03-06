@@ -120,7 +120,7 @@ Classes that have no children do not have a drop-down menu (blue square in **Fig
 
 # Creating Relationships between Entities in the Data Model Mode
 
-In **Data Model**, you can define connections between two annotations through a **Relationship**.
+In **Data Model**, you can define connections between two entity classes through a **Relationship**.
 
 1. Click **Relationships** on the upper menu bar. 
 
