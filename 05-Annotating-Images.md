@@ -53,7 +53,7 @@ You can add or create entities and properties by following the steps below:
 
 3.	If you have not yet defined a data model or if you would like to add a new parent or child entity class to annotate the image selection, click **Create New Entity Class** and name the entity class (e.g. "gate_tower”). You can select the color of each entity on the right panel. Follow the steps below to complete the creation of a new entity class. This new class will be automatically added to the data model.
 
-* The workflow for creating entitities and properties is identical to the one in [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
+* The workflow for creating entities and properties is identical to the one in [Data Model Mode](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model). 
 
 4.	You can define a different **Display Name**. (e.g. "gate tower").
 5.	You can choose to add your new entity class as a child class of one of your existing entities. In the **Parent Class** field, type the name of the entity class that you want to make the parent of your new entity class (e.g. "obj_part").
@@ -126,7 +126,7 @@ You can also add a note to any image selection that you have already annotated. 
 ![05-Fig 9](update-images/05_annotating-images_fig9.png)  
 **Figure 9.** Adding a Note to a Selection of an Image with an Existing Tag
 
-# Adding Relations between Entities
+# Adding Relationships between Entities
 
 You can define connections between two annotations through a **Relationship** in the annotation mode.
 

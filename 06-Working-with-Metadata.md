@@ -78,7 +78,7 @@ When importing an image metadata model, you can choose to import from preset ima
 To import a folder metadata model, click the **Import Model** button under **Folder Metadata** (in blue on **Figure 11**).
 
 
-![folder import 1](https://github.com/rsimon/immarkus/assets/128056738/c0d40f73-2771-4390-b376-45e07ba6fce2)
+![06-fig11](update-images/06_working-with-Metadata_fig11.png)
 **Figure 11.** Importing a Model for Folder Metadata
 
 The pop-up is identical to the one in **Image Metadata** (**Figures 8** and **9**) and you can select from the same options. The preset options include ‘artwork’, ‘historical printed text’, ‘journal article’, and ‘modern monograph’  (**Figure 12**).
@@ -101,7 +101,7 @@ After defining your metadata schemas, you can enter metadata for folders and ima
     ![Screenshot (191)](https://github.com/rsimon/immarkus/assets/128056738/4042f4ab-917c-468d-bb93-a9b71fff9840)
     **Figure 13**. Recording Folder Metadata in the Image Gallery
 
-3. For IIIF imports, the embedded metadata will be retrieved automatically. You can view the folder manifest metadata in the right panel (Figure 14).
+3. For IIIF imports, the embedded metadata will be retrieved automatically. You can view the folder manifest metadata in the right panel (**Figure 14**).
    
    ![06_Fig-14](update-images/06_working-with-Metadata_fig14.png)
    **Figure 14**. Viewing the Embedded Manifest Metadata of an Imported IIIF Folder
@@ -118,11 +118,11 @@ After defining your metadata schemas, you can enter metadata for folders and ima
     ![Screenshot (190)](https://github.com/rsimon/immarkus/assets/128056738/9cae6645-d1de-4903-9417-c8014532eca0)
     **Figure 16.** Recording Image Metadata in the Image Gallery   
 
-3. For IIIF imports, the resource may be structured as a manifest per canvas. Embedded metadata is automatically retrieved and can be viewed in the right panel (Figure 17).
+3. For IIIF imports, the resource may be structured as a manifest per canvas. Embedded metadata is automatically retrieved and can be viewed in the right panel (**Figure 17**).
    ![06_Fig-17](update-images/06_working-with-Metadata_fig17.png)
    **Figure 17**. Viewing the Embedded Manifest Metadata of an Imported IIIF Image
    
-   You can also edit and save metadata using your own schema (Figure 18).  
+   You can also edit and save metadata using your own schema (**Figure 18**).  
    ![06_Fig-18](update-images/06_working-with-Metadata_fig18.png)
    **Figure 18**. Editing the Image Metadata of an IIIF Import with a Preset Schema
 
