@@ -1,4 +1,4 @@
-## IIIF support in IMMARKUS
+## IIIF Support in IMMARKUS
 
 IMMARKUS supports imports from IIIF Presentation Manifests, allowing you to bring images (whether organized in a folder structure or as individual canvases) and their associated metadata from IIIF-compliant collections directly into your workspace.
 
@@ -24,6 +24,7 @@ Want to learn more about IIIF? ➡️Visit [Why IIIF?](https://iiif.io/get-start
 * Blogpost by IMMARKUS Developer [Rainer Simon](https://rainersimon.io/): [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
 
 ### Use Cases Demo
+* 
 
 ## Troubleshooting (Updating)
 

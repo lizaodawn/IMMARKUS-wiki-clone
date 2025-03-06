@@ -10,13 +10,13 @@ Setting up IMMARKUS is straightforward and hassle-free. Open IMMARKUS in your br
 
 IMMARKUS operates fully locally without transmitting data to a server. All images, data models, and annotations are stored on your computer, ensuring complete privacy and control over your work.  
 
-# **Funding support**
+# **Funding Support**
 
 IMMARKUS: Image Annotation has been developed by Prof. Dr. Hilde De Weerdt, Dr. Rainer Simon, Dr. Lee Sunkyu, Dr. Iva Stojević, Dawn Zhuang, Meret Meister, and Xi Wangzhi as part of the Regionalizing Infrastructures in Chinese History ([RegInfra](https://www.infrastructurelives.eu/)) project. 
 
 This research is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 101019509).
 
-# **How to cite us**
+# **How to Cite Us**
 
 **Platform**:
 
