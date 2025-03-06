@@ -42,7 +42,7 @@ A metadata schema for individual images can be added in the same way as metadata
 
 2. Define **Property Name** and select **Data Type**. Click **Save Property**. 
 
-   ![06-fig6](update-images/06_working-with-Metadata_fig6.PNG)
+   ![06-fig6](update-images/06_working-with-Metadata_fig6.PNG)  
     **Figure 6.** Setting a Data Type in a Metadata Schema for Individual Images
 
 # Importing Data Models for Metadata
