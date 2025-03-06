@@ -145,7 +145,7 @@ You can define connections between two annotations through a **Relationship** in
     ![05-Fig 12](update-images/05_annotating-images_fig12.png)  
     **Figure 12.** Defining the Relationship Type between the Selected Annotations
 
-5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.
+5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and/or target entity classes if desired.
 
     ![05-Fig 13](update-images/05_annotating-images_fig13.png)  
     **Figure 13.** Creating a New Relationship Type in **Annotation Mode**
@@ -155,10 +155,10 @@ You can view all defined relationships in the **List** panel. You can filter the
 ![05-Fig 14](update-images/05_annotating-images_fig14.png)  
 **Figure 14.** Navigating All Annotations in the **List** Panel
 
-You can click the source or target thumbnail in **List** panel to locate the anntation in the image. 
+You can click the source or target thumbnail in **List** panel to locate the annotation in the image. 
 
 ![05-Fig 15](update-images/05_annotating-images_fig15.png)  
-**Figure 15.** Locating the Annotation in the Image for the Sourse Entity in the Selected Relationship "close_to"
+**Figure 15.** Locating the Annotation in the Image for the Source Entity in the Selected Relationship "close_to"
 
 You can click the pencil icon to modify the relationship type or delete it.
 
