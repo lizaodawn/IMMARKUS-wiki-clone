@@ -7,7 +7,7 @@ This error indicates that the collection hosting the manifest blocks external ac
 __What you can do:__
 
 - __Confirm that the link is to an actual manifest:__ One common cause for this error is when you accidentally paste a web page URL instead of a IIIF manifest URL. Make sure the URL actually points to a valid IIIF Presentation manifest and not, for example, to the web page that displays the zoomable image on the collection website.
-- __Check the manifest in other viewers:__ You can try opening the manifest in another viewer like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, it confirms that the issue is with the server hosting the manifest, not with IMMARKUS.
+- __Check the manifest in other viewers:__ Try opening the manifest in another viewer like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, it confirms that the issue is with the server hosting the manifest, not with IMMARKUS.
 - __Contact the collection:__ Consider reaching out to the collection maintainers and ask them whether they can adjust their settings to allow external access. In our experience, access is often blocked by accident. The relevant setting is a standard on Web servers and blocks by default. Many institutions are not aware that they have to explicitly enable the setting. When contacting them, you can mention CORS (Cross-Origin Resource Sharing) as the possible error cause and point them to [this information page](https://iiif.io/guides/guide_for_implementers/#other-considerations)
 
 ### 2. Error: The provided input is not a valid URL
@@ -21,7 +21,19 @@ __What you can do:__
   - Incorrect: `example.com/manifest.json` (missing `https://`)
 - __Try opening the URL in your browser:__ Paste the URL into your browser address bar. If it doesn’t open correctly, there might be an issue with the link itself.
 
-### 3. Error: Server responded: HTTP XXX
+### 3. Manifest Imports Correctly But Images Are Not Loading
+
+In some cases, IMMARKUS might import the manifest correctly, but the images in the image overview appear broken and the annotation view does not load. __Note that some image servers are slow. For some collections, it may take a while for images to load.
+
+__What you can do:__
+
+- __Check the manifest in other viewers:__ Try opening the manifest in another viewer like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, it confirms that the issue is with the server hosting the manifest, not with IMMARKUS.
+
+- __Try a different network:__ Blocked images may be symptom of a firewall issues in place at the collection. If possible, try using a different internet connection, such as through your mobile phone's data network. This can help determine if your network is currently blocked by the collection server, e.g. because of over-eager bot protection measures. 
+
+- __Contact the collection:__ If it appear you are being blocked, consider contacting the collection. Make sure to give them the exact manifest URL you are trying to fetch. In order to unblock your network, IT staff will need to know your computer's IP address, which you can find out via services like [whatismyipaddress.com](https://whatismyipaddress.com/).
+
+### 4. Error: Server responded: HTTP XXX
 
 If you see this error, it means that the collection server could not successfully return a manifest for this URL. The number in the error message (like 404, 500, or 403) identifies the problem more specifically. Some common codes include:
 
