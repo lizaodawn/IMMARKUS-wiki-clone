@@ -1,4 +1,4 @@
-This guide covers common issues you may encounter when importing IIIF manifests into IMMARKUS. If you see one of the following errors, these steps may help your resolve or diagnose the problem.
+This guide covers common issues you may encounter when importing IIIF manifests into IMMARKUS. If you see one of the following errors, these steps may help you resolve or diagnose the problem.
 
 ### 1. Error: "Failed to fetch. Server may restrict access."
 
