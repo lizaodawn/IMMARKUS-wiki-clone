@@ -22,7 +22,7 @@ IMMARKUS supports imports from [IIIF (International Image Interoperability Frame
 
 * **Efficient Image Access and Handling**: Access high-resolution images and metadata remotely, reducing reliance on local storage. You can view scalable images at various zoom levels without downloading large files and manipulate them directly from the source.
 
-* **Integration with Multiple Sources**: IIIF enables users to easily integrate image and metadata sources from different institutions as they all follow a shared, interoperable standard.
+* **Integration of Multiple Collections**: IIIF enables users to easily integrate image and metadata collections from different institutions as they all follow a shared, interoperable standard.
 
 You can always export annotations, relationships, and image snippets, to your local storage, keeping full control over your work.
 

@@ -82,7 +82,7 @@ You can add or create entities and properties by following the steps below:
 12.	In this case, the data type of "number of floors" is **Number**. You can also add a description of the property in **Property Description**.
 
     <img width="996" alt="Screenshot 2024-03-04 at 18 57 19" src="https://github.com/rsimon/immarkus/assets/160752064/ab407e36-688d-4636-afa3-1362a034bdc6">
-
+    
     **Figure 5.** Selecting a Data Type
 
 
@@ -145,8 +145,7 @@ You can define connections between two annotations through a **Relationship** in
     **Figure 11.** Selecting the target annotation in a relation
 
 4. Choose from existing relationships, or click **Create New Type** to define a new relationship.
-    ![05-Fig 12](update-images/05_annotating-images_fig12.png)
-
+    ![05-Fig 12](update-images/05_annotating-images_fig12.png)  
     **Figure 12.** Defining the relationship type between the selected annotations
 
 5. To create a new relationship type, enter the relationship name, specify if it is directed, and set restrictions for source and target entity classes.

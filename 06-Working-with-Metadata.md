@@ -57,11 +57,11 @@ To import an image metadata model click **Import Model** under **Image Metadata*
 
 From the pop-up window you can upload an image metadata model (**Figure 8**) or replace the current schema. You can also indicate how duplicates should be handled (**Figure 9**).
 
-![import image metadata 2](https://github.com/rsimon/immarkus/assets/128056738/b73c9d81-0bc9-4f48-a28c-5a098253d15f)
+![import image metadata 2](https://github.com/rsimon/immarkus/assets/128056738/b73c9d81-0bc9-4f48-a28c-5a098253d15f)  
 **Figure 8.** Importing a Metadata Model  
 
 
-![import image metadata 3](https://github.com/rsimon/immarkus/assets/128056738/6456252f-9b7d-40a9-8d29-f27c4e608eb4)
+![import image metadata 3](https://github.com/rsimon/immarkus/assets/128056738/6456252f-9b7d-40a9-8d29-f27c4e608eb4)  
 **Figure 9.** Handling Duplicate Classes during Import
 
 
@@ -69,7 +69,7 @@ From the pop-up window you can upload an image metadata model (**Figure 8**) or 
 When importing an image metadata model, you can choose to import from preset image metadata models (in blue on **Figure 10**) which include schemas for ‘archaeological image’, ‘artwork’, and ‘historical printed illustration’ or you can click **Upload Datamodel File** to upload your own data model.
 
 
-![image import preset](https://github.com/rsimon/immarkus/assets/128056738/a3418aea-cf71-4180-9602-132aa9b87f38)
+![image import preset](https://github.com/rsimon/immarkus/assets/128056738/a3418aea-cf71-4180-9602-132aa9b87f38)  
 **Figure 10.** Importing Predefined Image  Metadata Models
 
 
@@ -84,8 +84,7 @@ To import a folder metadata model, click the **Import Model** button under **Fol
 The pop-up is identical to the one in **Image Metadata** (**Figures 8** and **9**) and you can select from the same options. The preset options include ‘artwork’, ‘historical printed text’, ‘journal article’, and ‘modern monograph’  (**Figure 12**).
 
 
-
-![folder import 2](https://github.com/rsimon/immarkus/assets/128056738/1b5364b2-b7c6-4584-b4bc-656da1bcc72e)
+![folder import 2](https://github.com/rsimon/immarkus/assets/128056738/1b5364b2-b7c6-4584-b4bc-656da1bcc72e)  
 **Figure 12.** Importing a Preset Folder Metadata Model
 
 
@@ -107,7 +106,8 @@ After defining your metadata schemas, you can enter metadata for folders and ima
    ![06_Fig-14](update-images/06_working-with-Metadata_fig14.png)
    **Figure 14**. Viewing the Embedded Manifest Metadata of an Imported IIIF Folder
    
-   You can also edit and save metadata using your own schema (Figure 15).  
+   You can also edit and save metadata using your own schema (**Figure 15**).  
+
    ![06_Fig-15](update-images/06_working-with-Metadata_fig15.png)
    **Figure 15**. Editing the Folder Metadata of an IIIF Import with a Preset Schema
 
