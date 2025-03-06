@@ -120,7 +120,7 @@ You can add a note to a selected part of your image. This is useful if you want 
 Select a part of your image and [draw a shape](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#drawing-annotations). 
 You will see the **Add Tag** and **Add Note** buttons in the panel on the right. 
 
-![05-Fig 9](update-images/05_annotating-images_fig8.png)  
+![05-Fig 9](update-images/05_annotating-images_fig9.png)  
 **Figure 9.** Adding a Note to a Selected Image Part
 
 Click **Add Note**. Be sure to click **Save** after writing your note.
