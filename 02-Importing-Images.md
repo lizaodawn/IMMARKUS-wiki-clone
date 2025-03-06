@@ -36,6 +36,7 @@ Need quick help working with IIIF resources in IMMARKUS? ➡️Check out our [He
 Paste the URL to a **IIIF Presentation Manifest** into the dialogue box.
 
 <img width="578" alt="Screenshot for importing IIIF resource" src="update-images/02_importing-images_fig2.png">
+
 **Figure 2.** Pasting IIIF Manifest URL to Import
 
 The imported IIIF folders or canvases will have a IIIF icon displayed on their thumbnails (outlined in blue in **Figure 3**). 
