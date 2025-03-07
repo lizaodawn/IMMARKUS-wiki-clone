@@ -6,11 +6,19 @@ This error indicates that the collection hosting the manifest blocks external ac
 
 __What you can do:__
 
-- __Verify the manifest link:__ Ensure you are using an actual manifest URL, not a web page URL. A common mistake is pasting the URL of a page displaying the zoomable image rather than the manifest itself.
+- __Verify the manifest link:__ Ensure you are using an actual manifest URL, not a web page URL. A common mistake is pasting the URL of a page displaying the zoomable image rather than the manifest itself. In some collections, the manifest URL can be a bit hard to find. You may have to scroll down, or open an additional dropdown to get to it–see some example screenshots below.
 
 - __Test in other viewers:__ Try opening the manifest in alternative viewers like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, the issue is with the source server, not IMMARKUS.
 
 - __Contact the collection administrators:__ The collection may have inadvertently blocked external access. Some collections may not be aware they need to explicitly enable a server setting called CORS (Cross-Origin Resource Sharing) to allow access. When contacting them, reference [this IIIF implementation guide](https://iiif.io/guides/guide_for_implementers/#other-considerations) for technical details.
+
+__Examples:__ Make sure you import the IIIF manifest URL (green), not the web page URL (red).
+
+![example-yale](https://github.com/user-attachments/assets/8ec48019-b42e-49c7-a0f1-dce45d374646)
+
+![example-oxford](https://github.com/user-attachments/assets/c8b3d359-cf41-4be2-ac45-ffd97999a23c)
+
+![example-loc](https://github.com/user-attachments/assets/5ff2a429-585b-4947-bbf8-07c7d37af3ed)
 
 ### 2. Error: "The provided input is not a valid URL"
 
