@@ -2,15 +2,15 @@ This guide covers common issues you may encounter when importing IIIF manifests 
 
 ### 1. Error: "Failed to fetch. Server may restrict access."
 
-This error indicates that the collection hosting the manifest blocks external access. You can view the IIIF images in the collection's own website, but importing the manifest into external tools like IMMARKUS is restricted.
+This error indicates that the collection that hosts the manifest may possibly block external access. You can view the IIIF images in the collection's own website, but importing the manifest into external tools like IMMARKUS is restricted.
 
 __What you can do:__
 
-- __Verify the manifest link:__ Ensure you are using an actual manifest URL, not a web page URL. A common mistake is pasting the URL of a page displaying the zoomable image rather than the manifest itself. In some collections, the manifest URL can be a bit hard to find. You may have to scroll down, or open an additional dropdown to get to it–see some example screenshots below.
+- __Verify the manifest link:__ Ensure you are using the correct manifest URL. A common mistake is pasting the URL of a page displaying the zoomable image rather than the manifest, which may also lead to this error. Note that in some collections, the manifest URL can be a bit hard to find. You may have to scroll down or open an additional dropdown to get to it. We have collected some examples below.
 
 - __Test in other viewers:__ Try opening the manifest in alternative viewers like [Universal Viewer](https://universalviewer.io/) or [Theseus Viewer](https://theseusviewer.org/). If the manifest doesn’t load there either, the issue is with the source server, not IMMARKUS.
 
-- __Contact the collection administrators:__ The collection may have inadvertently blocked external access. Some collections may not be aware they need to explicitly enable a server setting called CORS (Cross-Origin Resource Sharing) to allow access. When contacting them, reference [this IIIF implementation guide](https://iiif.io/guides/guide_for_implementers/#other-considerations) for technical details.
+- __Contact the collection administrators:__ The collection may have inadvertently blocked external access. Some collection maintainers may not be aware that they need to explicitly enable a server setting called CORS (Cross-Origin Resource Sharing) to allow access. When contacting them, reference [this IIIF implementation guide](https://iiif.io/guides/guide_for_implementers/#other-considerations) for technical details.
 
 __Examples:__ Make sure you import the IIIF manifest URL (green), not the web page URL (red).
 
@@ -22,18 +22,18 @@ __Examples:__ Make sure you import the IIIF manifest URL (green), not the web pa
 
 ### 2. Error: "The provided input is not a valid URL"
 
-This error appears when the URL is incorrectly formatted. Note that IMMARKUS requires secure HTTPS URls–standard browser security prevents importing content from non-secure HTTP sites.
+This error appears when the URL is incorrectly formatted. Note that IMMARKUS requires secure HTTPS URLs–standard browser security will otherwise prevent importing content from non-secure HTTP sites.
 
 __What you can do:__
 
 - __Check URL format:__ Ensure the URL starts with `https://`. For example:
   - Correct: `https://example.com/manifest.json`
-  - Incorrect: `example.com/manifest.json` or `http://example.com/manifest.json`)
+  - Incorrect: `example.com/manifest.json` or `http://example.com/manifest.json`
 - __Try opening the URL in browser:__ Paste the URL into your browser address bar. If it doesn’t load correctly, the link itself might be broken.
 
 ### 3. Manifest Imports Correctly But Images Are Not Loading
 
-Sometimes IMMARKUS imports the manifest successfully, but images appear broken in the overview, and the annotation view fails to load. Note that some image servers respond slowly, and images from certain collections may take longer to display.
+Sometimes IMMARKUS imports the manifest successfully, but images appear broken in the overview, and the annotation view fails to load. (Note that some image servers respond slowly, and images from certain collections may take longer to display!)
 
 __What you can do:__
 
