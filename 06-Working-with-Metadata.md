@@ -125,6 +125,10 @@ After defining your metadata schemas, you can enter metadata for folders and ima
    ![06_Fig-18](update-images/06_working-with-Metadata_fig18.png)
    **Figure 18**. Editing the Image Metadata of an IIIF Import with a Preset Schema
 
+## Recording Metadata in the Knowledge Graph
+
+
+
 ## Recording Metadata in Annotation Mode
 
 You can also enter metadata for individual images in the annotation mode. Click the individual image to enter the annotation mode and select the metadata tab in the right panel (blue square in **Figure 19**). Select the schema for your metadata and fill in the properties you defined under **metadata** in the **Data Model** view. 
@@ -133,5 +137,3 @@ For IIIF imports, as with the [Folder Metadata](#Recording-Folder-Metadata-in-th
 
 ![06_Fig-19](update-images/06_working-with-Metadata_fig19.png)
 **Figure 19.** Recording Image Metadata in the Annotation Mode
-
-## Recording Metadata in Knowledge Graph
