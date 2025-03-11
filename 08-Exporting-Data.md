@@ -43,3 +43,5 @@ A **Type** column (outlined in **Figure 5**) will be generated in the Metadata e
 
 ![08-fig5](update-images/08_exporting-data_fig5.png)
 **Figure 5.** **Type** Column Indicating Folder and Image Sources in Exported Metadata Files
+
+Currently, the IIIF embedded metadata is only available for viewing within IMMARKUS interfaces and is not included in the export file. 

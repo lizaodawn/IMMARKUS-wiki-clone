@@ -33,7 +33,8 @@ You can add and save annotations, relationships, and other content added to impo
 ➡️Explore [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
 
 **Need quick help working with IIIF resources in IMMARKUS?**  
-➡️Check out [Troubleshooting](09-Troubleshooting.md).
+➡️Check out [Troubleshooting IIIF Manifest Imports](Troubleshooting-IIIF-Manifest-Imports.md).
+
 
 ### Importing IIIF Manifest
 Paste the URL to a **IIIF Presentation Manifest** into the dialogue box.
@@ -58,7 +59,7 @@ In IMMARKUS it is possible to upload one folder with several subfolders and appl
 
 **Figure 4.** Creating Multiple Folders by Topic (Left) and Subfolders for Each Source (Center)
 
-Folders can have several levels of subfolders, as shown in **Figure 5**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of the subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
+Folders can have several levels of subfolders, as shown in **Figure 4**, the top folder is named after the theme of the main project (i.e. cartographic ethnography) and contains the data model .JSON file (_immarkus.model.json) that applies to all image files in this folder. The subfolders at the next level are named after sub-themes (i.e. maritime frontier, northern frontier, and southwestern frontier). You can store different metadata information at each level of the subfolder structure if needed. At the next level subfolders are divided by the source title (i.e. sanzhen tushuo_painted_atlas_juan 2) and contain images intended for annotation. At this level you could, for example, store the bibliographic information for the source, which could be applied to all the images in this subfolder (**Figure 4**).
 
 ![SUBFOLDERS image 2](update-images/02_importing-images_fig5.png)
 **Figure 5.** Subfolder Organization in IMMARKUS

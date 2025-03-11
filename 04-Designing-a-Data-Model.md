@@ -66,9 +66,6 @@ To create entities and properties in the data model mode, enter the data model m
 
 11.	When you have finished adding properties, click **Save Entity Class**.
 
-
-
-
 	 
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
@@ -97,7 +94,7 @@ In the Properties editor, it looks like this entity does not have any properties
 
 ![04-fig6](update-images/04_designing-a-data-model_fig6.png)
 **Figure 6.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
-<br/><br/>
+
 
 ## Viewing Parent-Child Relationships
 
