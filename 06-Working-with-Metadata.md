@@ -133,3 +133,5 @@ For IIIF imports, as with the [Folder Metadata](#Recording-Folder-Metadata-in-th
 
 ![06_Fig-19](update-images/06_working-with-Metadata_fig19.png)
 **Figure 19.** Recording Image Metadata in the Annotation Mode
+
+## Recording Metadata in Knowledge Graph
