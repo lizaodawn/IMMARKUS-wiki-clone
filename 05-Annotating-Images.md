@@ -154,31 +154,39 @@ You can define connections between two annotations through a **Relationship** in
     ![05-Fig 14](update-images/05_annotating-images_fig14.png)  
     **Figure 14.** Creating a New Relationship Type in **Annotation Mode**
 
-You can view all defined relationships in the **List** panel. You can filter the list view with conditions on **Entity Classes** or **Relationship Types**.
+
+# Listing and Filtering Annotations and Relations
+In annotation mode, you can view all annotated entities and defined relationships in the **List** panel. You can filter the list view based on **Entity Classes** or **Relationship Types**.
 
 ![05-Fig 15](update-images/05_annotating-images_fig15.png)  
-**Figure 15.** Navigating All Annotations in the **List** Panel
+**Figure 15.** Navigating All Annotations and Relations in the **List** Panel
 
 You can click the source or target thumbnail in **List** panel to locate the annotation in the image.
 
 ![05-Fig 16](update-images/05_annotating-images_fig16.png)  
 **Figure 16.** Locating the Annotation in the Image for the Source Entity in the Selected Relationship "close_to"
 
-You can click the pencil icon to modify the relationship type or delete it.
+# Editing Existing Annotations and Relations
+
+In the **List** panel, you can click the pencil icon at the bottom right of the annotation card to modify the annotated entity class or delete the annotation.
 
 ![05-Fig 17](update-images/05_annotating-images_fig17.png)  
-**Figure 17.** Modifying Relation in **Annotation Mode**
+**Figure 17.** Modifying an Annotation in **Annotation Mode**
 
-	 
+For annotated entities connected by relationships, you can click the pencil icon to modify the relationship type or delete it.
+
+![05-Fig 18](update-images/05_annotating-images_fig18.png)  
+**Figure 18.** Modifying Relation in **Annotation Mode**
+
 # Annotating Multiple Images Simultaneously
 
 You can annotate multiple images side by side. 
 
-1. Click **Add Image** (red square in **Figure 17**) and select the image(s) that you want to annotate together.
+1. Click **Add Image** (red square in **Figure 19**) and select the image(s) that you want to annotate together.
 
 2. You can drag and drop windows to move them around and change their layout.
 
 ![Screenshot (525)](https://github.com/rsimon/immarkus/assets/128056738/37ef3e05-9873-4be7-b7a2-28a167275e6f)  
-**Figure 18.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
+**Figure 19.** Annotating Multiple Images Simultaneously Using Add Image (Red Square)
 
 
