@@ -127,7 +127,31 @@ After defining your metadata schemas, you can enter metadata for folders and ima
 
 ## Recording Metadata in the Knowledge Graph
 
+In [Knowledge Graph Mode](07-Exploring-Data-in-Knowledge-Graph.md), you can modify metadata for folders and individual images for both local images and IIIF imports in your workspace. 
 
+In this mode, **subfolders** and **individual images** are represented as nodes, each distinguished by different colors.
+
+Clicking an **subfolder** node displays its metadata in the right panel. You can modify the information directly within the panel.
+
+![06_Fig-19](update-images/06_working-with-Metadata_fig19.png)
+   **Figure 19**. Editing the Metadata of an Image Folder with a Preset Schema
+
+Clicking an **image** node reveals its annotations, relations, and metadata in the right panel. You can modify the metadata information by selecting the **Metadata** tab.
+
+![06_Fig-20](update-images/06_working-with-Metadata_fig20.png)
+   **Figure 20**. Editing the Metadata of a Individual Image with a Preset Schema
+
+The process remains the same for IIIF imports.
+
+Clicking a **subfolder** node retrieves and displays embedded metadata.You can switch to the **My** tab to modify the metadata using your preferred schema. 
+
+![06_Fig-21](update-images/06_working-with-Metadata_fig21.png)
+   **Figure 21**. Editing the Metadata of a IIIF Image Folder with a Preset Schema
+
+Clicking an **image** node, it reveals annotations, relations, and metadata in the right panel, and you can modify the metadata by selecting the **Metadata** tab. 
+
+![06_Fig-22](update-images/06_working-with-Metadata_fig22.png)
+   **Figure 22**. Editing the Metadata of an IIIF Individual Image with a Preset Schema
 
 ## Recording Metadata in Annotation Mode
 
@@ -135,5 +159,5 @@ You can also enter metadata for individual images in the annotation mode. Click 
 
 For IIIF imports, as with the [Folder Metadata](#Recording-Folder-Metadata-in-the-Image-Gallery) and [Individual Image Metadata](#Recording-Individual-Image-Metadata-in-the-Image-Gallery), you can view the embedded metadata or edit it using your own schema.
 
-![06_Fig-19](update-images/06_working-with-Metadata_fig19.png)
-**Figure 19.** Recording Image Metadata in the Annotation Mode
+![06_Fig-23](update-images/06_working-with-Metadata_fig23.png)
+**Figure 23.** Recording Image Metadata in the Annotation Mode
