@@ -1,4 +1,4 @@
-IMMARKUS is a semantic image annotation tool that allows you to assemble and organize image collections and their metadata, create custom ontologies to annotate images, identify specific image regions using ontological concepts, and add relationships between elements in and across your images. It also includes a powerful knowledge graph to visualize and query your images, annotations, relationships, and metadata.  
+IMMARKUS is a semantic image annotation tool that allows you to assemble and organize image collections and their metadata, create custom ontologies to annotate images, identify specific image regions using ontological concepts, and add relationships between elements in and across your images. It also includes a powerful knowledge graph to visualize and query images, annotations, relationships, and metadata.  
 
 <img width="1427" alt="IMMARKUS interface screenshot" src="update-images/00_home_fig1.png">
 
