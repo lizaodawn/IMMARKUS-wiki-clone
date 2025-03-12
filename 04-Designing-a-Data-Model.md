@@ -89,7 +89,7 @@ You can create a child class in both annotation mode and data model mode.
 
 In **Figure 5 and 6**, the child class named "city_gate" inherits all the properties from the parent class named "obj_part".  
 
-In the Properties editor, it looks like this entity does not have any properties (circled in red in **Figure 6**). This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (outlined in blue) as shown on the right panel in **Figure 6**.
+In the Properties editor, it looks like this entity does not have any properties. This means no particular property has been added to this child class. The child class city_gate inherited all the properties from its parent class (outlined in blue) as shown on the right panel in **Figure 6**.
 
 
 ![04-fig6](update-images/04_designing-a-data-model_fig6.png)
