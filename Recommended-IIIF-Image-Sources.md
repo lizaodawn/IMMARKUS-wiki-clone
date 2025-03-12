@@ -9,6 +9,7 @@ Working with [IIIF](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%
 * [Princeton East Asian Collection](https://dpul.princeton.edu/eastasian)
 * [Berkeley Digital Collections](https://www.lib.berkeley.edu/find/digital-collections)
 * [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en)
+* [Yale University Library Digital Collections](https://collections.library.yale.edu/)
 
 ## Manuals and Guides
 * Blogpost by IMMARKUS Developer [Rainer Simon](https://rainersimon.io/): [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
