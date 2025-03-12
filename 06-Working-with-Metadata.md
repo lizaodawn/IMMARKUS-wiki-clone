@@ -143,7 +143,7 @@ Clicking an **image** node reveals its annotations, relations, and metadata in t
 
 The process is the same for IIIF imports.
 
-Clicking a **subfolder** node retrieves and displays the IIIF embedded metadata.You can switch to the **My** tab to modify the metadata using your preferred schema. 
+Clicking a **subfolder** node retrieves and displays the IIIF embedded metadata. You can switch to the **My** tab to modify the metadata using your preferred schema. 
 
 ![06_Fig-21](update-images/06_working-with-Metadata_fig21.png)
    **Figure 21**. Editing the Metadata of a IIIF Image Folder with a Preset Schema
