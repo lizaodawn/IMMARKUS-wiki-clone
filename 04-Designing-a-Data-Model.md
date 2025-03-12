@@ -108,7 +108,7 @@ The entity classes for which you have created child classes have a drop-down men
 
 * In the row of the child class, you can only see the properties that have been specifically added to the child class (see the properties for "location_site" parent and "survey area" child in **Figure 7**). 
 
-Classes that have no children do not have a drop-down menu (blue square in **Figure 7**).  
+Classes that do not have children do not have a drop-down menu (blue square in **Figure 7**).  
 
 
 ![Screenshot (519)](https://github.com/rsimon/immarkus/assets/128056738/9fd1e53f-8c56-4782-81b8-bc62df540365)
