@@ -6,6 +6,8 @@ Working with [IIIF](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%
 * [Harvard-Yenching Library’s Chinese Rare Book collection](https://curiosity.lib.harvard.edu/chinese-rare-books)
 * [Bibliothèque nationale de France - Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr)
 * [The National Palace Museum Collections](https://digitalarchive.npm.gov.tw/Collection)
+* [Princeton East Asian Collection](https://dpul.princeton.edu/eastasian)
+* [Berkeley Digital Collections](https://www.lib.berkeley.edu/find/digital-collections)
 
 ## Manuals and Guides
 * Blogpost by IMMARKUS Developer [Rainer Simon](https://rainersimon.io/): [Navigating the IIIF Landscape: A Guide to Finding Images & Manifests](https://liiive.now/blog/2025-02-navigating-the-iiif-landscape/)
