@@ -30,7 +30,7 @@ IMMARKUS allows you to work with AI-powered smart object selection for automatic
 
 ## Relation Annotation 
 
-With IMMARKUS you can add relationships between annotated entities. You have the option to create directional or undirectional relations and set constraints on the source and target entities.
+With IMMARKUS you can add relationships between annotated entities. You have the option to create directed or undirected relations and set constraints on the source and target entities.
 
 ![01-fig4](update-images/01_overview_fig4.png)
 **Figure 4.** Creating a Relation between Two Entities in IMMARKUS
