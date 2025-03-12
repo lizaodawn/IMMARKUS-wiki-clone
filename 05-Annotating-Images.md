@@ -132,7 +132,7 @@ You can also add a note to any image selection that you have already annotated. 
 
 # Adding Relationships between Entities
 
-You can define connections between two annotations through a **Relationship** in the annotation mode.
+You can define connections between two annotations either in the same image or in two distinct images through a **Relationship** in the annotation mode.
 
 1. Select the source entity you want to establish a relationship from.
 
