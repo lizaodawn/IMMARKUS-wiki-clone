@@ -131,7 +131,7 @@ In [Knowledge Graph Mode](07-Exploring-Data-in-Knowledge-Graph.md), you can modi
 
 In this mode, **subfolders** and **individual images** are represented as nodes, each distinguished by different colors.
 
-Clicking an **subfolder** node displays its metadata in the right panel. You can modify the information directly within the panel.
+Clicking a **subfolder** node displays its metadata in the right panel. You can modify the information directly within the panel.
 
 ![06_Fig-19](update-images/06_working-with-Metadata_fig19.png)
    **Figure 19**. Editing the Metadata of an Image Folder with a Preset Schema
@@ -143,12 +143,12 @@ Clicking an **image** node reveals its annotations, relations, and metadata in t
 
 The process remains the same for IIIF imports.
 
-Clicking a **subfolder** node retrieves and displays embedded metadata.You can switch to the **My** tab to modify the metadata using your preferred schema. 
+Clicking a **subfolder** node retrieves and displays the IIIF embedded metadata.You can switch to the **My** tab to modify the metadata using your preferred schema. 
 
 ![06_Fig-21](update-images/06_working-with-Metadata_fig21.png)
    **Figure 21**. Editing the Metadata of a IIIF Image Folder with a Preset Schema
 
-Clicking an **image** node, it reveals annotations, relations, and metadata in the right panel, and you can modify the metadata by selecting the **Metadata** tab. 
+Clicking an **image** node, it reveals annotations, relations, and metadata in the right panel. You can modify the metadata by selecting the **Metadata** tab and switching to the **My** tab to apply your preferred schema. 
 
 ![06_Fig-22](update-images/06_working-with-Metadata_fig22.png)
    **Figure 22**. Editing the Metadata of an IIIF Individual Image with a Preset Schema
