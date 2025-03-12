@@ -128,7 +128,7 @@ In **Data Model**, you can define connections between two entity classes through
 3. You can enter a name for the relationship and specify whether it is directional, where the source and target roles are distinct.
 
     ![Fig 9](update-images/04_designing-a-data-model_fig9.png)
-    **Figure 9.** Defining the Relationship Name, Direction and Description
+    **Figure 9.** Defining the Relationship Name, Direction, and Description
 
 4. You can restrict the relationship to specific source and target entity classes.
 
