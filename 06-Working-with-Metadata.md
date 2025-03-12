@@ -141,7 +141,7 @@ Clicking an **image** node reveals its annotations, relations, and metadata in t
 ![06_Fig-20](update-images/06_working-with-Metadata_fig20.png)
    **Figure 20**. Editing the Metadata of a Individual Image with a Preset Schema
 
-The process remains the same for IIIF imports.
+The process is the same for IIIF imports.
 
 Clicking a **subfolder** node retrieves and displays the IIIF embedded metadata.You can switch to the **My** tab to modify the metadata using your preferred schema. 
 
