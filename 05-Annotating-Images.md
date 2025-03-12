@@ -161,7 +161,7 @@ In annotation mode, you can view all annotated entities and defined relationship
 ![05-Fig 15](update-images/05_annotating-images_fig15.png)  
 **Figure 15.** Navigating All Annotations and Relations in the **List** Panel
 
-You can click the source or target thumbnail in **List** panel to locate the annotation in the image.
+You can click the source or target thumbnail in the **List** panel to locate the annotation in the image.
 
 ![05-Fig 16](update-images/05_annotating-images_fig16.png)  
 **Figure 16.** Locating the Annotation in the Image for the Source Entity in the Selected Relationship "close_to"
