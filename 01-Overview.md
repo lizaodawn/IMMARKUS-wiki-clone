@@ -2,7 +2,7 @@ Here are some of the highlights of what IMMARKUS offers.
 
 ## Work with IIIF Manifest Imports
 
-IMMARKUS supports importing IIIF manifests, enabling users to access, manage, and annotate image collections from diverse sources. By leveraging IIIF’s high-resolution image streaming, users can work with detailed zoomable images without requiring large local storage.
+IMMARKUS supports importing IIIF manifests, enabling users to access, manage, and annotate image collections from diverse sources. By leveraging IIIF’s high-resolution image streaming, users can work with detailed zoomable images without the need for large local storage.
 
 ![01-fig1](update-images/01_overview_fig1.png)
 **Figure 1.** Importing a IIIF Manifest in IMMARKUS
@@ -21,16 +21,16 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 ## AI-Powered Smart Selection Tool (Coming Soon)
 
-IMMARKUS integrates with AI-powered smart object selection modules for automatic shape detection, with manual refinement for added precision. Upcoming features will include irregular shape drawing, along with merge and subtract options!
+IMMARKUS allows you to work with AI-powered smart object selection for automatic shape detection which you can manually refine and modify. Upcoming features will include irregular shape drawing, along with merge and subtract options!
 
 ![01-fig3](update-images/01_overview_fig3.png)
-**Figure 3.** Selecting a Human Figure with Smart Selection Tool in IMMARKUS
+**Figure 3.** Selecting a Human Figure with the Smart Selection Tool in IMMARKUS
 
 * Read more about [Smart Selection Tools](05-Annotating-Images#🛠️-smart-selection-tools)
 
 ## Relation Annotation 
 
-IMMARKUS allows the definition of relationships between annotated entities, with the option to create directional or undirectional relations and set constraints on the source and target entities.
+With IMMARKUS you can add relationships between annotated entities. You have the option to create directional or undirectional relations and set constraints on the source and target entities.
 
 ![01-fig4](update-images/01_overview_fig4.png)
 **Figure 4.** Creating a Relation between Two Entities in IMMARKUS
