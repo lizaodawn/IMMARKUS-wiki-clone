@@ -52,7 +52,7 @@ To create entities and properties in the data model mode, enter the data model m
 
     * **Measurement** – a number combined with a measurement word
 
-    * **[External Authority](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as TGAZ, CBDB, and Wikipedia.
+    * **[External Authority](https://github.com/rsimon/immarkus/wiki/05-Annotating-Images#using-external-authorities-in-annotations)** - external authority services such as [TGAZ (Temporal Gazetteer)](https://maps.cga.harvard.edu/tgaz/), [CBDB (China Biographical Database)](https://projects.iq.harvard.edu/cbdb/home), and Wikipedia.
 
 
 9.	In this case the data type of "id" is **Text**. You can also add a description of the property in **Property Description**.
@@ -70,7 +70,7 @@ To create entities and properties in the data model mode, enter the data model m
 
 # Creating Parent-Child Entity Classes in the Data Model Mode
 
-In **Data Model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes. (If you cannot locate the data model mode, see the [The Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface)) 
+In **Data Model**, you can define common properties that are shared between parent and child entity classes. Child classes inherit properties from parent classes. You can also define properties that are particular to child classes.
 
 You can create a child class in both annotation mode and data model mode. 
 
@@ -93,7 +93,7 @@ In the Properties editor, it looks like this entity does not have any properties
 
 
 ![04-fig6](update-images/04_designing-a-data-model_fig6.png)
-**Figure 6.**  The Child Class "city gate" Inherits Properties from its Parent Class "obj_part" 
+**Figure 6.**  The Child Class "city_gate" Inherits Properties from its Parent Class "obj_part" 
 
 
 ## Viewing Parent-Child Relationships
@@ -111,7 +111,7 @@ The entity classes for which you have created child classes have a drop-down men
 Classes that do not have children do not have a drop-down menu (blue square in **Figure 7**).  
 
 
-![Screenshot (519)](https://github.com/rsimon/immarkus/assets/128056738/9fd1e53f-8c56-4782-81b8-bc62df540365)
+![04-fig7](update-images/04_designing-a-data-model_fig7.png)
 **Figure 7.** Entity Classes in the Data Model
 
 # Creating Relationships between Entities in the Data Model Mode
@@ -125,7 +125,7 @@ In **Data Model**, you can define connections between two entity classes through
     ![Fig 8](update-images/04_designing-a-data-model_fig8.png)
     **Figure 8.** Creating Relationships in the Data Model Mode
 
-3. You can enter a name for the relationship and specify whether it is directional, where the source and target roles are distinct.
+3. You can enter a name for the relationship and specify whether it is directional. In directional relationships, the source and target have defined roles. In non-directional ones, IMMARKUS still assigns a source and target, with the first selected entity as the source and the second as the target.
 
     ![Fig 9](update-images/04_designing-a-data-model_fig9.png)
     **Figure 9.** Defining the Relationship Name, Direction, and Description
@@ -146,12 +146,12 @@ To import an entity class data model, click **Import Model** (blue square in **F
 ![import model image 1](update-images/04_designing-a-data-model_fig11.png)  
 **Figure 11.** Importing an Entity Class Data Model 
 
-From the pop-up window you can import a model or replace the current model. Keep in mind that replacing an existing schema will remove all its entity classes (**Figure 9**).
+From the pop-up window you can import a model or replace the current model. Keep in mind that replacing an existing schema will remove all its entity classes (**Figure 12**).
 
 ![import model image 2](https://github.com/rsimon/immarkus/assets/128056738/1bad27ed-40a6-40f4-80b0-3805449499fe)  
 **Figure 12.** Replacing the Current Data Model 
 
-You can decide how you want to handle duplicate classes (**Figure 10**). You can either keep the existing classes that you had in your model before importing the data model (**Keep Existing** button), or you can have the existing classes  replaced by the ones in the imported model (**Keep Imported** button).  
+You can decide how you want to handle duplicate classes (**Figure 13**). You can either keep the existing classes that you had in your model before importing the data model (**Keep Existing** button), or you can have the existing classes  replaced by the ones in the imported model (**Keep Imported** button).  
 
 
 ![import model image 3](https://github.com/rsimon/immarkus/assets/128056738/b811bb2b-a4e0-4310-8304-d5870b18f69e)  
