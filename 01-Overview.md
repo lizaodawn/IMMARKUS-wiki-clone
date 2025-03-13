@@ -63,7 +63,7 @@ IMMARKUS offers a range of data types you can use to capture properties of diffe
 - URI
 - Geo-coordinates
 - Measurement 
-- External Authority - Connect an entity class to external authority services (e.g., TGAZ, CBDB, Wikipedia) by linking their URIs.
+- External Authority - Connect an entity class to external authority services (e.g., [TGAZ (Temporal Gazetteer)](https://maps.cga.harvard.edu/tgaz/), [CBDB (China Biographical Database)](https://projects.iq.harvard.edu/cbdb/home), and Wikipedia) by linking their URIs.
 
 <img width="978" alt="Screenshot 2024-03-04 at 11 45 01" src="https://github.com/rsimon/immarkus/assets/160752064/996cd609-c1c3-4a96-b51c-f7ee376e3a7a">
 
