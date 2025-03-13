@@ -134,10 +134,10 @@ In **Relationships mode**, you can search entity classes or images by the relati
 
 You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
 
-![KG18a](update-images/07_exploring-data-in-knowledge-graph_fig18a.png)
+![07_exploring-data-in-knowledge-graph_fig18a](https://github.com/user-attachments/assets/a9ffa033-9081-4951-972a-5d7e5bcc5826)  
 **Figure 18a.** Searching Images with *bridge* Entities in Graph Search
 
-![KG18b](update-images/07_exploring-data-in-knowledge-graph_fig18b.png)
+![07_exploring-data-in-knowledge-graph_fig18b](https://github.com/user-attachments/assets/1afd300c-012d-419d-bdaa-2bc237a67230)  
 **Figure 18b.** Hovering over an Image Node in the Search Results for Images with *bridge* Entities
 
 
@@ -166,10 +166,10 @@ In the **Graph Search** dialog box, you can define conditions or combinations of
 Click **Export Search Result** to export the results of your search to an .XLSX file. 
 
 
-![KG19](update-images/07_exploring-data-in-knowledge-graph_fig19.png)
+![07_exploring-data-in-knowledge-graph_fig19](https://github.com/user-attachments/assets/b57e3d9d-1cca-4284-a7ca-a8afe4a15dae)  
 **Figure 19** Exporting Query Results of Annotated Relationships from the Knowledge Graph
 
-![KG20](update-images/07_exploring-data-in-knowledge-graph_fig20.png)
+![07_exploring-data-in-knowledge-graph_fig20](https://github.com/user-attachments/assets/bf7c792c-f0e6-4431-ae8d-6ad392da59c2)  
 **Figure 20** Exporting Annotations, Relationships, and Full Metadata from an Image Search in the Knowledge Graph
 
 
