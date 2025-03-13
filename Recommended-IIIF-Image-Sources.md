@@ -8,6 +8,7 @@ Working with [IIIF](https://iiif.io/get-started/why-iiif/#:~:text=IIIF%20is%20a%
 * [Bibliothèque nationale de France - Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr)
 * [The National Palace Museum Collections](https://digitalarchive.npm.gov.tw/Collection)
 * [International Dunhuang Programme](https://idp.bl.uk/)
+* [Stabi Digital Collections](https://digital.staatsbibliothek-berlin.de/suche?category=Ostasiatica)
 * [Princeton East Asian Collection](https://dpul.princeton.edu/eastasian)
 * [Berkeley Digital Collections](https://www.lib.berkeley.edu/find/digital-collections)
 * [Digital East Asia Collections of the Bavarian State Library](https://ostasien.digitale-sammlungen.de/?locale=en)
