@@ -1,5 +1,7 @@
 You can export your data models, annotations, and metadata. Click on the **Export** page in the [IMMARKUS Interface](https://github.com/rsimon/immarkus/wiki/03-The-Interface) and select the data you wish to export.
 
+You can also export filtered subsets of your annotations based on search and filtering criteria in the [Knowledge Graph](07-Exploring-Data-in-Knowledge-Graph.md) Mode.
+
 ## Exporting Annotations
 
 Click and download **Annotations**.  
