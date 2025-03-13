@@ -10,40 +10,42 @@ To add subfolders as nodes to the default view, see [Show Subfolders as Nodes](h
 
 Use the scroll wheel on your mouse to **zoom** in and out of the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. 
 
-![KG1](update-images/07_exploring-data-in-knowledge-graph_fig1.png)
+![07_exploring-data-in-knowledge-graph_fig1](https://github.com/user-attachments/assets/7880de05-3187-48d8-9d99-f7ae121374d9)  
 **Figure 1.** Default View of Knowledge Graph 
 
 Hovering over a node highlights its related nodes and edges. When hovering over an annotation edge, a tooltip displays the number of annotations connected to the corresponding image.
 
-![KG2](update-images/07_exploring-data-in-knowledge-graph_fig2.png)
+![07_exploring-data-in-knowledge-graph_fig2](https://github.com/user-attachments/assets/44dd0327-0c59-4071-98b5-ab2bd050b524)  
 **Figure 2.** Highlighting Connections by Hovering Over the Node "platform"
 
-![KG3](update-images/07_exploring-data-in-knowledge-graph_fig3.png)
+![07_exploring-data-in-knowledge-graph_fig3](https://github.com/user-attachments/assets/75c7a0a0-089a-449a-8054-db266a68378c)  
 **Figure 3.** Tooltip Displaying the Number of Annotations Linked to an Image
 
 ## View Options and Controls
 
 * **Legend Panel**:  Displays a guide to what each node and edge represents in the graph.  
-    ![KG4](update-images/07_exploring-data-in-knowledge-graph_fig4.png)
+
+    ![07_exploring-data-in-knowledge-graph_fig4](https://github.com/user-attachments/assets/d6df87ff-e341-485d-b2f3-7582248ce80d)  
     **Figure 4.** Legend Panel in the Knowledge Graph
 
 * **Full Screen Expander**: Click the **expand** button (outlined in blue in **Figure 5**) to view the graph in full-screen mode.  
-    ![KG5](update-images/07_exploring-data-in-knowledge-graph_fig5.png)
+
+    ![07_exploring-data-in-knowledge-graph_fig5](https://github.com/user-attachments/assets/817acbc8-d850-4b6c-84a4-040a4791f0c7)  
     **Figure 5.** Viewing the Knowledge Graph in Full-screen Mode  
 
 * **Graph Searcher**: Click the **magnify glass** (outlined in blue in **Figure 6**) icon to open the graph search dialog box and enter search conditions. See [Knowledge Graph Search](07-Exploring-Data-in-Knowledge-Graph#knowledge-graph-search) for more more details on graph search and export.
 
-    ![KG6](update-images/07_exploring-data-in-knowledge-graph_fig6.png)
+    ![07_exploring-data-in-knowledge-graph_fig6](https://github.com/user-attachments/assets/4c773fc6-c0ea-46d2-9773-7c7400632a5e)  
     **Figure 6** Opening the Graph Search Dialog Box
 
 * **Settings**: Click the **Settings** button to customize the knowledge graph view (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
     
-    ![KG7](update-images/07_exploring-data-in-knowledge-graph_fig7.png)
+    ![07_exploring-data-in-knowledge-graph_fig7](https://github.com/user-attachments/assets/5aa2db5f-1e14-4420-a58b-dd6ea6375469)  
     **Figure 7** Adjusting the Knowledge Graph View in the Settings Panel 
 
 * **Details Panel**: Clicking on a node expands a panel on the right, allowing you to explore related annotations, images, relations, and metadata. You can also navigate to the image **Annotation Mode** from here.
 
-    ![KG8](update-images/07_exploring-data-in-knowledge-graph_fig8.png)
+    ![07_exploring-data-in-knowledge-graph_fig8](https://github.com/user-attachments/assets/5af8d974-4768-43e1-a50b-ddf40bf9066d)  
     **Figure 8** Navigating Details Panel for the Seleted Entity Class "city_wall"
 
 
@@ -55,7 +57,7 @@ From Settings you can change the way the data is displayed. Clicking on the **Se
 
 You can choose to visualize your data in **Hierarchy & Annotations** mode, which shows the data model structure and entity annotations, or in **Relationships** mode, which shows the relationship annotations you created between entity classes. 
 
-![KG9](update-images/07_exploring-data-in-knowledge-graph_fig9.png)
+![07_exploring-data-in-knowledge-graph_fig9](https://github.com/user-attachments/assets/3887953f-1a62-4dfa-a5c8-c2f1418adb6f)  
 **Figure 9.** Choosing **Hierarchy & Annotations** Mode for the Knowledge Graph
 
 
@@ -63,24 +65,24 @@ You can choose to visualize your data in **Hierarchy & Annotations** mode, which
 
 **Hide labels** hides text labels from the graph. You can further choose to only hide **Image** labels or **Entity Class** lables. You can view the labels by hovering over nodes (**Figure 10**). 
 
-![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
+![07_exploring-data-in-knowledge-graph_fig10](https://github.com/user-attachments/assets/bd7f896b-6a12-4542-b238-de6bd42610cc)  
 **Figure 10.** Hiding Image Labels in the Knowledge Graph with the Label *康熙_隰州志_30.png* Made Visible by Hovering over the Node 
 
 ## Show Subfolders as Nodes  
 
 **Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 11**)
  
-![KG11](update-images/07_exploring-data-in-knowledge-graph_fig11.png)
+![07_exploring-data-in-knowledge-graph_fig11](https://github.com/user-attachments/assets/c368d922-585a-4047-90ca-85092783a54d)  
 **Figure 11.** Showing Subfolders as Nodes  
 
 ## Hide Unconnected Nodes  
 
 **Hide unconnected nodes** hides unused entity classes and images without entity annotations and makes the graph less cluttered and focused on annotated content. 
 
-![KG12a](update-images/07_exploring-data-in-knowledge-graph_fig12a.png)
+![07_exploring-data-in-knowledge-graph_fig12a](https://github.com/user-attachments/assets/d105d9d8-b2b2-469f-a892-c285df58a9a1)  
 **Figure 12a.** Before Selecting "Hide unconnected nodes": Image Nodes without Annotations Displayed as Unconnected Nodes in the Graph
 
-![KG12b](update-images/07_exploring-data-in-knowledge-graph_fig12b.png)
+![07_exploring-data-in-knowledge-graph_fig12b](https://github.com/user-attachments/assets/870ebd99-eb99-4dd7-a0d5-8cc48a1ab9bc)  
 **Figure 12b.** After Selecting "Hide unconnected nodes": Image Nodes without Annotations are Hidden from the Graph
 
 # Nodes
