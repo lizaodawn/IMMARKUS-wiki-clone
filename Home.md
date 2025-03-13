@@ -3,7 +3,7 @@ IMMARKUS is a semantic image annotation tool that allows you to assemble and org
 <img width="1427" alt="IMMARKUS interface screenshot" src="update-images/00_home_fig1.png">
 
 
-**Figure 1**. Annotating Shanxi City Walls in IMMARKUS
+**Figure 1**. Annotating Shanxi City Walls and Military Forts in IMMARKUS
 
 
 Setting up IMMARKUS is straightforward and hassle-free. Open IMMARKUS in your browser, select a folder on your computer or import a IIIF Presentation Manifest, and begin annotating.
