@@ -126,34 +126,51 @@ To deselect a node in order to explore other nodes, click any where outside the 
 
 In **Graph Search** you can search and filter images in the current project according to metadata and/or properties; you can also export the results of your search.  
 
-Start searching by clicking the magnifying glass icon (circled in blue on **Figure 11**). In **Hierarchy & Annotations** you can search either subfolders by metadata, or images by (image or subfolder) metadata, entity classes, or notes. 
+Start searching by clicking the magnifying glass icon (outlined in blue on **Figure 18**). 
+
+In **Hierarchy & Annotations** you can search either subfolders by metadata, or images by (image or subfolder) metadata, entity classes, or notes. 
 
 In **Relationships mode**, you can search entity classes or images by the relationships that were added in annotation. 
- 
-
-![KG11](update-images/07_exploring-data-in-knowledge-graph_fig11.png)
-**Figure 11.** Searching Images with *bridge* Entities in Graph Search
 
 You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
 
+![KG18a](update-images/07_exploring-data-in-knowledge-graph_fig18a.png)
+**Figure 18a.** Searching Images with *bridge* Entities in Graph Search
+
+![KG18b](update-images/07_exploring-data-in-knowledge-graph_fig18b.png)
+**Figure 18b.** Hovering over an Image Node in the Search Results for Images with *bridge* Entities
+
+
 ## Graph Search Options
 
-You can continue to filter your results by adding more search conditions (**Figure 12**): 
+In the **Graph Search** dialog box, you can define conditions or combinations of conditions to query metadata, annotations, and their relationships within the knowledge graph.
 
-1. Click **Add Condition** to add an and/or condition to your search. 
+### Basic Search
+* Hireachy & Annotations Mode
+  - Search for **Subfolders** by metadata
+  - Search for **Images** by metadata
+  - Search for **Images** by annotated entity or note
 
-2. **⊕ Sub-Condition** is only available for filtering according to a property of an entity class.  
+* Relationships Mode
+  - Search for **Entity Classes** by relationship
+  - Search for **Images** by relationship
 
-3. Edit your search by either deleting individual conditions or sub-conditions.  
-
-4. Reset the search by pressing the **Clear All button**. 
-
-![KG12](update-images/07_exploring-data-in-knowledge-graph_fig12.png)
- **Figure 12.** Graph Search Options
+### Adding and Managing Conditions
+* Click **Add Condition** to add an and/or condition to your search. 
+* Click **Sub-Condition** to further filter on properties of an entity class. 
+* Edit your search by either deleting individual conditions or sub-conditions. 
+* Reset the search by pressing the **Clear All button**. 
 
 ## Export Graph Search Result
 
 Click **Export Search Result** to export the results of your search to an .XLSX file. 
+
+
+![KG19](update-images/07_exploring-data-in-knowledge-graph_fig19.png)
+**Figure 19** Exporting Query Results of Annotated Relationships from the Knowledge Graph
+
+![KG20](update-images/07_exploring-data-in-knowledge-graph_fig20.png)
+**Figure 20** Exporting Annotations, Relationships, and Full Metadata from an Image Search in the Knowledge Graph
 
 
 
