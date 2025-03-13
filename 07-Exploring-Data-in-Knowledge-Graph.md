@@ -13,25 +13,38 @@ Use the scroll wheel on your mouse to **zoom** in and out of the knowledge graph
 ![KG1](update-images/07_exploring-data-in-knowledge-graph_fig1.png)
 **Figure 1.** Default View of Knowledge Graph 
 
-When hovering over a node, related nodes and edges will be highlighted. If you hover over an annotation edge, a tooltip will display the number of annotations connected to the image the edge represents.
+Hovering over a node highlights its related nodes and edges. When hovering over an annotation edge, a tooltip displays the number of annotations connected to the corresponding image.
+
+![KG2](update-images/07_exploring-data-in-knowledge-graph_fig2.png)
+**Figure 2.** Highlighting Connections by Hovering Over the Node "platform"
+
+![KG3](update-images/07_exploring-data-in-knowledge-graph_fig3.png)
+**Figure 3.** Tooltip Displaying the Number of Annotations Linked to an Image
 
 ## View Options and Controls
 
 * **Legend Panel**:  Displays a guide to what each node and edge represents in the graph.  
-    **Figure 2.** Legend Panel 
+    ![KG4](update-images/07_exploring-data-in-knowledge-graph_fig4.png)
+    **Figure 4.** Legend Panel in the Knowledge Graph
 
-* **Full Screen Expander**: Click the **Expand** button to view the graph in full-screen mode.  
-    **Figure 3.** Toggle  Fullscreen
+* **Full Screen Expander**: Click the **expand** button (outlined in blue in **Figure 5**) to view the graph in full-screen mode.  
+    ![KG5](update-images/07_exploring-data-in-knowledge-graph_fig5.png)
+    **Figure 5.** Viewing the Knowledge Graph in Full-screen Mode  
 
-* **Graph Searcher**: Click the **magnify** icon to open the graph search dialog box and enter search conditions. See [Knowledge Graph Search](07-Exploring-Data-in-Knowledge-Graph#knowledge-graph-search) for more information about graph search and export.
-    **Figure 4** Graph Search
+* **Graph Searcher**: Click the **magnify glass** (outlined in blue in **Figure 6**) icon to open the graph search dialog box and enter search conditions. See [Knowledge Graph Search](07-Exploring-Data-in-Knowledge-Graph#knowledge-graph-search) for more more details on graph search and export.
 
-* **Settings**: You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
-    **Figure 5** Settings
+    ![KG6](update-images/07_exploring-data-in-knowledge-graph_fig6.png)
+    **Figure 6** Opening the Graph Search Dialog Box
 
-* **Details Panel**: When clicking on a node, a panel will expand from the right, allowing you to navigate related annotations, images, relations, and metadata. You can also redirect to the image annotation mode from here.
-    **Figure 6** Details Panel
+* **Settings**: Click the **Settings** button to customize the knowledge graph view (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
+    
+    ![KG7](update-images/07_exploring-data-in-knowledge-graph_fig7.png)
+    **Figure 7** Adjusting the Knowledge Graph View in the Settings Panel 
 
+* **Details Panel**: Clicking on a node expands a panel on the right, allowing you to explore related annotations, images, relations, and metadata. You can also navigate to the image **Annotation Mode** from here.
+
+    ![KG8](update-images/07_exploring-data-in-knowledge-graph_fig8.png)
+    **Figure 8** Navigating Details Panel for the Seleted Entity Class "city_wall"
 
 
 # Settings 
@@ -116,6 +129,9 @@ In **Relationships mode**, you can search entity classes or images by the relati
 ![KG11](update-images/07_exploring-data-in-knowledge-graph_fig11.png)
 **Figure 11.** Searching Images with *bridge* Entities in Graph Search
 
+You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
+
+## Graph Search Options
 
 You can continue to filter your results by adding more search conditions (**Figure 12**): 
 
@@ -123,15 +139,16 @@ You can continue to filter your results by adding more search conditions (**Figu
 
 2. **⊕ Sub-Condition** is only available for filtering according to a property of an entity class.  
 
-3. Click **Export Search Result** to export the results of your search to an .XLSX file. 
+3. Edit your search by either deleting individual conditions or sub-conditions.  
 
-4. Edit your search by either deleting individual conditions or sub-conditions.  
-
-5. Reset the search by pressing the **Clear All button**. 
+4. Reset the search by pressing the **Clear All button**. 
 
 ![KG12](update-images/07_exploring-data-in-knowledge-graph_fig12.png)
  **Figure 12.** Graph Search Options
 
+## Export Graph Search Result
 
-You can further explore the search results by selecting individual nodes to view image or node data and/or by hovering over nodes to view the nodes to which they are related.
+Click **Export Search Result** to export the results of your search to an .XLSX file. 
+
+
 
