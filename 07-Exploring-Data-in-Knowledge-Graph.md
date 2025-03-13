@@ -55,35 +55,33 @@ From Settings you can change the way the data is displayed. Clicking on the **Se
 
 You can choose to visualize your data in **Hierarchy & Annotations** mode, which shows the data model structure and entity annotations, or in **Relationships** mode, which shows the relationship annotations you created between entity classes. 
 
-![KG6](update-images/07_exploring-data-in-knowledge-graph_fig6.png)
-**Figure 6.** Choosing **Hierarchy & Annotations** Mode for the Knowledge Graph
+![KG9](update-images/07_exploring-data-in-knowledge-graph_fig9.png)
+**Figure 9.** Choosing **Hierarchy & Annotations** Mode for the Knowledge Graph
 
 
 ## Hide Labels 
 
-**Hide labels** hides text labels from the graph. You can further choose to only hide **Image** labels or **Entity Class** lables. You can view the labels by hovering over nodes (**Figure 7**). 
+**Hide labels** hides text labels from the graph. You can further choose to only hide **Image** labels or **Entity Class** lables. You can view the labels by hovering over nodes (**Figure 10**). 
 
-![KG7](update-images/07_exploring-data-in-knowledge-graph_fig7.png)
-**Figure 7.** Hiding Image Labels in Knowledge Graph with the Label 光緒_代州志_36.jpg Made Visible by Hovering over the Node 
+![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
+**Figure 10.** Hiding Image Labels in the Knowledge Graph with the Label *康熙_隰州志_30.png* Made Visible by Hovering over the Node 
 
 ## Show Subfolders as Nodes  
 
-**Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 8**)
+**Show subfolders as nodes** allows you to see the distribution of your images and entities across subfolders on the graph (crimson nodes on **Figure 11**)
  
-![KG8](update-images/07_exploring-data-in-knowledge-graph_fig8.png)
-**Figure 8.** Showing Subfolders as Nodes  
-
-By clicking a subfolder node, you can view the total number of images in the folder and access its metadata. To navigate to the subfolder, click the **Open** button (outlined in blue). When you return to the Knowledge Graph page, the browser memory will retain the selected node. 
- 
-![KG9](update-images/07_exploring-data-in-knowledge-graph_fig9.png)
-**Figure 9.** Selecting a Subfolder Node to View Its Metadata 
+![KG11](update-images/07_exploring-data-in-knowledge-graph_fig11.png)
+**Figure 11.** Showing Subfolders as Nodes  
 
 ## Hide Unconnected Nodes  
 
 **Hide unconnected nodes** hides unused entity classes and images without entity annotations and makes the graph less cluttered and focused on annotated content. 
 
-![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
-**Figure 10.** Hiding Unconnected Nodes
+![KG12a](update-images/07_exploring-data-in-knowledge-graph_fig12a.png)
+**Figure 12a.** Before Selecting "Hide unconnected nodes": Image Nodes without Annotations Displayed as Unconnected Nodes in the Graph
+
+![KG12b](update-images/07_exploring-data-in-knowledge-graph_fig12b.png)
+**Figure 12b.** After Selecting "Hide unconnected nodes": Image Nodes without Annotations are Hidden from the Graph
 
 # Nodes
 You can inspect individual nodes, move them, and pin them on the knowledge graph (**Figure 2**).  Click and drag a node to pin it on the knowledge graph. To unpin a node, click on the pin icon at the bottom of the screen (circled in blue). 
@@ -92,7 +90,7 @@ You can inspect individual nodes, move them, and pin them on the knowledge graph
 **Figure 2.** Pinning a Node (Tower) on the Knowledge Graph 
 
 
-### Entity Class Nodes 
+## Entity Class Nodes 
 
 To see all annotations of a specific entity class click on an entity class node (in this case _stair_) (**Figure 3**). You can see an overview of the related annotations and relationships for this entity class. You can access the individual annotations by clicking on the **open image icon** (circled in **Figure 3**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node.
 
@@ -100,7 +98,7 @@ To see all annotations of a specific entity class click on an entity class node 
 **Figure 3.** Clicking on an Individual Entity Class to Select it
 
 
-### Image Nodes 
+## Image Nodes 
 
 If you want to see all entity classes and relationships annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **open image icon** (circled in **Figure 4**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node. 
 
@@ -114,6 +112,12 @@ To view and modify image metadata in the **Knowledge Graph** view, select an ima
 
 To deselect a node in order to explore other nodes, click any where outside the selection or close the right panel.
 
+## Subfolder Nodes 
+
+By clicking a subfolder node, you can view the total number of images in the folder and access its metadata. To navigate to the subfolder, click the **Open** button (outlined in blue). When you return to the Knowledge Graph page, the browser memory will retain the selected node. 
+ 
+![KG9](update-images/07_exploring-data-in-knowledge-graph_fig9.png)
+**Figure 9.** Selecting a Subfolder Node to View Its Metadata 
 
 
 
