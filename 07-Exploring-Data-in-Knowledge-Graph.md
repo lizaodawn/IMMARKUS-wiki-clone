@@ -2,41 +2,36 @@ The **Knowledge Graph** (**Figure 1**) organizes data from all sources (folders 
 
 # Default View 
 
-The default view shows all images (blue nodes) and entity classes (green nodes). To add subfolders as nodes to the default view see [Show Subfolders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-subfolders-as-nodes). You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
+## Nodes and Edges in the Graph
 
-Use the scroll wheel on your mouse to **zoom** into the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. You can also **expand** the graph to full screen by clicking on the expand button at the top right (circled in blue on **Figure 1**).
+The default view shows all images (blue nodes) and entity classes (green nodes). Edges between images and annotations are shown as blue lines, with the weight indicating the number of connections. Edges representing parent-child relationships between entity classes in your data model are shown as green dashed lines.
+
+To add subfolders as nodes to the default view, see [Show Subfolders as Nodes](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#show-subfolders-as-nodes). 
+
+Use the scroll wheel on your mouse to **zoom** in and out of the knowledge graph. To **pan** the graph across the screen, click on an empty space on the graph and drag your cursor across the screen. 
 
 ![KG1](update-images/07_exploring-data-in-knowledge-graph_fig1.png)
-**Figure 1.** Knowledge Graph 
+**Figure 1.** Default View of Knowledge Graph 
 
-# Nodes
-You can inspect individual nodes, move them, and pin them on the knowledge graph (**Figure 2**).  Click and drag a node to pin it on the knowledge graph. To unpin a node, click on the pin icon at the bottom of the screen (circled in blue). 
+When hovering over a node, related nodes and edges will be highlighted. If you hover over an annotation edge, a tooltip will display the number of annotations connected to the image the edge represents.
 
-![KG2](update-images/07_exploring-data-in-knowledge-graph_fig2.png)
-**Figure 2.** Pinning a Node (Tower) on the Knowledge Graph 
+## View Options and Controls
 
+* **Legend Panel**:  Displays a guide to what each node and edge represents in the graph.  
+    **Figure 2.** Legend Panel 
 
-## Entity Class Nodes 
+* **Full Screen Expander**: Click the **Expand** button to view the graph in full-screen mode.  
+    **Figure 3.** Toggle  Fullscreen
 
-To see all annotations of a specific entity class click on an entity class node (in this case _stair_) (**Figure 3**). You can see an overview of the related annotations and relationships for this entity class. You can access the individual annotations by clicking on the **open image icon** (circled in **Figure 3**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node.
+* **Graph Searcher**: Click the **magnify** icon to open the graph search dialog box and enter search conditions. See [Knowledge Graph Search](07-Exploring-Data-in-Knowledge-Graph#knowledge-graph-search) for more information about graph search and export.
+    **Figure 4** Graph Search
 
-![07-fig3](update-images/07_exploring-data-in-knowledge-graph_fig3.png)
-**Figure 3.** Clicking on an Individual Entity Class to Select it
+* **Settings**: You can also make changes to the default view using the buttons at the bottom right of the screen (see [Settings](https://github.com/rsimon/immarkus/wiki/07-Exploring-Data-in-Knowledge-Graph#settings)). 
+    **Figure 5** Settings
 
+* **Details Panel**: When clicking on a node, a panel will expand from the right, allowing you to navigate related annotations, images, relations, and metadata. You can also redirect to the image annotation mode from here.
+    **Figure 6** Details Panel
 
-## Image Nodes 
-
-If you want to see all entity classes and relationships annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **open image icon** (circled in **Figure 4**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node. 
-
-![KG4](update-images/07_exploring-data-in-knowledge-graph_fig4.png)
-**Figure 4.** Clicking on an Individual Image Node in the Knowledge Graph to Select it  
-
-To view and modify image metadata in the **Knowledge Graph** view, select an image node and click on the **Metadata** button (outlined in blue).  From here you can also select a predefined schema and fill out image metadata (**Figure 5**). 
-
-![KG5](update-images/07_exploring-data-in-knowledge-graph_fig5.png)
-**Figure 5.** Viewing and Modifying Image Metadata in the Knowledge Graph 
-
-To deselect a node in order to explore other nodes, click any where outside the selection or close the right panel.
 
 
 # Settings 
@@ -77,7 +72,39 @@ By clicking a subfolder node, you can view the total number of images in the fol
 ![KG10](update-images/07_exploring-data-in-knowledge-graph_fig10.png)
 **Figure 10.** Hiding Unconnected Nodes
 
-## Knowledge Graph Search 
+# Nodes
+You can inspect individual nodes, move them, and pin them on the knowledge graph (**Figure 2**).  Click and drag a node to pin it on the knowledge graph. To unpin a node, click on the pin icon at the bottom of the screen (circled in blue). 
+
+![KG2](update-images/07_exploring-data-in-knowledge-graph_fig2.png)
+**Figure 2.** Pinning a Node (Tower) on the Knowledge Graph 
+
+
+### Entity Class Nodes 
+
+To see all annotations of a specific entity class click on an entity class node (in this case _stair_) (**Figure 3**). You can see an overview of the related annotations and relationships for this entity class. You can access the individual annotations by clicking on the **open image icon** (circled in **Figure 3**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node.
+
+![07-fig3](update-images/07_exploring-data-in-knowledge-graph_fig3.png)
+**Figure 3.** Clicking on an Individual Entity Class to Select it
+
+
+### Image Nodes 
+
+If you want to see all entity classes and relationships annotated on an individual image, click on an image node (**Figure 4**). You can access the image by clicking on the **open image icon** (circled in **Figure 4**). IMMARKUS will then take you to the individual image in the [Image Gallery](https://github.com/rsimon/immarkus/wiki/03-The-Interface). When you return to the Knowledge Graph, the browser memory will have retained the selected view and node. 
+
+![KG4](update-images/07_exploring-data-in-knowledge-graph_fig4.png)
+**Figure 4.** Clicking on an Individual Image Node in the Knowledge Graph to Select it  
+
+To view and modify image metadata in the **Knowledge Graph** view, select an image node and click on the **Metadata** button (outlined in blue).  From here you can also select a predefined schema and fill out image metadata (**Figure 5**). 
+
+![KG5](update-images/07_exploring-data-in-knowledge-graph_fig5.png)
+**Figure 5.** Viewing and Modifying Image Metadata in the Knowledge Graph 
+
+To deselect a node in order to explore other nodes, click any where outside the selection or close the right panel.
+
+
+
+
+# Knowledge Graph Search 
 
 In **Graph Search** you can search and filter images in the current project according to metadata and/or properties; you can also export the results of your search.  
 
