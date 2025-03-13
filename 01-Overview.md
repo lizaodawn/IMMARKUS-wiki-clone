@@ -23,7 +23,7 @@ IMMARKUS provides a zoomable view to support annotating large images, and tools 
 
 IMMARKUS allows you to work with AI-powered smart object selection for automatic shape detection which you can manually refine and modify. Upcoming features will include irregular shape drawing, along with merge and subtract options!
 
-![01-fig3](update-images/01_overview_fig3.png)
+![01-fig3](update-images/01_overview_fig3.jpg)
 **Figure 3.** Selecting a Human Figure with the Smart Selection Tool in IMMARKUS
 
 * Read more about [Smart Selection Tools](05-Annotating-Images#🛠️-smart-selection-tools)
@@ -53,7 +53,7 @@ IMMARKUS includes a form-based editor for creating and managing your personal da
 
 * Read more about [Designing a Data Model](https://github.com/rsimon/immarkus/wiki/04-Designing-a-Data-Model)
 
-## Property Types
+## Property Type Options
 
 IMMARKUS offers a range of data types you can use to capture properties of different entity classes. Think of it as a personal "database builder" for your data model. The following seven data types are currently available:
 
@@ -63,7 +63,7 @@ IMMARKUS offers a range of data types you can use to capture properties of diffe
 - URI
 - Geo-coordinates
 - Measurement 
-- External Authority 
+- External Authority - Connect an entity class to external authority services (e.g., TGAZ, CBDB, Wikipedia) by linking their URIs.
 
 <img width="978" alt="Screenshot 2024-03-04 at 11 45 01" src="https://github.com/rsimon/immarkus/assets/160752064/996cd609-c1c3-4a96-b51c-f7ee376e3a7a">
 
